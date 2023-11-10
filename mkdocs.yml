@@ -1,0 +1,42 @@
+site_name: Maker Universe Docs
+repo_url: "https://github.com/makeruniverse/docs"
+edit_uri: edit/main/-/
+theme:
+  name: material
+  # logo: assets/logo.png
+  # favicon: assets/favicon.ico
+  features:
+    - content.action.edit
+    - content.action.view
+    - content.code.copy
+
+    - search.suggest
+    - search.highlight
+    - search.share
+
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.tabs.sticky
+    - toc.integrate
+  
+
+  palette:
+    scheme: slate
+    primary: orange
+    accent: red
+
+  icon:
+    edit: material/pencil 
+    view: material/eye
+    repo: fontawesome/brands/git-alt
+
+plugins:
+  - search
+  - offline
+
+markdown_extensions:
+  - attr_list
+  - admonition
