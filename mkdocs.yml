@@ -1,6 +1,6 @@
 site_name: Maker Universe Docs
 repo_url: "https://github.com/makeruniverse/docs"
-edit_uri: edit/main/-/
+edit_uri: edit/main/docs/
 theme:
   name: material
   logo: _assets/logo.png
