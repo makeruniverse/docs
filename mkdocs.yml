@@ -15,23 +15,48 @@ theme:
     - search.share
 
     - navigation.tracking
-    - navigation.tabs
+    # - navigation.tabs
     - navigation.sections
     - navigation.expand
     - navigation.path
-    - navigation.tabs.sticky
+    # - navigation.tabs.sticky
+    # - navigation.footer
     - toc.integrate
-  
+
+  font:
+    text: Open Sans
 
   palette:
-    scheme: slate
-    primary: orange
-    accent: red
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/lightbulb 
+        name: Switch to dark mode
+      primary: orange
+      accent: red
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to light mode
+      primary: orange
+      accent: red
 
   icon:
     edit: material/pencil 
     view: material/eye
     repo: fontawesome/brands/git-alt
+
+extra:
+  social:
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@hpi-makeruniverse
+    - icon: fontawesome/brands/slack 
+      link: https://hpi-makeruniverse.slack.com
+    - icon: fontawesome/brands/linkedin 
+      link: https://de.linkedin.com/company/makeruniverse
+    - icon: fontawesome/brands/instagram 
+      link: https://www.instagram.com/hpimakeruniverse
 
 plugins:
   - search
@@ -40,3 +65,12 @@ plugins:
 markdown_extensions:
   - attr_list
   - admonition
+
+nav:
+  - Home: 'index.md'
+  - 'Prototyping Studio':
+    - '3D-Printer':
+      - 'FAQ': './3D_Printing/FAQ.md'
+      - 'Issues': './3D_Printing/FEI.md'
+    -  'Label Printer': './Label_Printer/QL-820NWBc.md'
+    -  'Plotter': './Plotter/Canon-imagePROGRAF-TM-300.md'

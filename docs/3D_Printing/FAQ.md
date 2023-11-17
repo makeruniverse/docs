@@ -12,9 +12,6 @@ AUR: `orca-slicer`
 Or download follow the install instructions on the [GitHub page](https://github.com/SoftFever/OrcaSlicer#how-to-install).
 
 ## How do I connect OrcaSlicer to Creatly K1 with pure Klipper Firmware?
-
-![](../static/3dp/img/orca_klipper.png)
-
 You can get the IP address of your Creatly K1 by going to the printer menu and selecting `Settings` and then `Network`.
 Make sure your PC is connected to `hpi_studio` WiFi.
 Enter the IP Address like shown in the image above and click `Test`. If the test is successful you can click `Connect` and start printing. After slicing you can click `Print` to start printing.
