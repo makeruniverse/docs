@@ -76,3 +76,8 @@ nav:
     -  'Plotter': './Plotter/Canon-imagePROGRAF-TM-300.md'
   - 'UX Studio':
     - 'UX Software': './UX Studio/UX-Software.md'
+  - 'Superposition Studio':
+    - 'Tutorial': './Superposition Studio/Tutorial.md'
+  - 'Generative AI Studio':
+    - 'Software': './Generative AI Studio/Software.md'
+    - 'Studio Equipment': './Generative AI Studio/Studio Equipment.md'
