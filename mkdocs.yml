@@ -74,3 +74,5 @@ nav:
       - 'Issues': './3D_Printing/FEI.md'
     -  'Label Printer': './Label_Printer/QL-820NWBc.md'
     -  'Plotter': './Plotter/Canon-imagePROGRAF-TM-300.md'
+  - 'UX Studio':
+    - 'UX Software': './UX Studio/UX-Software.md'
