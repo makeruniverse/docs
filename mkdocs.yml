@@ -1,4 +1,4 @@
-site_name: Maker Universe Docs
+site_name: Maker Universe
 repo_url: "https://github.com/makeruniverse/docs"
 edit_uri: edit/main/docs/
 theme:
@@ -17,7 +17,7 @@ theme:
     - navigation.tracking
     # - navigation.tabs
     - navigation.sections
-    - navigation.expand
+    # navigation.expand
     - navigation.path
     # - navigation.tabs.sticky
     # - navigation.footer
@@ -67,7 +67,7 @@ markdown_extensions:
   - admonition
 
 nav:
-  - Home: 'index.md'
+  - 'Übersicht': 'index.md'
   - 'Prototyping Studio':
     - '3D-Printer':
       - 'FAQ': './3D_Printing/FAQ.md'
