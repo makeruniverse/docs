@@ -11,5 +11,5 @@ This device can print up to 62mm in width. If wider: You might change the orient
 ## Usage
 You can use the printer via WiFi but the easiest is via USB.
 Currently these settings are used:
-![](../Label_Printer/settings.png)
+![](../Label_Printer/img/settings.png)
 Design and print your label. You can also print multiple labels at once.
