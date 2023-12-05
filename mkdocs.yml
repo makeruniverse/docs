@@ -70,6 +70,7 @@ nav:
   - 'Übersicht': 'index.md'
   - 'Prototyping Studio':
     - '3D-Printer':
+      - 'Overview': './3D_Printing/Overview.md'
       - 'FAQ': './3D_Printing/FAQ.md'
       - 'Issues': './3D_Printing/FEI.md'
     -  'Label Printer': './Label_Printer/QL-820NWBc.md'
