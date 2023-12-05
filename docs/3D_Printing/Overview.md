@@ -11,7 +11,7 @@ To make use of all features use [Bambu Studio](https://bambulab.com/en/download/
 You can also use any other 3rd party slicer like [Cura](https://ultimaker.com/software/ultimaker-cura/) but Lidar & multi material printing won't work with these.
 
 ## Creality K1 max
-![creality K1 max](../3D Printing/img/creality_k1max.png)
+![Creality K1 max](../3D_Printing/img/creality_k1max.png)
 
 We have 2 Creality K1 max Printers with a build volume of 300 x 300 x 300 mm usually one of them is equipped with a 0.4mm nozzle and the other one with a 0.8mm nozzle.
 
