@@ -13,8 +13,10 @@ You can also use any other 3rd party slicer like [Cura](https://ultimaker.com/so
 ### printing checklist
 - [ ] import model in slicer
 - [ ] use "auto orient" to position model
-- [ ] select appropriate bed type (recommended for PLA & PET: textured PEI plate)
+- [ ] select matching bed type (recommended for PLA & PET: textured PEI plate)
 - [ ] check if model needs support structure, enable support if needed.
+- [ ] assign filament
+- [ ] print
 
 
 ## Creality K1 max
