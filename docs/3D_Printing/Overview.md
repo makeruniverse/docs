@@ -11,10 +11,10 @@ To make use of all features use [Bambu Studio](https://bambulab.com/en/download/
 You can also use any other 3rd party slicer like [Cura](https://ultimaker.com/software/ultimaker-cura/) but Lidar & multi material printing won't work with these.
 
 ### printing checklist
--[] import model in slicer
--[] use "auto orient" to position model
--[] select appropriate bed type (recommended for PLA & PET: textured PEI plate)
--[] check if model needs support structure, enable support if needed.
+- [ ] import model in slicer
+- [ ] use "auto orient" to position model
+- [ ] select appropriate bed type (recommended for PLA & PET: textured PEI plate)
+- [ ] check if model needs support structure, enable support if needed.
 
 
 ## Creality K1 max
