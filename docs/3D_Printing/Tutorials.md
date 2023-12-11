@@ -40,3 +40,10 @@ sliced SVG:
 
 - import in slicer and print
 ![SVG import](../3D_Printing/img/ai_6.png)
+
+### Creating Signs with Bambu Lab "MakeMySign" app
+
+- head over to makerworld and log in with the maker universe credentials (look them up on the bambulab printer)
+
+https://makerworld.com/en/makerlab/makeMySign
+![SVG import](../3D_Printing/img/makemysign.png)
