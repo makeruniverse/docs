@@ -48,3 +48,21 @@ sliced SVG:
 https://makerworld.com/en/makerlab/makeMySign
 
 ![Make my Sign](../3D_Printing/img/makemysign.png)
+
+### Trace with "shaper trace frame"
+
+- locate trace frame
+![trace frame](../3D_Printing/img/trace.jpeg)
+
+- open website from mobile: https://trace.shapertools.com/
+- login using the makeruniverse account
+![trace frame](../3D_Printing/img/trace1.PNG)
+
+- once the frame is registered take your image
+![trace frame](../3D_Printing/img/trace2.PNG)
+
+- edit if needed
+![trace frame](../3D_Printing/img/trace3.PNG)
+
+- download and send it by mail or use airdrop
+![trace frame](../3D_Printing/img/trace4.PNG)
