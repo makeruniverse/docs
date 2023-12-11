@@ -47,4 +47,4 @@ sliced SVG:
 
 https://makerworld.com/en/makerlab/makeMySign
 
-![SVG import](../3D_Printing/img/ makemysign.png)
+![SVG import](../3D_Printing/img/makemysign.png)
