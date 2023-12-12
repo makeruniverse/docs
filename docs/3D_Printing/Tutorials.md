@@ -55,7 +55,7 @@ https://makerworld.com/en/makerlab/makeMySign
 ![trace frame](../3D_Printing/img/trace.jpeg)
 
 - open website from mobile: https://trace.shapertools.com/
-- login using the makeruniverse account
+- login using the makeruniverse account (find credentials on back of the frame)
 ![trace frame](../3D_Printing/img/trace1.PNG)
 
 - once the frame is registered take your image
