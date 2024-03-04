@@ -68,6 +68,7 @@ markdown_extensions:
 
 nav:
   - 'Übersicht': 'index.md'
+  - 'Maker Blog': './blog/blog.md'
   - 'Prototyping Studio':
     - '3D-Printer':
       - 'Overview': './3D_Printing/Overview.md'
