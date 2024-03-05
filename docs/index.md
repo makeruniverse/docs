@@ -5,15 +5,8 @@ hide:
 
 # WELCOME TO THE MAKER UNIVERSE
 
-Find out more about our studios and how to use our tools.
+Our goal is to provide students and researchers with an experiential learning environment to explore and materialize ideas at the intersection of digital and physical.
 
-## Studios
-
-* `Prototyping Studio Large [K-E.04]` - Challenge our 3D printers, plot until you drop or use the Electronics Table.
-* `Prototyping Studio Small [K-E.05]` - Do you want to saw, drill, grind and do hard work? Then do it here!.
-* `Generative AI Studio [K-E.03]` - Explore the possibilities of generative AI, train your own AI or take advantage of the many coworking opportunities..
-* `UX Studio [K-E.02]` - Find out what others are saying about your projects or gather with your team on the superposition wall.
-* `Superposition Studio` - Connect 4 Computers to one large screen and work faster than ever.
 
 ## Wifi
 
