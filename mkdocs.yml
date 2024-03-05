@@ -75,7 +75,7 @@ nav:
       - 'FAQ': './Prototyping/FAQ.md'
       - 'Issues': './Prototyping/FEI.md'
       - 'Tutorials': './Prototyping/Tutorials.md'
-      -  'Plotter': './Plotter/Canon-imagePROGRAF-TM-300.md'
+  - 'Plotter': './Plotter/Canon-imagePROGRAF-TM-300.md'
   - 'UX Studio':
   - 'Superposition Studio':
     - 'Tutorial': './Superposition Studio/Tutorial.md'
