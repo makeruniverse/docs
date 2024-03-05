@@ -67,7 +67,7 @@ markdown_extensions:
   - admonition
 
 nav:
-  - 'Übersicht': 'index.md'
+  - 'Start': 'index.md'
   - 'Maker Blog': './blog/blog.md'
   - 'Prototyping Studio':
     - '3D-Printer':
@@ -78,9 +78,7 @@ nav:
     -  'Label Printer': './Label_Printer/QL-820NWBc.md'
     -  'Plotter': './Plotter/Canon-imagePROGRAF-TM-300.md'
   - 'UX Studio':
-    - 'UX Software': './UX Studio/UX-Software.md'
   - 'Superposition Studio':
     - 'Tutorial': './Superposition Studio/Tutorial.md'
   - 'Generative AI Studio':
-    - 'Software': './Generative AI Studio/Software.md'
     - 'Studio Equipment': './Generative AI Studio/Studio Equipment.md'
