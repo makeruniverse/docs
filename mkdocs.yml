@@ -71,11 +71,10 @@ nav:
   - 'Maker Blog': './blog/blog.md'
   - 'Prototyping Studio':
     - '3D-Printer':
-      - 'Overview': './Prototyping/Overview.md'
       - 'FAQ': './Prototyping/FAQ.md'
       - 'Issues': './Prototyping/FEI.md'
       - 'Tutorials': './Prototyping/Tutorials.md'
-  - 'Plotter': './Plotter/Canon-imagePROGRAF-TM-300.md'
+
   - 'UX Studio':
   - 'Superposition Studio':
     - 'Tutorial': './Superposition Studio/Tutorial.md'
