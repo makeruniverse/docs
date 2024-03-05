@@ -71,12 +71,11 @@ nav:
   - 'Maker Blog': './blog/blog.md'
   - 'Prototyping Studio':
     - '3D-Printer':
-      - 'Overview': './3D_Printing/Overview.md'
-      - 'FAQ': './3D_Printing/FAQ.md'
-      - 'Issues': './3D_Printing/FEI.md'
-      - 'Tutorials': './3D_Printing/Tutorials.md'
-    -  'Label Printer': './Label_Printer/QL-820NWBc.md'
-    -  'Plotter': './Plotter/Canon-imagePROGRAF-TM-300.md'
+      - 'Overview': './Prototyping/Overview.md'
+      - 'FAQ': './Prototyping/FAQ.md'
+      - 'Issues': './Prototyping/FEI.md'
+      - 'Tutorials': './Prototyping/Tutorials.md'
+      -  'Plotter': './Plotter/Canon-imagePROGRAF-TM-300.md'
   - 'UX Studio':
   - 'Superposition Studio':
     - 'Tutorial': './Superposition Studio/Tutorial.md'
