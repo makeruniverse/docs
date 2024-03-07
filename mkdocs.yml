@@ -75,6 +75,7 @@ nav:
       - 'Issues': './Prototyping/FEI.md'
       - 'Tutorials': './Prototyping/Tutorials.md'
   - 'UX Studio':
+    - 'Tutorial': './Superposition Studio/Tutorial.md'
   - 'Superposition Studio':
     - 'Tutorial': './Superposition Studio/Tutorial.md'
   - 'Generative AI Studio':
