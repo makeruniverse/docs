@@ -12,5 +12,3 @@ When I use the term “user research”, I am referring to the tools and methods
 In fact, it would be presumptuous to imply that we could even grasp human beings in their psychological and social complexity with these tools. We don’t explore what human beings and their underlying motives are. We explore their behavior as users.
 
 HR
-
-![](../blog/woman_user.png)
