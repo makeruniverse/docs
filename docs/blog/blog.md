@@ -1,5 +1,15 @@
 # Maker Blog
 
+## Running out of energy
+
+Angel investor Naval Ravikant once noted, “Startups don't die when they run out of cash; they die when the founders run out of energy.” I have always found this observation to be profoundly insightful, applicable to almost all sorts of projects.
+
+Our master's student, Nikita Sheshlyakin, knows a lot about energy-draining projects himself. Nikita is not just an experienced engineer. He also led various engineering teams in Russia and Germany over the years. Over time, he came to the realization that his approach to managing people didn’t always yield the best outcomes. "It's very draining; you lose a lot of energy trying to control everyone," he reflects. Nowawadays, Nikita, serves as a workshop coach for students at the HPI Maker Universe.  Instead of micro-managing all details, he now focuses on to "invest in people" in a manner that motivates them to "give back energy" of their own. 
+
+It all boils down to energy, in the end.
+
+HR
+
 ## User Research - and why I still refer to human beings as "users"
 "User-centered? Haven't we moved beyond that?" A design professor posed this question at one of public post about user interviews—not as an actual question but as a "feedback”. She implied that "we" now embrace the term "human-centered" in research and design, leaving "user-centered" in the past.
 
