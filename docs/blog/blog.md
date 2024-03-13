@@ -2,9 +2,11 @@
 
 ## Constraints in Projects
 
-A few years ago, I coached a design thinking team that tackled a challenge from a corporate client. The client knew their customers rarely shared enough feedback on their products, leading to low churn rates. Eventually, the team suggested an idea requiring a cultural shift within the organization, involving all teams and management.
+A few months ago, I saw a design thinking team presenting a solution to a corporate client. The client's design challenge was to get better customer feedback on their products. What the team suggested was a concept that would require the client to change the culture of the organization - involving almost all teams and management.
 
-Be open. Explore. Indeed, encouraging teams to discover novel solutions to known problems is essential, but constraints are still significant. Identify a version of your idea that can function within 24 hours, not 24 months. Boundaryless ideas often end up forgotten in lockers.
+The idea was not a result of exuberating creativity. It was just lazy.
+
+To be open and to explore novel solutions to known problems cannot be an excuse for concepts that are way too complex to execute. A better approach would be to find a solution that can be implemented in 24h, not 24 months.
 
 
 
