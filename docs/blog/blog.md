@@ -8,6 +8,7 @@ The idea was not a result of exuberating creativity. It was just lazy.
 
 To be open and to explore novel solutions to known problems cannot be an excuse for concepts that are way too complex to execute. A better approach would be to find a solution that can be implemented in 24h, not 24 months.
 
+HR
 
 
 ## Running out of energy
