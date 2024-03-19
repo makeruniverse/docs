@@ -1,5 +1,16 @@
 # Maker Blog
 
+## Projects and Startups
+
+Paul Graham's blog post is a strong reminder that the Googles and Facebooks did not start as startups but as team projects. A small group of individuals with a strong interest in solving a problem. Not with a certain business case in mind.
+
+How can we fix internet search? (Google in 1998)
+
+How can we make money out of AI (Random startups in 2024)
+
+HR
+
+
 ## Constraints in Projects
 
 A few months ago, I saw a design thinking team presenting a solution to a corporate client. The client's design challenge was to get better customer feedback on their products. What the team suggested was a concept that would require the client to change the culture of the organization - involving almost all teams and management.
