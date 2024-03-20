@@ -1,5 +1,20 @@
 # Maker Blog
 
+## Makers vs. Managers
+
+One of our students, Jay, is adept in various technologies like 3D modeling, printing, electronics, and woodworking. But my attempts to involve Jay more formally through employment or workshops were declined.
+
+Jay isn't unwilling to share knowledge; in fact, Jay and other makers help other students whenever they can. Yet, there seems to be a distinct discomfort among makers with committing to scheduled work.
+
+Paul Graham highlights this notion in the clash between a manager's and a maker's schedule. Managers' days are broken up by meetings, often planned by others. Makers, however, work through long, uninterrupted time periods: https://paulgraham.com/makersschedule.html
+
+Jay intuitively knows that meetings would disrupt any creative flow. This understanding aligns with managers who realize that their that squeezed-in "focus work" never results in creative outcomes.
+
+Acknowledging this, I stopped trying to engage Jay in structured activities.
+
+HR
+
+
 ## Projects and Startups
 
 Paul Graham's blog post is a strong reminder that the Googles and Facebooks did not start as startups but as team projects. A small group of individuals with a strong interest in solving a problem. Not with a certain business case in mind.
