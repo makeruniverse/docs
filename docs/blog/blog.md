@@ -2,7 +2,7 @@
 
 ## Makers vs. Managers
 
-One of our students, Jay, is adept in various technologies like 3D modeling, printing, electronics, and woodworking. But my attempts to involve Jay more formally through employment or workshops were declined.
+One of our students, Jay, is adept in various technologies like 3D modeling, printing, electronics, and woodworking. My attempts to involve Jay more formally through employment or workshops failed.
 
 Jay isn't unwilling to share knowledge; in fact, Jay and other makers help other students whenever they can. Yet, there seems to be a distinct discomfort among makers with committing to scheduled work.
 
@@ -17,7 +17,7 @@ HR
 
 ## Projects and Startups
 
-Paul Graham's blog post is a strong reminder that the Googles and Facebooks did not start as startups but as team projects. A small group of individuals with a strong interest in solving a problem. Not with a certain business case in mind.
+Paul Graham's blog post is a strong reminder that the Googles and Facebooks did not start as startups but as team projects. Small groups of individuals with a strong interest in solving a problem. Not with a certain business case in mind.
 
 How can we fix internet search? (Google in 1998)
 
