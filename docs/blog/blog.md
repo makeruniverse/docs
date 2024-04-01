@@ -1,5 +1,16 @@
 # Maker Blog
 
+## On Startups
+
+(1) Startups tend to fail. The few that don't are "fat tail events" (Nassim Taleb) that almost never happen, but when they do, they "concentrate all the returns" (Paul Graham).
+
+(2) The best ideas initially look bad - even extreme - to almost everyone (Alejandro Lecuna).
+
+(3) Extreme ideas are initially appreciated only by "extreme users". Therefore, innovations don't serve mass markets, but create new niches.
+
+HR
+
+
 ## Makers vs. Managers
 
 One of our students, Jay, is adept in various technologies like 3D modeling, printing, electronics, and woodworking. My attempts to involve Jay more formally through employment or workshops failed.
