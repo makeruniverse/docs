@@ -71,6 +71,10 @@ nav:
   - 'Maker Blog': './blog/blog.md'
   - 'Prototyping Studio':
     - '3D-Printer':
+      - 'Bambu X1C': './Prototyping/printers/bambu-x1c.md'
+      - 'Bambu A1 Mini': './Prototyping/printers/bambu-a1-mini.md'
+      - 'Prusa XL': './Prototyping/printers/prusa-xl.md'
+      - 'Creality K1': './Prototyping/printers/creality-k1.md'
       - 'FAQ': './Prototyping/FAQ.md'
       - 'Issues': './Prototyping/FEI.md'
       - 'Tutorials': './Prototyping/Tutorials.md'
