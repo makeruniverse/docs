@@ -5,15 +5,6 @@ hide:
 
 # WELCOME TO THE MAKER UNIVERSE
 
-Our goal is to provide students and researchers with an experiential learning environment to explore and materialize ideas at the intersection of digital and physical.
-
-
-## Wifi
-
-The Maker Universe has its own WiFi network, which is needed for the plotter and 3D printers, among other things.
-
-!!! WIFI-ACCESS
-    Name: hpi_studios
-
-    Passwort: salsa-concur-mutual
-
+Get to know our projects and the tools to make them real:
+[256 Pixels Project] (./projects/256-pixels-projects.md)
+Plant project
