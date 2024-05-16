@@ -68,8 +68,7 @@ markdown_extensions:
 
 nav:
   - 'Start': 'index.md'
-  - 'Maker Blog': './blog/blog.md'
-  - 'Prototyping Studio':
+  - 'Tools': './tools.md'
     - '3D-Printer':
       - 'Bambu X1C': './Prototyping/printers/bambu-x1c.md'
       - 'Bambu A1 Mini': './Prototyping/printers/bambu-a1-mini.md'
@@ -78,7 +77,3 @@ nav:
       - 'FAQ': './Prototyping/FAQ.md'
       - 'Issues': './Prototyping/FEI.md'
       - 'Tutorials': './Prototyping/Tutorials.md'
-  - 'Superposition Studio':
-    - 'Tutorial': './Superposition Studio/Tutorial.md'
-  - 'Generative AI Studio':
-    - 'Studio Equipment': './Generative AI Studio/Studio Equipment.md'
