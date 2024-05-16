@@ -15,7 +15,7 @@ Your best way to start your maker journey is by joining our guided tours that ta
 
 ## Guided Projects
 
-HPI Students created intruiging prototypes that you can re-build by following our guided tutorials - you can start anytime and at your own pace! Start with a small project and get to know the tools.  
+HPI Students created intruiging prototypes that you can re-build by following our guided tutorials - you can start anytime and at your own pace! Start with a small project.  
 
 [256 Pixels Project](./projects/256-pixels-project.md)
 
