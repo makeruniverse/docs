@@ -3,24 +3,24 @@ hide:
   - footer
 ---
 
-# WELCOME MAKERS!
+# Welcome Makers
 
 This is the place to learn more about the HPI Maker Universe
 
-## GETTING STARTED
+## Getting Started
 
 Get to know the Maker Universe in House K (Ground Floor) Guided tours, every Tuesday 10:00 - 10:30 AM.
 
-## PROJECTS BY STUDENTS AND FOR STUDENTS
+## By Students and For Students - Our Projects
 
 Our curated list of projects you can start anytime and at your own pace!
 
 [256 Pixels Project](./projects/256-pixels-project.md)
 
-## OUR MAKER TOOLS FOR YOU
+## Maker Tools
 
 The [tools](./tools/tools.md) and materials we offer to you.
 
-## THE COMMUNITY 
+## Community Channels
 
-See what the maker community is up to these days via Slack: hpi.enterprise.slack.com - HPI Maker Universe
+See what the HPI maker community is up to these days via Slack: hpi.enterprise.slack.com - HPI Maker Universe
