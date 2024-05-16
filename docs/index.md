@@ -13,7 +13,7 @@ The Spaces are open for all HPI students, researchers and employees. Our opening
 
 Your best way to start your maker journey is by joining our guided tours that take place every Tuesday 10:00AM in the Maker Universe in House K (Ground Floor). Grab a coffee and get to know the space with us!
 
-## Our Service to You: Guided Projects
+## Guided Projects
 
 HPI Students created intruiging prototypes that you can re-build by following our guided tutorials - you can start anytime and at your own pace! Start with a small project and get to know the tools.  
 
