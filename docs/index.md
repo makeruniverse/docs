@@ -3,7 +3,7 @@ hide:
   - footer
 ---
 
-# Your Maker Universe
+# Your HPI Maker Universe
 
 The HPI Maker Universe is a test space for new educational services and maker technologies that is in House K on the Ground Floor.
 
@@ -18,15 +18,20 @@ Your best way to start your maker journey is by joining our guided tours that ta
 HPI Students created intruiging prototypes that you can re-build by following our guided tutorials - you can start anytime and at your own pace! Start with a small project and get to know the tools.  
 
 [256 Pixels Project](./projects/256-pixels-project.md)
+
 [Smart Plants Project](./projects/smart-plants-project.md)
+
 [Aviation Project](./projects/aviation-project.md)
+
 [Phone Stand Project](./projects/phone-stand-project.md)
+
 [Split Keyboard Project](./projects/split-keyboard-project.md)
+
 [Nanoleaf++ Project](./projects/nanoleafplus-project.md)
 
 ## Maker Tools
 
-The [tools](./tools/tools.md) and materials we offer to you.
+The [tools](./tools/tools.md) we offer to you.
 
 ## Become Part of a Community
 
