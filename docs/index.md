@@ -18,11 +18,11 @@ Your best way to start your maker journey is by joining our guided tours that ta
 HPI Students created intruiging prototypes that you can re-build by following our guided tutorials - you can start anytime and at your own pace! Start with a small project and get to know the tools.  
 
 [256 Pixels Project](./projects/256-pixels-project.md)
-[Smart Plants Project]
-[Aviation Project]
-[IPhone Stand Project]
-[Split-Keyboard Project]
-[Nanoleaf++ Project]
+[Smart Plants Project](./projects/smart-plants-project.md)
+[Aviation Project](./projects/aviation-project.md)
+[Phone Stand Project](./projects/phone-stand-project.md)
+[Split Keyboard Project](./projects/split-keyboard-project.md)
+[Nanoleaf++ Project](./projects/nanoleafplus-project.md)
 
 ## Maker Tools
 
