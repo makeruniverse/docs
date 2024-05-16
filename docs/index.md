@@ -11,6 +11,6 @@ See what the maker community is up to these days via Slack: hpi.enterprise.slack
 
 Our curated list of prototypes you can build yourself. Start anytime!
 
-[256 Pixels Project](./projects/256-pixels-projects.md)
+[256 Pixels Project](./projects/256-pixels-project.md)
 
 The [tools](./tools/tools.md) and materials we offer to you.
