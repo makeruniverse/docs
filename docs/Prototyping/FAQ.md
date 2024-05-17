@@ -4,12 +4,16 @@
     Only use gluestick on printplates/beds which are __EXPLICITLY__ labeled. Using gluestick on other printplates/beds _will_ damage them. If something bad happens contact staff and grab isopropyl alcohol and clean the bed as soon as possible.
 
 ## What slicer should I use?
-To be compatible with all printers we strongly recommend using [OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
+We recommend [OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
 
-### How to install OrcaSlicer?
 Install with brew: `brew install orcaslicer`
 AUR: `orca-slicer`
-Or download follow the install instructions on the [GitHub page](https://github.com/SoftFever/OrcaSlicer#how-to-install).
+
+## How do I start a print?
+
+## How do I change filament?
+
+## How do I print with multiple filaments?
 
 ## How do I connect OrcaSlicer to Creatly K1 with pure Klipper Firmware?
 You can get the IP address of your Creatly K1 by going to the printer menu and selecting `Settings` and then `Network`.
