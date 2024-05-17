@@ -3,15 +3,11 @@ hide:
   - footer
 ---
 
-# Your HPI Maker Universe
-
-The HPI Maker Universe is a test space for new educational services and maker technologies that is in House K on the Ground Floor.
-
-The Spaces are open for all HPI students, researchers and employees. Our opening hours are Mondays to Fridays between 9:30 AM and 5:30 PM. Talk to us, if you need help makeruniverse@hpi.com
-
-## Getting Started
+# Getting Started
 
 The best way to start your maker journey is by joining our guided tours that take place every Tuesday 10:00AM in the Maker Universe in House K (Ground Floor). Grab a coffee and get to know the space with us!
+
+The Spaces are open for all HPI students, researchers and employees. Our opening hours are Mondays to Fridays between 9:30 AM and 5:30 PM. Talk to us, if you need help makeruniverse@hpi.com
 
 ## Guided Projects
 
@@ -33,6 +29,6 @@ HPI Students created intruiging prototypes that you can re-build by following ou
 
 The [tools](./tools/tools.md) we offer to you.
 
-## Become Part of the Community
+## Community
 
 Join our Slack Channel HPI Maker Universe and see what your peers are working on. You can find our channel in via hpi.enterprise.slack.com.
