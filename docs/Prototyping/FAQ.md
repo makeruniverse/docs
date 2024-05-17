@@ -1,7 +1,7 @@
 # Frequently Asked Questions
 
 !!! warning
-    Only use gluestick on printplates/beds which are __EXPLICITLY__ labled. Using gluestick on other printplates/beds _will_ damage them. If something bad happens contact staff and grab isopropyl alcohol and clean the bed as soon as possible.
+    Only use gluestick on printplates/beds which are __EXPLICITLY__ labeled. Using gluestick on other printplates/beds _will_ damage them. If something bad happens contact staff and grab isopropyl alcohol and clean the bed as soon as possible.
 
 ## What slicer should I use?
 To be compatible with all printers we strongly recommend using [OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)

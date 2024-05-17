@@ -33,6 +33,6 @@ HPI Students created intruiging prototypes that you can re-build by following ou
 
 The [tools](./tools/tools.md) we offer to you.
 
-## Become Part of a Community
+## Become Part of the Community
 
 Join our Slack Channel HPI Maker Universe and see what your peers are working on. You can find our channel in via hpi.enterprise.slack.com.
