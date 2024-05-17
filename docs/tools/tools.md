@@ -4,6 +4,6 @@
 
 Prusa XL
 
-[Laser Cutter](./laser-cutter.md)
+[Laser Cutter](./laser-cutter.md
 
 ## Software
