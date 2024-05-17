@@ -4,10 +4,28 @@
 
 ### Soldering Stations
 
-### Poster Printer/Plotter
+### Printer/Plotter
+
+### Label Printer
 
 ### [Laser Cutter](./laser-cutter.md)
 
-## AI Software
+### AI Software
 
-## Modeling Software
+### Modeling Software
+
+### Workbench
+
+### Microscope
+
+### Multimeter
+
+### Free Materials
+
+### UX Recording Station
+
+### Podcast Recording
+
+### Superpositon Team Space
+
+### Maker Meeting Space
