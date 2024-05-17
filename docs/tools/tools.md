@@ -1,9 +1,13 @@
 ## Maker Tools
 
-3D Printers
+### [3D Printers](./3d-printers.md)
 
-Prusa XL
+### Soldering Stations
 
-[Laser Cutter](./laser-cutter.md)
+### Poster Printer/Plotter
 
-## Software
+### [Laser Cutter](./laser-cutter.md)
+
+## AI Software
+
+## Modeling Software

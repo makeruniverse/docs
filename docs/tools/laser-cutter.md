@@ -1,7 +1,9 @@
 ## Location
 
-## Specs
+## Getting Started
 
-## Introduction
+Please contact our team to participate for a short introduction in the machine and the software. The succesful participation allows you to use the laser cutter afterwards.
 
-Please contact our team to participate in an 45 minute introduction in the machine and the software. Every Tuesday.
+## Specs and Firmware
+
+## FAQ
