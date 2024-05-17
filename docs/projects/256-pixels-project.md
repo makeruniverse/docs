@@ -4,7 +4,13 @@ In this project, you will build a RGB Pixel display running and based on [awtrix
 
 In the end you will finish your own version of the clock. You will receive a bag with all components you will need during the build. This text and some videos will tell and show you everything what you need to know. You will need 3D printers, the laser cutter and soldering.
 
+## Getting Started
+
+In the Maker Studio, in Shelve x, you can find "256 pixels" packages that contain all materials to start building your own display right away. Follow our tutorial and get support by our experts if you need one. 
+
 ## Introduction
+
+256 pixels is a LED screen in a case that you can ...
 
 ## Printing The Grid
 
@@ -16,6 +22,15 @@ In this video we will show you how to laser cut a frosted glass screen that cove
 
 ## Soldering Parts with the ESP
 
+In this video ...
+
 ## UI Configurations
 
+In this video ...
+
 ## Use Cases
+
+In this video ...
+
+## Credits
+
