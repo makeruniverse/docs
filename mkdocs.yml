@@ -3,8 +3,8 @@ repo_url: "https://github.com/makeruniverse/docs"
 edit_uri: edit/main/docs/
 theme:
   name: material
-  logo: _assets/logo.png
-  favicon: _assets/favicon.ico
+  logo: assets/logo.png
+  favicon: assets/favicon.ico
   features:
     - content.action.edit
     - content.action.view
