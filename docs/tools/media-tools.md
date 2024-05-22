@@ -1,6 +1,6 @@
 Podcasting, video recording, photo shootings, AI generation, visualizations, sound designs. The opportunities are vast.
 
-Visit our Media Studio in House K and get in contact with our Head of Media Studios to get support for your project [@markus.wutzlhofer](../team/team.md)
+Visit our Media Studio in House K and get in contact with our Head of Media Studios to get support for your project [@markus.wutzlhofer](../team/team.md/#markus-wutzlhofer)
 
 # Media Tools
 
