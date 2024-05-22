@@ -2,9 +2,13 @@ Podcasting, video recording, photo shootings, AI generation, visualizations, sou
 
 Visit our Media Studio in House K and get in contact with our Head of Media Studios to get support for your project [@markus.wutzlhofer](../team/team.md/#markus-wutzlhofer)
 
-# Media Tools
+# Media Workstations
 
-## AI Software
+Our Media Workstations are located in the Media Studio. They serve various use case to produce and edit media content.
+
+## Alien & Mac Workstation  
+
+Two powerful workstations give access to various AI software tools.
 
 ### Stable Diffusion
 
@@ -20,17 +24,19 @@ Visit our Media Studio in House K and get in contact with our Head of Media Stud
 
 ### Eleven Labs
 
+Above that, the workstations offer media editing software.
+
 ### Photoshop Retouche4me
 
 ### Izotope RX10
 
-## Modeling Software
+### Audio Software
+
+#### Ableton Live 11
+
+The worstations also allow to create models which can be printed or laser cut in the Maker Studio.
 
 ### Blender
-
-### Autodesk Fusion
-
-### Rhino
 
 ### Shaper Trace
 
@@ -40,22 +46,18 @@ Visit our Media Studio in House K and get in contact with our Head of Media Stud
 
 ### Kyub
 
-## Audio Software
+## Studio Workstation
 
-### Ableton Live 11
+Our Studio Workstation allows for professional photo and video shootings as well as podcast recordings.
 
-### Izotope RX10
+### Canon SLRT Photoshootings
+
+### Video Recordings
+
+### Podcasting
 
 ## UX Recording Workstation
 
-## Podcast Recording
+Our UX Recordings Workstation lets u record up to 3 4k camera streams simultaneously. Recordings are being saved locally.
 
-## Microscope
-
-## Multimeter
-
-## Workbench Tools
-
-## Free Materials
-
-## Superpositon Team Space
+Quick Guide:
