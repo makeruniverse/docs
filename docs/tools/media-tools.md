@@ -30,9 +30,7 @@ Above that, the workstations offer media editing software.
 
 ### Izotope RX10
 
-### Audio Software
-
-#### Ableton Live 11
+### Ableton Live 11
 
 The worstations also allow to create models which can be printed or laser cut in the Maker Studio.
 
@@ -60,4 +58,10 @@ Our Studio Workstation allows for professional photo and video shootings as well
 
 Our UX Recordings Workstation lets u record up to 3 4k camera streams simultaneously. Recordings are being saved locally.
 
-Quick Guide:
+Step by Step Guide:
+
+Use Cases:
+
+## Superposition Workstation
+
+Superposition allows teams up to 4 members to work in parallel using 4 75inch screens that either show all screens
