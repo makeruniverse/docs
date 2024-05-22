@@ -2,47 +2,55 @@ Make your ideas real! Visit our Maker Studio and learn how to laser cut, 3D prin
 
 Get started today and meet our [maker experts](../team/team.md) that will support you.
 
-# Maker Tools
+# Maker Studio Workstations
 
-## 3D Printers
+Workstations are our stationary computers with pre-installed software for free usage.
 
-Here is your quick way to get your 3D print:
+## Modeler Workstation
 
-### Prepare your Print with OrcaSlicer
-We recommend [OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
+The Modeler Workstation is our stationary computer in the Maker Studio that allows to create models, and to preapare various kinds of prints.
 
-Install with brew: `brew install orcaslicer`
-AUR: `orca-slicer`
+### Orca Slicer Software
 
-### Next Steps
+Orca Slicer is your best option to prepare 3D prints.
+
 - [ ] import model in OrcaSlicer
 - [ ] use "auto orient" to position model
 - [ ] select textured PEI plate for PLA
 - [ ] check if model needs support structure
 - [ ] assign filament
-- [ ] print on one of our 7 printers
-- [ ] mark printer with your name so that our team knows who to contact if needed
+- [ ] print on one of our printers
+- [ ] tag printer with your name
 
-### Load Filament
+You are of course free to downloard OrcaSlicer on your computer to prepare your print from there.
 
-Your input is needed here.
+https://github.com/SoftFever/OrcaSlicer
 
-### Print with multiple Filaments
+Install with brew: `brew install orcaslicer`
+AUR: `orca-slicer`
 
-Your input is needed here.
+### Autodesk Fusion
 
-### Printing with Vector Files
-It's possible to import SVG files into the slicing software, give them a thickness (extrude) and 3d print them.
-This works in Pruse SLicer, Orca Slicer & Bambu Studio.
+### Printer/Plotter
 
-Import your SVG file, the printer will directly show an extruded version with a height of 10mm.
-For creating small signs set Z-height to 2mm (uncheck uniform scale) and adjust XY scale as needed.
+### Label Printer QL-820NWBc
 
-![SVG import](../Prototyping/img/svg_orca.png)
+#### Getting Started
+This device can print up to 62mm in width. If wider: You might change the orientation of the label in the software to fit the label on the printer.
 
-sliced SVG:
+You can use the printer via Wi-Fi (hpi-studios) and via USB.
 
-![SVG import](../Prototyping/img/sliced_svg.png)
+Currently these settings are used:
+![](../Label_Printer/img/settings.png)
+Design and print your label. You can also print multiple labels at once.
+
+#### Software
+Download the Software
+MacOS: https://apps.apple.com/de/app/brother-p-touch-editor/id1453365242?mt=12
+Windows: https://support.brother.com/g/s/es/inst/de/index.htm?c=de&lang=de&navi=off&comple=on&redirect=on
+
+
+## 3D Printers
 
 ### Bambu A1 Mini (2x)
 
@@ -84,30 +92,39 @@ Select `Settings` and then `Network`. Then enter the IP Address in your browser.
 
 Use Prusa XL when you print large objects and / or objects with multiple filament types.
 
-## Soldering Stations
+#### Printing with Vector Files
+It's possible to import SVG files into the slicing software, give them a thickness (extrude) and 3d print them.
+This works in Pruse SLicer, Orca Slicer & Bambu Studio.
 
-We have 6 soldering stations you can use after a mandatory introduction.
+Import your SVG file, the printer will directly show an extruded version with a height of 10mm.
+For creating small signs set Z-height to 2mm (uncheck uniform scale) and adjust XY scale as needed.
 
-## Printer/Plotter
+![SVG import#](../Prototyping/img/svg_orca.png)
 
-## Label Printer QL-820NWBc
+sliced SVG:
 
-### Getting Started
-This device can print up to 62mm in width. If wider: You might change the orientation of the label in the software to fit the label on the printer.
+![SVG import](../Prototyping/img/sliced_svg.png)
 
-You can use the printer via Wi-Fi (hpi-studios) and via USB.
+## Laser Cutter Workstation
 
-Currently these settings are used:
-![](../Label_Printer/img/settings.png)
-Design and print your label. You can also print multiple labels at once.
-
-### Software
-Download the Software
-MacOS: https://apps.apple.com/de/app/brother-p-touch-editor/id1453365242?mt=12
-Windows: https://support.brother.com/g/s/es/inst/de/index.htm?c=de&lang=de&navi=off&comple=on&redirect=on
-
-## Laser Cutter Trotec
+The Laser Cutter Workstation is located in the small Maker Studio next to the Trotec Laser Cutter.
 
 ### Getting Started
 
 Please contact our team to participate for a mandatory introduction in the machine and the software. The succesful participation allows you to use the laser cutter afterwards.
+
+### Ruby Software
+
+...
+
+## Electronic Workstation
+
+The Electronic Workstation is located in the Maker Studio. It offers various tools to measure and solder electronic parts.
+
+### Soldering Stations
+
+We have 6 soldering stations you can use after a mandatory introduction.
+
+### Multimeter
+
+### Microscope
