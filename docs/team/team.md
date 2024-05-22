@@ -2,15 +2,38 @@
 
 Our team of experts is here to help you. Please send you requests via Slack @contact-our-team
 
+## Holger Rhinow
+
+### Working Hours
+
+Weekdays
+
+### Services 
+
+- [Project Planning](../projects/projects.md)
+- Strategic Partnerships
+- Communication
+
 ## David Bizer
 
 ### Working Hours
 
-Every Tuesday 10:00 AM - 5:00 PM
+Tuesdays
 
 ### Services
 
-- 3D Slicing, e.g. with [Orca Slicer](../tools/maker-tools.md/#download-orcaslicer)
 - 3D Printing, e.g. with Bambu X1, Bambu A1, Creality K1, Prusa XL
 - 3D Modeling with Rhino 3D and Autodesk
 - Laser Cutting with [Trotec](../tools/tools.md)
+
+## Markus Wutzlhofer
+
+### Working Hours
+
+Mondays - Thursdays
+
+### Services
+
+- [Media Tool](../tools/media-tools.md) Introductions
+- Media Coverage of Maker Projects
+- AI & Design Consulting

@@ -1,6 +1,6 @@
 Hey Makers. 
 
-Talk to our Head of Maker Universe [@holger.rhinow](../team/team.md) about your project ideas! 
+Talk to our Head of Maker Universe [@holger.rhinow](../team/team.md/#holger-rhinow) about your project ideas! 
 
 Not only do we support you on your journey, but we are also turning your project into video tutorials. That way, future students can re-build your ideas:
 

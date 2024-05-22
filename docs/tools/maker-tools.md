@@ -14,17 +14,22 @@ We recommend [OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
 Install with brew: `brew install orcaslicer`
 AUR: `orca-slicer`
 
-#### Use the Orca Slicer
+#### Next Steps
 - [ ] import model in OrcaSlicer
 - [ ] use "auto orient" to position model
 - [ ] select textured PEI plate for PLA
 - [ ] check if model needs support structure
 - [ ] assign filament
-- [ ] print
+- [ ] print on one of our 7 printers
+- [ ] mark printer with your name so that our team knows who to contact if needed
 
 #### Load Filament
 
+Your input is needed here.
+
 #### Print with multiple Filaments
+
+Your input is needed here.
 
 #### 3d printing with Vector Files
 It's possible to import SVG files into the slicing software, give them a thickness (extrude) and 3d print them.
