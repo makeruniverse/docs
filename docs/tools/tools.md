@@ -137,7 +137,13 @@ Please contact our team to participate for a mandatory introduction in the machi
 
 ### Kyub
 
-## UX Recording Station
+## Audio Software
+
+### Ableton Live 11
+
+### Izotope RX10
+
+## UX Recording Workstation
 
 ## Podcast Recording
 
