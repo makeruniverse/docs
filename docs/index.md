@@ -9,15 +9,15 @@ The best way to start your maker journey is by joining our guided tours that tak
 
 The Spaces are open for all HPI students, researchers and employees. Our opening hours are Mondays to Fridays between 9:30 AM and 5:30 PM. Talk to us, if you need help makeruniverse@hpi.com
 
-## Project Partnering
+## Project Support
 
 We support HPI students and guest students in realizing their [projects](./projects/projects.md). These can be Bachelor, Master and also individual projects at the intersection of software and hardware. We support by giving access to tools and to experts advice.
 
 Our further goal is to document intruiging projects as tutorials for future students.
 
-## Maker Tools
+## Tools
 
-The [tools](./tools/tools.md) we offer to you.
+We offer access to maker and media [tools](./tools/tools.md) as well as to experts.
 
 ## Community
 
