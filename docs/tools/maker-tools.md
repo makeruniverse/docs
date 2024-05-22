@@ -6,7 +6,7 @@ Get started today and meet our [maker experts](../team/team.md) that will suppor
 
 ## 3D Printers
 
-Getting Started 
+Here is your quick way to get your 3D print:
 
 ### Prepare your Print with OrcaSlicer
 We recommend [OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
