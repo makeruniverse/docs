@@ -18,7 +18,7 @@ In this video we will guide you in using Orca Slicer to prepare the STL model of
 
 ## Laser Cutting the Front
 
-In this video we will show you how to laser cut a frosted glass screen that covers the 256 LED lights of your prototype. Using the Laser Cutter requires you to participate in a [introduction into our laser cutter](../tools/laser-cutter.md) at our Maker Universe.
+In this video we will show you how to laser cut a frosted glass screen that covers the 256 LED lights of your prototype. Using the Laser Cutter requires you to participate in a [introduction into our laser cutter](../tools/laser-cutter/laser-cutter.md) at our Maker Universe.
 
 ## Soldering Parts with the ESP
 
