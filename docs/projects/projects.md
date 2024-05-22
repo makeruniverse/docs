@@ -1,6 +1,6 @@
-Feel free to talk to us about your project ideas and how we can support you.
+Hey Makers. 
 
-You have access to all of our tools, as well as our experts that can guide you making your ideas real. Above that we video document projects and develop tutorials for future students to re-build interesting ideas, such as:
+Talk to us about your project ideas! Not only do we support you on your journey, but we are also turning your project into video tutorials so that future students can re-build your ideas:
 
 [256 Pixels Project by Luca](./projects/256-pixels-project.md)
 
