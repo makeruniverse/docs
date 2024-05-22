@@ -14,7 +14,7 @@ In the Maker Studio, in Shelve x, you can find "256 pixels" packages that contai
 
 ## Printing The Grid
 
-In this video we will guide you in using Orca Slicer to prepare the STL model of the case for the Bambu X1 printer in our Maker Studio. 
+In this video we will guide you in using [Orca Slicer](/docs/tools/maker-tools.md/#getting-started) to prepare the STL model of the case for the Bambu X1 printer in our Maker Studio. 
 
 ## Laser Cutting the Front
 

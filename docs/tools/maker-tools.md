@@ -6,15 +6,15 @@ Get started today and meet our [maker experts](../team/team.md) that will suppor
 
 ## 3D Printers
 
-### Getting Started
+Getting Started 
 
-#### Prepare your Print with OrcaSlicer
+### Prepare your Print with OrcaSlicer
 We recommend [OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
 
 Install with brew: `brew install orcaslicer`
 AUR: `orca-slicer`
 
-#### Next Steps
+### Next Steps
 - [ ] import model in OrcaSlicer
 - [ ] use "auto orient" to position model
 - [ ] select textured PEI plate for PLA
@@ -23,15 +23,15 @@ AUR: `orca-slicer`
 - [ ] print on one of our 7 printers
 - [ ] mark printer with your name so that our team knows who to contact if needed
 
-#### Load Filament
+### Load Filament
 
 Your input is needed here.
 
-#### Print with multiple Filaments
+### Print with multiple Filaments
 
 Your input is needed here.
 
-#### 3d printing with Vector Files
+### Printing with Vector Files
 It's possible to import SVG files into the slicing software, give them a thickness (extrude) and 3d print them.
 This works in Pruse SLicer, Orca Slicer & Bambu Studio.
 
