@@ -9,21 +9,9 @@ The best way to start your maker journey is by joining our guided tours that tak
 
 The Spaces are open for all HPI students, researchers and employees. Our opening hours are Mondays to Fridays between 9:30 AM and 5:30 PM. Talk to us, if you need help makeruniverse@hpi.com
 
-## Guided Projects
+## Project Partnering
 
-HPI Students created intruiging prototypes that you can re-build by following our guided tutorials - you can start anytime and at your own pace! Start with a small project.  
-
-[256 Pixels Project by Luca](./projects/256-pixels-project.md)
-
-[Smart Plants Project by Florian](./projects/smart-plants-project.md)
-
-[Aviation Project by Nikita](./projects/aviation-project.md)
-
-[Phone Stand Project by Markus](./projects/phone-stand-project.md)
-
-[Split Keyboard Project by Antonius](./projects/split-keyboard-project.md)
-
-[Nanoleaf++ Project by Yannik & Alexander](./projects/nanoleafplus-project.md)
+We support HPI students and guest students in realizing their Bachelor and Master projects as well as their individual projects at the intersection of software and hardware. We offer tools, expert advice, and project documentation.
 
 ## Maker Tools
 
