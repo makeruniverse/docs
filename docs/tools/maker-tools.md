@@ -1,6 +1,6 @@
 Make your ideas real! Visit our Maker Studio and learn how to laser cut, 3D print, solder, use sensors, glue, drill. It is all available at our Maker Studio in House K.
 
-Get started today and meet our maker experts that will support you.
+Get started today and meet our [maker experts](../team/team.md) that will support you.
 
 # Maker Tools
 
