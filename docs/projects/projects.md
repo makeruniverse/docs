@@ -1,6 +1,8 @@
 Hey Makers. 
 
-Talk to us about your project ideas! Not only do we support you on your journey, but we are also turning your project into video tutorials so that future students can re-build your ideas:
+Talk to our Head of Maker Universe [@holger.rhinow](../team/team.md) about your project ideas! 
+
+Not only do we support you on your journey, but we are also turning your project into video tutorials. That way, future students can re-build your ideas:
 
 [256 Pixels Project by Luca](./projects/256-pixels-project.md)
 

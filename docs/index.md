@@ -17,7 +17,7 @@ Our further goal is to document intruiging projects as tutorials for future stud
 
 ## Tools
 
-We offer access to maker and media [tools](./tools/tools.md) as well as to experts.
+We offer access to [maker tools](./tools/maker-tools.md) and [media.tools](./tools/media-tools.md) as well as to [experts](./team/team.md)).
 
 ## Community
 
