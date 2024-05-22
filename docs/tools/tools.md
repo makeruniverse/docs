@@ -1,31 +1,93 @@
-## Maker Tools
+# Maker Tools
 
-### [3D Printers](./3d-printers.md)
+## 3D Printers
 
-### Soldering Stations
+### Getting Started
 
-### Printer/Plotter
+#### Download OrcaSlice
+We recommend [OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
 
-### Label Printer
+Install with brew: `brew install orcaslicer`
+AUR: `orca-slicer`
 
-### [Laser Cutter](./laser-cutter.md)
+#### Load Filament
 
-### AI Software
+#### Print with multiple Filaments
 
-### Modeling Software
 
-### Workbench
+### Bambu a1 Mini (2x)
 
-### Microscope
+Use Bambu a1 Mini when you print small objects with a single filament.
 
-### Multimeter
+### Bambu X1 (2x)
 
-### Free Materials
+Use Bambu X1x when you print larger objects or objects with up to four different types or filaments.
 
-### UX Recording Station
+#### PLA Warping on Bamboo Carbon X1
 
-### Podcast Recording
+The Bamboo has a Snakehouse Fan Duct, which is a bit too close to the bed, on the left of the enclosure. If thin/fragile parts are located on the left side of the bed, near to the edge, they might warp due to the fan blowing on it. If that happens disable the AUX Fan and print with open enclosure. ![OrcaSlicer AUX Fan Settings](../3D_Printing/img/auxfan-orca.png)
+This might also apply for other printers with a similar fan duct.
 
-### Superpositon Team Space
+### Creality K1 (2x)
 
-### Maker Meeting Space
+## How do I connect OrcaSlicer to Creatly K1 with pure Klipper Firmware?
+You can get the IP address of your Creatly K1 by going to the printer menu and selecting `Settings` and then `Network`.
+Make sure your PC is connected to `hpi_studio` WiFi.
+Enter the IP Address like shown in the image above and click `Test`. If the test is successful you can click `Connect` and start printing. After slicing you can click `Print` to start printing.
+
+## Where can I find the web Interface of the Creatly K1s?
+Make sure your PS is connected to `hpi_studio` WiFi.
+Select `Settings` and then `Network`. Then enter the IP Address in your browser. Make sure to append `4408` as port. Example: ![http://172.22.0.254:4408](http://172.22.0.254:4408)
+
+### Prusa XL
+
+Use Prusa XL when you print large objects and / or objects with multiple filament types.
+
+## Soldering Stations
+
+## Printer/Plotter
+
+## Label Printer QL-820NWBc
+
+### Software
+Download the Software
+MacOS: https://apps.apple.com/de/app/brother-p-touch-editor/id1453365242?mt=12
+Windows: https://support.brother.com/g/s/es/inst/de/index.htm?c=de&lang=de&navi=off&comple=on&redirect=on
+Linux: Sorry, if WINE work, please create a pull request with the instructions.
+
+### Usage
+This device can print up to 62mm in width. If wider: You might change the orientation of the label in the software to fit the label on the printer.
+
+You can use the printer via WiFi but the easiest is via USB.
+Currently these settings are used:
+![](../Label_Printer/img/settings.png)
+Design and print your label. You can also print multiple labels at once.
+
+
+## Laser Cutter Trotec
+
+### Getting Started
+
+Please contact our team to participate for a short introduction in the machine and the software. The succesful participation allows you to use the laser cutter afterwards.
+
+### Specs and Firmware
+
+### FAQ
+
+## AI Software
+
+## Modeling Software
+
+## Workbench
+
+## Microscope
+
+## Multimeter
+
+## Free Materials
+
+## UX Recording Station
+
+## Podcast Recording
+
+## Superpositon Team Space
