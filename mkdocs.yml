@@ -15,11 +15,11 @@ theme:
     - search.share
 
     - navigation.tracking
-    # - navigation.tabs
+    - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
     # navigation.expand
     - navigation.path
-    # - navigation.tabs.sticky
     # - navigation.footer
     - toc.integrate
 
