@@ -1,1 +1,0 @@
-Learn how build a self-watering plant.
