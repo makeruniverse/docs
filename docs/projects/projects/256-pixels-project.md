@@ -14,11 +14,11 @@ In the Maker Studio, in Shelve x, you can find "256 pixels" packages that contai
 
 ## Printing The Grid
 
-In this video we will guide you in using [Orca Slicer](/docs/tools/maker-tools.md/#getting-started) to prepare the STL model of the case for the Bambu X1 printer in our Maker Studio. 
+In this video we will guide you in using [Orca Slicer](/docs/tools/maker-tools.md/#getting-started) to prepare the STL model of the case for the [Bambu X1 printer](/docs/tools/maker-tools.md/#bambu-x1-2x) in our Maker Studio. 
 
 ## Laser Cutting the Front
 
-In this video we will show you how to laser cut a frosted glass screen that covers the 256 LED lights of your prototype. Using the Laser Cutter requires you to participate in a laser cutter introduction at our Maker Universe.
+In this video we will show you how to laser cut a frosted glass screen that covers the 256 LED lights of your prototype. Using the [Laser Cutter](/docs/tools/maker-tools.md/#laser-cutter-trotec) requires you to participate in a laser cutter introduction at our Maker Universe.
 
 ## Soldering Parts with the ESP
 
