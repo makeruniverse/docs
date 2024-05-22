@@ -24,7 +24,7 @@ Tuesdays
 
 - 3D Printing, e.g. with Bambu X1, Bambu A1, Creality K1, Prusa XL
 - 3D Modeling with Rhino 3D and Autodesk
-- Laser Cutting with [Trotec](../tools/tools.md)
+- Laser Cutting with [Trotec](../tools/maker-tools.md/#laser-cutter-trotec)
 
 ## Markus Wutzlhofer
 

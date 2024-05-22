@@ -2,7 +2,7 @@
 
 ## On Startups
 
-(1) Startups tend to fail. The few that don't are "fat tail events" (Nassim Taleb) that almost never happen, but when they do, they "concentrate all the returns" (Paul Graham).
+(1) Startups tend to fail. The few that don't are "fat tail events" (Nassim Taleb). They almost never happen, but when they do, they "concentrate all the returns" (Paul Graham).
 
 (2) The best ideas initially look bad - even extreme - to almost everyone (Alejandro Lecuna).
 
