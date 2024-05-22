@@ -1,5 +1,7 @@
 # Our Team
 
+Our team of experts is here to help you. Please send you requests via Slack @contact-our-team
+
 ## David Bizer
 
 ### Working Hours
