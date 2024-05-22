@@ -11,7 +11,9 @@ The Spaces are open for all HPI students, researchers and employees. Our opening
 
 ## Project Partnering
 
-We support HPI students and guest students in realizing their Bachelor and Master projects as well as their individual projects at the intersection of software and hardware. We offer tools, expert advice, and project documentation.
+We support HPI students and guest students in realizing their [projects](./projects/projects.md). These can be Bachelor, Master and also individual projects at the intersection of software and hardware. We support by giving access to tools and to experts advice.
+
+Our further goal is to document intruiging projects as tutorials for future students.
 
 ## Maker Tools
 
