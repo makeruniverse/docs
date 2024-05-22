@@ -4,18 +4,38 @@
 
 ### Getting Started
 
-#### Download OrcaSlice
+#### Download OrcaSlicer
 We recommend [OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
 
 Install with brew: `brew install orcaslicer`
 AUR: `orca-slicer`
 
+#### Use the Orca Slicer
+- [ ] import model in OrcaSlicer
+- [ ] use "auto orient" to position model
+- [ ] select textured PEI plate for PLA
+- [ ] check if model needs support structure
+- [ ] assign filament
+- [ ] print
+
 #### Load Filament
 
 #### Print with multiple Filaments
 
+#### 3d printing with Vector Files
+It's possible to import SVG files into the slicing software, give them a thickness (extrude) and 3d print them.
+This works in Pruse SLicer, Orca Slicer & Bambu Studio.
 
-### Bambu a1 Mini (2x)
+Import your SVG file, the printer will directly show an extruded version with a height of 10mm.
+For creating small signs set Z-height to 2mm (uncheck uniform scale) and adjust XY scale as needed.
+
+![SVG import](../Prototyping/img/svg_orca.png)
+
+sliced SVG:
+
+![SVG import](../Prototyping/img/sliced_svg.png)
+
+### Bambu A1 Mini (2x)
 
 Use Bambu a1 Mini when you print small objects with a single filament.
 
@@ -23,12 +43,24 @@ Use Bambu a1 Mini when you print small objects with a single filament.
 
 Use Bambu X1x when you print larger objects or objects with up to four different types or filaments.
 
-#### PLA Warping on Bamboo Carbon X1
+The Bambu Lab X1c has a build volume of 256 x 256 x 265 mm and usually uses a 0.4mm nozzle.
 
-The Bamboo has a Snakehouse Fan Duct, which is a bit too close to the bed, on the left of the enclosure. If thin/fragile parts are located on the left side of the bed, near to the edge, they might warp due to the fan blowing on it. If that happens disable the AUX Fan and print with open enclosure. ![OrcaSlicer AUX Fan Settings](../3D_Printing/img/auxfan-orca.png)
+#### PLA Warping on Bambu X1
+
+The Bambu has a Snakehouse Fan Duct, which is a bit too close to the bed, on the left of the enclosure. If thin/fragile parts are located on the left side of the bed, near to the edge, they might warp due to the fan blowing on it. If that happens disable the AUX Fan and print with open enclosure. ![OrcaSlicer AUX Fan Settings](../3D_Printing/img/auxfan-orca.png)
 This might also apply for other printers with a similar fan duct.
 
 ### Creality K1 (2x)
+
+Use Creality K1 when you print large objects.
+
+Creality K1 has a build volume of 300 x 300 x 300 mm usually one of them is equipped with a 0.4mm nozzle and the other one with a 0.8mm nozzle.
+
+The Creality printers use Klipper firmware [Official Documentation] (https://www.klipper3d.org/Overview.html)
+You can access the printers via webinterface.
+IP left printer (0.8 nozzle): https://172.22.0.254:4408 
+IP right printer (0.4 nozzle) https://172.22.3.249:4408
+
 
 ## How do I connect OrcaSlicer to Creatly K1 with pure Klipper Firmware?
 You can get the IP address of your Creatly K1 by going to the printer menu and selecting `Settings` and then `Network`.
