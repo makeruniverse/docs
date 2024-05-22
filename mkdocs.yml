@@ -68,5 +68,5 @@ markdown_extensions:
 
 nav:
   - 'Home': 'index.md'
-  - 'Tools': './tools/_tools.md'
-  - 'Projects': './projects/_projects.md'
+  - 'Tools': './tools/tools.md'
+  - 'Projects': './projects/projects.md'
