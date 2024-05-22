@@ -8,7 +8,7 @@ Get started today and meet our [maker experts](../team/team.md) that will suppor
 
 ### Getting Started
 
-#### Download OrcaSlicer
+#### Prepare your Print with OrcaSlicer
 We recommend [OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
 
 Install with brew: `brew install orcaslicer`
