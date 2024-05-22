@@ -100,7 +100,7 @@ Design and print your label. You can also print multiple labels at once.
 
 ## Getting Started
 
-Please contact our team to participate for a short introduction in the machine and the software. The succesful participation allows you to use the laser cutter afterwards.
+Please contact our team to participate for a mandatory introduction in the machine and the software. The succesful participation allows you to use the laser cutter afterwards.
 
 ## Specs and Firmware
 
