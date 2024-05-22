@@ -1,16 +1,14 @@
-# Maker Tools
+# 3D Printers
 
-## 3D Printers
+## Getting Started
 
-### Getting Started
-
-#### Download OrcaSlicer
+### Download OrcaSlicer
 We recommend [OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
 
 Install with brew: `brew install orcaslicer`
 AUR: `orca-slicer`
 
-#### Use the Orca Slicer
+### Use the Orca Slicer
 - [ ] import model in OrcaSlicer
 - [ ] use "auto orient" to position model
 - [ ] select textured PEI plate for PLA
@@ -18,11 +16,11 @@ AUR: `orca-slicer`
 - [ ] assign filament
 - [ ] print
 
-#### Load Filament
+### Load Filament
 
-#### Print with multiple Filaments
+### Print with multiple Filaments
 
-#### 3d printing with Vector Files
+### 3d printing with Vector Files
 It's possible to import SVG files into the slicing software, give them a thickness (extrude) and 3d print them.
 This works in Pruse SLicer, Orca Slicer & Bambu Studio.
 
@@ -35,22 +33,22 @@ sliced SVG:
 
 ![SVG import](../Prototyping/img/sliced_svg.png)
 
-### Bambu A1 Mini (2x)
+## Bambu A1 Mini (2x)
 
 Use Bambu a1 Mini when you print small objects with a single filament.
 
-### Bambu X1 (2x)
+## Bambu X1 (2x)
 
 Use Bambu X1x when you print larger objects or objects with up to four different types or filaments.
 
 The Bambu Lab X1c has a build volume of 256 x 256 x 265 mm and usually uses a 0.4mm nozzle.
 
-#### PLA Warping on Bambu X1
+### PLA Warping on Bambu X1
 
 The Bambu has a Snakehouse Fan Duct, which is a bit too close to the bed, on the left of the enclosure. If thin/fragile parts are located on the left side of the bed, near to the edge, they might warp due to the fan blowing on it. If that happens disable the AUX Fan and print with open enclosure. ![OrcaSlicer AUX Fan Settings](../3D_Printing/img/auxfan-orca.png)
 This might also apply for other printers with a similar fan duct.
 
-### Creality K1 (2x)
+## Creality K1 (2x)
 
 Use Creality K1 when you print large objects.
 
@@ -62,32 +60,34 @@ IP left printer (0.8 nozzle): https://172.22.0.254:4408
 IP right printer (0.4 nozzle) https://172.22.3.249:4408
 
 
-## How do I connect OrcaSlicer to Creatly K1 with pure Klipper Firmware?
+### How do I connect OrcaSlicer to Creatly K1 with pure Klipper Firmware?
 You can get the IP address of your Creatly K1 by going to the printer menu and selecting `Settings` and then `Network`.
 Make sure your PC is connected to `hpi_studio` WiFi.
 Enter the IP Address like shown in the image above and click `Test`. If the test is successful you can click `Connect` and start printing. After slicing you can click `Print` to start printing.
 
-## Where can I find the web Interface of the Creatly K1s?
+### Where can I find the web Interface of the Creatly K1s?
 Make sure your PS is connected to `hpi_studio` WiFi.
 Select `Settings` and then `Network`. Then enter the IP Address in your browser. Make sure to append `4408` as port. Example: ![http://172.22.0.254:4408](http://172.22.0.254:4408)
 
-### Prusa XL
+## Prusa XL
 
 Use Prusa XL when you print large objects and / or objects with multiple filament types.
 
-## Soldering Stations
 
-## Printer/Plotter
+# Soldering Stations
 
-## Label Printer QL-820NWBc
 
-### Software
+# Printer/Plotter
+
+# Label Printer QL-820NWBc
+
+## Software
 Download the Software
 MacOS: https://apps.apple.com/de/app/brother-p-touch-editor/id1453365242?mt=12
 Windows: https://support.brother.com/g/s/es/inst/de/index.htm?c=de&lang=de&navi=off&comple=on&redirect=on
 Linux: Sorry, if WINE work, please create a pull request with the instructions.
 
-### Usage
+## Usage
 This device can print up to 62mm in width. If wider: You might change the orientation of the label in the software to fit the label on the printer.
 
 You can use the printer via WiFi but the easiest is via USB.
@@ -96,30 +96,30 @@ Currently these settings are used:
 Design and print your label. You can also print multiple labels at once.
 
 
-## Laser Cutter Trotec
+# Laser Cutter Trotec
 
-### Getting Started
+## Getting Started
 
 Please contact our team to participate for a short introduction in the machine and the software. The succesful participation allows you to use the laser cutter afterwards.
 
-### Specs and Firmware
+## Specs and Firmware
 
-### FAQ
+## FAQ
 
-## AI Software
+# AI Software
 
-## Modeling Software
+# Modeling Software
 
-## Workbench
+# Workbench
 
-## Microscope
+# Microscope
 
-## Multimeter
+# Multimeter
 
-## Free Materials
+# Free Materials
 
-## UX Recording Station
+# UX Recording Station
 
-## Podcast Recording
+# Podcast Recording
 
-## Superpositon Team Space
+# Superpositon Team Space
