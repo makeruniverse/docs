@@ -18,7 +18,7 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.sections
-    # navigation.expand
+    # - navigation.expand
     - navigation.path
     # - navigation.footer
     - toc.integrate
@@ -67,5 +67,6 @@ markdown_extensions:
   - admonition
 
 nav:
-  - 'Start': 'index.md'
-  - 'Tools': 'tools.md'
+  - 'Home': 'index.md'
+  - 'Tools': './tools/tools.md'
+  - 'Projects': "./projects/projects.md'
