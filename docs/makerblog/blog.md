@@ -16,7 +16,7 @@ Startups fail. The few that don't are "fat tail events" (Nassim Taleb). They alm
 
 HR
 
-## The best ideas look bad
+## Good ideas look bad
 
 The best ideas initially look bad - even extreme - to almost everyone (Alejandro Lecuna).
 
@@ -76,16 +76,14 @@ It all boils down to energy, in the end.
 HR
 
 
-## Are we user-centered or humand-centered?
+## User Research
 
-"User-centered? Haven't we moved beyond that?" A design professor posed this question below my public post about user interviews — not as an actual question but as a "feedback”. She implied that "we" now embrace the term "human-centered" in research and design, leaving "user-centered" in the past.
+People in UX as well as in user research tend to evade the term "user" recently. They prefer to talk about and "human-centered" research, and "human-centered" solutions.
 
-So, are we talking about users or humans? Debating terms rarely leads to practical outcomes, yet I find it necessary to clarify a potential misunderstanding. When I use the term "user-centered" - do I regard them as "passive subjects" as the professor concluded?
+Sounds good. But it misses the point. Twice.
 
-No.
+(1) The term “user" in "user research" does not refer to a specific person, but to a set of established methods. Turns out, you can not just observe human beings in their user behavior, but also animals. And even more so, [machines](https://www.researchgate.net/publication/332636704_Machine_behaviour).
 
-When I use the term “user-centered”, I am referring to the tools and methods we, as researchers, designers, and product managers, apply. Our methods involve field observations, questionnaires, interviews, A/B testing, and recently, technology to monitor brain waves and health indicators. The methods and tools allow us to observe behaviours in a given context. And this level of abstraction, described as user behaviors, is an honest appraisal of our tools.
-
-In fact, it would be presumptuous to imply these tools could help us grasp human beings in their psychological and social complexity. We don’t explore what human beings and their underlying motives are. We explore their behavior as users.
+(2) User research and the methods we asscociate with the term are clearly limited in scope. For example, we may observe that people in a situation X decide for option Y over option Z. But none of the methods can induce to us why they decide for option Y. None of these tools bring us any closer to the nature of human beings, even though behavioral psychology tried to [tried to tell us](https://osf.io/ezcuj/) so. 
 
 HR
