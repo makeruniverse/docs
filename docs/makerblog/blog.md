@@ -1,5 +1,15 @@
 # Maker Blog
 
+## Jobs to be done 
+
+The purpose of every product is to help someone get a job done.
+
+New products succeed, if they help someone get a job done in a better way.
+
+Most jobs are universal and long lasting: (1) getting from A to B (2) living healthy (3) finding partners (4) reducing stress (5) making decisions, etc.
+
+HR
+
 ## Almost all startups fail
 
 Startups fail. The few that don't are "fat tail events" (Nassim Taleb). They almost never happen, but when they do, they "concentrate all the returns" (Paul Graham).
