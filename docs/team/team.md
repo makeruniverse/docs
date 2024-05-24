@@ -11,8 +11,8 @@ Weekdays
 ### Services 
 
 - [Project Planning](../projects/projects.md)
-- Strategic Partnerships
-- Communication
+- Agile Project Management
+- Research
 
 ## David Bizer
 

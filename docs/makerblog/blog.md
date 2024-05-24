@@ -75,15 +75,14 @@ It all boils down to energy, in the end.
 
 HR
 
-
 ## User Research
 
 People in UX as well as in user research tend to evade the term "user" recently. They prefer to talk about and "human-centered" research, and "human-centered" solutions.
 
 Sounds good. But it misses the point. Twice.
 
-(1) The term “user" in "user research" does not refer to a specific person, but to a set of established methods. Turns out, you can not just observe human beings in their user behavior, but also animals. And even more so, [machines](https://www.researchgate.net/publication/332636704_Machine_behaviour).
+(1) The term “user" in "user research" does not refer to a specific target, but to a set of methods. Turns out, you can not just observe human beings in their user behavior, but also animals. And even more so, [machines](https://www.researchgate.net/publication/332636704_Machine_behaviour).
 
-(2) User research and the methods we asscociate with the term are clearly limited in scope. For example, we may observe that people in a situation X decide for option Y over option Z. But none of the methods can induce to us why they decide for option Y. None of these tools bring us any closer to the nature of human beings, even though behavioral psychology tried to [tried to tell us](https://osf.io/ezcuj/) so. 
+(2) User research methods are clearly limited in scope. An example: we can observe a person in a situation X. That persone decides for option Y over option Z. The methods we have can neither show us why this person decides for option Y. Nor can they tell us more about the human nature of that person. Behavioral psychology tried to make us believe otherwise, and [failed](https://osf.io/ezcuj/) so. 
 
 HR
