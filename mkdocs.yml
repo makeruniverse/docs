@@ -70,3 +70,4 @@ nav:
   - 'Home': 'index.md'
   - 'Tools': './tools/tools.md'
   - 'Projects': './projects/projects.md'
+  - 'Blog': './makerblog/blog.md'
