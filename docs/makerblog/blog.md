@@ -1,34 +1,45 @@
 # Maker Blog
 
-## On Startups
+## Almost all startups fail
 
-(1) Startups tend to fail. The few that don't are "fat tail events" (Nassim Taleb). They almost never happen, but when they do, they "concentrate all the returns" (Paul Graham).
-
-(2) The best ideas initially look bad - even extreme - to almost everyone (Alejandro Lecuna).
-
-(3) Extreme ideas are initially appreciated only by "extreme users". Therefore, innovations don't serve mass markets, but create new niches.
+Startups fail. The few that don't are "fat tail events" (Nassim Taleb). They almost never happen, but when they do, they "concentrate all the returns" (Paul Graham).
 
 HR
 
+## The best ideas look bad
 
-## Makers vs. Managers
+The best ideas initially look bad - even extreme - to almost everyone (Alejandro Lecuna).
 
-One of our students, Jay, is adept in various technologies like 3D modeling, printing, electronics, and woodworking. My attempts to involve Jay more formally through employment or workshops failed.
+HR
 
-Jay isn't unwilling to share knowledge; in fact, Jay and other makers help other students whenever they can. Yet, there seems to be a distinct discomfort among makers with committing to scheduled work.
+## Extreme Users
 
-Paul Graham highlights this notion in the clash between a manager's and a maker's schedule. Managers' days are broken up by meetings, often planned by others. Makers, however, work through long, uninterrupted time periods: https://paulgraham.com/makersschedule.html
+Extreme ideas are initially appreciated only by "extreme users". Therefore, innovations don't serve mass markets, but create new niches.
 
-Jay intuitively knows that meetings would disrupt any creative flow. This understanding aligns with managers who realize that their that squeezed-in "focus work" never results in creative outcomes.
+HR
 
-Acknowledging this, I stopped trying to engage Jay in structured activities.
+## Makers vs. Shedules (1)
+
+Paul Graham [highlights](https://paulgraham.com/makersschedule.html) the clash between a manager's and a maker's schedule. Managers' days are broken up by meetings, and planned by others. Makers, however, work through long, uninterrupted time periods.
+
+HR
+
+## Makers vs. Shedules (2)
+
+Try to commit a maker to a shedule. Either the maker or the shedule will fall apart.
+
+HR
+
+## Makers vs. Shedules (3)
+
+Making stuff is a creative endavour. Neither can you really plan it, nor can you time it, well. Therefore, attempts to squeeze in creative work in a shedule will eventually fail.
 
 HR
 
 
 ## Projects and Startups
 
-Paul Graham's blog post is a strong reminder that the Googles and Facebooks did not start as startups but as team projects. Small groups of individuals with a strong interest in solving a problem. Not with a certain business case in mind.
+Paul Graham's [blog post](https://www.paulgraham.com/google.html) is a strong reminder that the Googles and Facebooks did not start as startups but as team projects. Groups of individuals with a strong interest in solving a problem. Not with a certain business case in mind.
 
 How can we fix internet search? (Google in 1998)
 
@@ -36,26 +47,23 @@ How can we make money out of AI (Random startups in 2024)
 
 HR
 
+## Constraints
 
-## Constraints in Projects
+To explore opportunities in the beginning of a project is not an invitation for exuberating concepts. 
 
-A few months ago, I saw a design thinking team presenting a solution to a corporate client. The client's design challenge was to get better customer feedback on their products. What the team suggested was a concept that would require the client to change the culture of the organization - involving almost all teams and management.
-
-The idea was not a result of exuberating creativity. It was just lazy.
-
-To be open and to explore novel solutions to known problems cannot be an excuse for concepts that are way too complex to execute. A better approach would be to find a solution that can be implemented in 24h, not 24 months.
+When in doubt, go for the opportunity you can make real in 24h rather than in 24 months.
 
 HR
 
-
 ## Running out of energy
 
-Angel investor Naval Ravikant once noted, “Startups don't die when they run out of cash; they die when the founders run out of energy.” I have always found this observation to be profoundly insightful, applicable to almost all sorts of projects.
+Angel investor Naval Ravikant [once noted](https://x.com/naval/status/299291360752726016?lang=de): “Startups don't die when they run out of cash; they die when the founders run out of energy.” 
+
+I have always found this observation to be profoundly insightful, and applicable to all sorts of projects.
 
 It all boils down to energy, in the end.
 
 HR
-
 
 
 ## Are we user-centered or humand-centered?
