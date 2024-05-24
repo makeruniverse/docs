@@ -1,6 +1,6 @@
-# Maker Blog
+# 2024
 
-## Jobs to be done 
+## Jobs to be Done 
 
 The purpose of every product is to help someone get a job done.
 
@@ -10,17 +10,14 @@ Most jobs are universal and long lasting: (1) getting from A to B (2) living hea
 
 HR
 
-## Almost all startups fail
+## Startups fail
 
 Startups fail. The few that don't are "fat tail events" (Nassim Taleb). They almost never happen, but when they do, they "concentrate all the returns" (Paul Graham).
 
-HR
-
-## Good ideas look bad
+## Good Ideas look bad
 
 The best ideas initially look bad - even extreme - to almost everyone (Alejandro Lecuna).
 
-HR
 
 ## Extreme Users
 
@@ -47,7 +44,7 @@ Making stuff is a creative endavour. Neither can you really plan it, nor can you
 HR
 
 
-## Projects and Startups
+## Project Teams vs. Startups
 
 Paul Graham's [blog post](https://www.paulgraham.com/google.html) is a strong reminder that the Googles and Facebooks did not start as startups but as team projects. Groups of individuals with a strong interest in solving a problem. Not with a certain business case in mind.
 
@@ -65,7 +62,7 @@ When in doubt, go for the opportunity you can make real in 24h rather than in 24
 
 HR
 
-## Running out of energy
+## Running out of Energy
 
 Angel investor Naval Ravikant [once noted](https://x.com/naval/status/299291360752726016?lang=de): “Startups don't die when they run out of cash; they die when the founders run out of energy.” 
 
@@ -75,14 +72,16 @@ It all boils down to energy, in the end.
 
 HR
 
+# 2023
+
 ## User Research
 
 People in UX as well as in user research tend to evade the term "user" recently. They prefer to talk about and "human-centered" research, and "human-centered" solutions.
 
 Sounds good. But it misses the point. Twice.
 
-(1) The term “user" in "user research" does not refer to a specific target, but to a [set of methods](../tools/research-tools.md). Turns out, you can not just observe human beings in their user behavior, but also animals. And even more so, [machines](https://www.researchgate.net/publication/332636704_Machine_behaviour).
+(1) The term “user" in "user research" does not refer to a specific target, but to a [set of methods](../tools/research-tools.md). User research is not exclusive about human beings and their usage behavior, but also animals. And even more so, [machines](https://www.researchgate.net/publication/332636704_Machine_behaviour).
 
-(2) User research methods are clearly limited in scope. An example: we can observe a person in a situation X. That persone decides for option Y over option Z. The methods we have can neither show us why this person decides for option Y. Nor can they tell us more about the human nature of that person. Behavioral psychology [failed](https://osf.io/ezcuj/) in making us believe otherwise. 
+(2) User research methods are clearly limited in scope. They allow us to observe usage behavior but they don't tell us more about the nature of the user itself, their feelings and reasonings. Though, behavorial research [attempted to make us believe so(https://osf.io/ezcuj/)]. An example: we can observe a person in a situation X. That persone decides for option Y over option Z. But no user research method allows us to reveal why that person choses option Y.
 
 HR
