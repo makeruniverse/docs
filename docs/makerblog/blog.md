@@ -25,21 +25,21 @@ Extreme ideas are initially appreciated only by "extreme users". Therefore, inno
 
 HR
 
-## Makers vs. Shedules (1)
+## Makers vs. Schedules (1)
 
 Paul Graham [highlights](https://paulgraham.com/makersschedule.html) the clash between a manager's and a maker's schedule. Managers' days are broken up by meetings, and planned by others. Makers, however, work through long, uninterrupted time periods.
 
 HR
 
-## Makers vs. Shedules (2)
+## Makers vs. Schedules (2)
 
-Try to commit a maker to a shedule. Either the maker or the shedule will fall apart.
+Try to commit a maker to a schedule. Either the maker or the shedule will fall apart.
 
 HR
 
 ## Makers vs. Shedules (3)
 
-Making stuff is a creative endavour. Neither can you really plan it, nor can you time it, well. Therefore, attempts to squeeze in creative work in a shedule will eventually fail.
+Making stuff is a creative endavour. Neither can you really plan it, nor can you time it, well. Therefore, attempts to squeeze in creative work in your schedule will eventually fail.
 
 HR
 
