@@ -83,6 +83,6 @@ Sounds good. But it misses the point. Twice.
 
 (1) The term “user" in "user research" does not refer to a specific target, but to a [set of methods](../tools/research-tools.md). Turns out, you can not just observe human beings in their user behavior, but also animals. And even more so, [machines](https://www.researchgate.net/publication/332636704_Machine_behaviour).
 
-(2) User research methods are clearly limited in scope. An example: we can observe a person in a situation X. That persone decides for option Y over option Z. The methods we have can neither show us why this person decides for option Y. Nor can they tell us more about the human nature of that person. Behavioral psychology tried to make us believe otherwise, and [failed](https://osf.io/ezcuj/) so. 
+(2) User research methods are clearly limited in scope. An example: we can observe a person in a situation X. That persone decides for option Y over option Z. The methods we have can neither show us why this person decides for option Y. Nor can they tell us more about the human nature of that person. Behavioral psychology [failed](https://osf.io/ezcuj/) in making us believe otherwise. 
 
 HR
