@@ -1,20 +1,22 @@
-# 2024
+# Blog
 
-## Jobs to be Done 
+## 2024
+
+### Jobs to be Done 
 
 The purpose of every product is to help someone get a job done.
 
 New products succeed, if they help someone get a job done in a better way.
 
-Most jobs are universal and long lasting: (1) getting from A to B (2) living healthy (3) finding partners (4) reducing stress (5) making decisions, etc.
+Most jobs are universal and long lasting: (1) getting from A to B (2) living healthy (3) finding partners (4) reducing stress (5) making decisions, etc. (HR)
 
-HR
-
-## Startups fail
+### Startups fail
 
 Startups fail. The few that don't are "fat tail events" (Nassim Taleb). They almost never happen, but when they do, they "concentrate all the returns" (Paul Graham).
 
-## Good Ideas look bad
+## 2023
+
+### Good Ideas look bad
 
 The best ideas initially look bad - even extreme - to almost everyone (Alejandro Lecuna).
 
