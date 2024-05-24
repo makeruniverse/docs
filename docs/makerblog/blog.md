@@ -39,7 +39,7 @@ Try to commit a maker to a schedule. Either the maker or the shedule will fall a
 
 HR
 
-## Makers vs. Shedules (3)
+## Makers vs. Schedules (3)
 
 Making stuff is a creative endavour. Neither can you really plan it, nor can you time it, well. Therefore, attempts to squeeze in creative work in your schedule will eventually fail.
 
