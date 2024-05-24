@@ -21,62 +21,43 @@ Startups fail. The few that don't are "fat tail events" (Nassim Taleb). They alm
 The best ideas initially look bad - even extreme - to almost everyone (Alejandro Lecuna).
 
 
-## Extreme Users
+### Extreme Users
 
-Extreme ideas are initially appreciated only by "extreme users". Therefore, innovations don't serve mass markets, but create new niches.
+Extreme ideas are initially appreciated only by "extreme users". Therefore, innovations don't serve mass markets, but create new niches. (HR)
 
-HR
+### Makers vs. Schedules (1)
 
-## Makers vs. Schedules (1)
+Paul Graham [highlights](https://paulgraham.com/makersschedule.html) the clash between a manager's and a maker's schedule. Managers' days are broken up by meetings, and planned by others. Makers, however, work through long, uninterrupted time periods. (HR)
 
-Paul Graham [highlights](https://paulgraham.com/makersschedule.html) the clash between a manager's and a maker's schedule. Managers' days are broken up by meetings, and planned by others. Makers, however, work through long, uninterrupted time periods.
+### Makers vs. Schedules (2)
 
-HR
+Try to commit a maker to a schedule. Either the maker or the shedule will fall apart. (HR)
 
-## Makers vs. Schedules (2)
+### Makers vs. Schedules (3)
 
-Try to commit a maker to a schedule. Either the maker or the shedule will fall apart.
+Making stuff is a creative endavour. Neither can you really plan it, nor can you time it, well. Therefore, attempts to squeeze in creative work in your schedule will eventually fail. (HR)
 
-HR
-
-## Makers vs. Schedules (3)
-
-Making stuff is a creative endavour. Neither can you really plan it, nor can you time it, well. Therefore, attempts to squeeze in creative work in your schedule will eventually fail.
-
-HR
-
-
-## Project Teams vs. Startups
+### Project Teams vs. Startups
 
 Paul Graham's [blog post](https://www.paulgraham.com/google.html) is a strong reminder that the Googles and Facebooks did not start as startups but as team projects. Groups of individuals with a strong interest in solving a problem. Not with a certain business case in mind.
 
-How can we fix internet search? (Google in 1998)
+Google in 1998: How can we fix internet search? 
 
-How can we make money out of AI (Random startups in 2024)
+Failing Startup in 2024: How can we make money out of AI? (HR)
 
-HR
-
-## Constraints
+### Constraints
 
 To explore opportunities in the beginning of a project is not an invitation for exuberating concepts. 
 
-When in doubt, go for the opportunity you can make real in 24h rather than in 24 months.
+When in doubt, go for the opportunity you can make real in 24h rather than in 24 months. (HR)
 
-HR
+### Running out of Energy
 
-## Running out of Energy
+“Startups don't die when they run out of cash; they die when the founders run out of energy.” (Naval Ravikant) In that sense, project teams are no different to startups. (HR)
 
-Angel investor Naval Ravikant [once noted](https://x.com/naval/status/299291360752726016?lang=de): “Startups don't die when they run out of cash; they die when the founders run out of energy.” 
+## 2023
 
-I have always found this observation to be profoundly insightful, and applicable to all sorts of projects.
-
-It all boils down to energy, in the end.
-
-HR
-
-# 2023
-
-## User Research
+### User Research
 
 People in UX as well as in user research tend to evade the term "user" recently. They prefer to talk about and "human-centered" research, and "human-centered" solutions.
 
@@ -84,6 +65,4 @@ Sounds good. But it misses the point. Twice.
 
 (1) The term “user" in "user research" does not refer to a specific target, but to a [set of methods](../tools/research-tools.md). User research is not exclusive about human beings and their usage behavior, but also animals. And even more so, [machines](https://www.researchgate.net/publication/332636704_Machine_behaviour).
 
-(2) User research methods are clearly limited in scope. They allow us to observe usage behavior but they don't tell us more about the nature of the user itself, their feelings and reasonings. Though, behavorial research [attempted to make us believe so(https://osf.io/ezcuj/)]. An example: we can observe a person in a situation X. That persone decides for option Y over option Z. But no user research method allows us to reveal why that person choses option Y.
-
-HR
+(2) User research methods are clearly limited in scope. They allow us to observe usage behavior but they don't tell us more about the nature of the user itself, their feelings and reasonings. Though, behavorial research [attempted to make us believe so(https://osf.io/ezcuj/)]. An example: we can observe a person in a situation X. That persone decides for option Y over option Z. But no user research method allows us to reveal why that person choses option Y. (HR)
