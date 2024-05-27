@@ -10,12 +10,9 @@ Where do you go? And when?
 
 Turns out, people likely end up on top of the Empire State Building at Noon.
 
-It shows that coordination without communication is possible.
+In this thought experiment, the Empire State Building is a so-called [Schelling Point](https://www.youtube.com/watch?v=BtW-Ds-artA). The existence of Schelling Points indicate that coordination without communication is possible.
 
-In this thought experiment, the Empire State Building is a so-called [Schelling Point](https://www.youtube.com/watch?v=BtW-Ds-artA). 
-
-Product teams are well-advised to take advantage of their users’ Schelling Points: to know how users navigate through new offers.
-
+In various other scenarios, users gravitate towards likely solutions. This is especially interesting for product teams. Being aware of Schelling Points, these teams can take advantage of coordination effects with their users.
 
 ### Jobs to be Done 
 
