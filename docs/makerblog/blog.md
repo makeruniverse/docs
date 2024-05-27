@@ -2,6 +2,21 @@
 
 ## 2024
 
+### Schelling Points
+
+Imagine this scenario: you are in New York. You are supposed to meet a stranger in the city within the next 24 hours, without any chance to communicate. 
+
+Where do you go? And when?
+
+Turns out, people likely end up on top of the Empire State Building at Noon.
+
+It shows that coordination without communication is possible.
+
+In this thought experiment, the Empire State Building is a so-called [Schelling Point](https://www.youtube.com/watch?v=BtW-Ds-artA). 
+
+Product teams are well-advised to take advantage of their users’ Schelling Points: to know how users navigate through new offers.
+
+
 ### Jobs to be Done 
 
 The purpose of every product is to help someone get a job done.
@@ -72,6 +87,6 @@ People in UX as well as in user research tend to evade the term "user" recently.
 
 Sounds good. But it misses the point. Twice.
 
-(1) The term “user" in "user research" does not refer to a specific target, but to a set of methods. User research is not exclusive about human beings, but also animals. And even more so, [machines](https://www.researchgate.net/publication/332636704_Machine_behaviour).
+(1) The term “user" in "user research" does not refer to a specific target, but to a set of methods. These methods are not exclusively adressing human beings, but also animals. And even more so, [machines](https://www.researchgate.net/publication/332636704_Machine_behaviour).
 
 (2) Though, behavioural research [tried to tell us](https://osf.io/ezcuj/) otherwise, user research methods don't reveal the human nature of the actor. They only reveal usage behaviors, hence the name. (HR)
