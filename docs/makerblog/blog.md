@@ -8,7 +8,7 @@ The purpose of every product is to help someone get a job done.
 
 Most jobs are universal and long lasting: (1) getting from A to B (2) living healthy (3) finding partners (4) reducing stress (5) making decisions, etc. 
 
-New products succeed, if they help someone get a job done in a better way.(HR)
+New products, that succeed, help someone get a job done in a better way.(HR)
 
 
 ### Startups fail
@@ -33,12 +33,12 @@ Paul Graham [highlights](https://paulgraham.com/makersschedule.html) the clash b
 
 ### Makers vs. Schedules (2)
 
-Try to commit a maker to a schedule. Either the maker or the shedule will fall apart. (HR)
+Try to commit a maker to a schedule. Either the maker or the schedule will fall apart. (HR)
 
 
 ### Makers vs. Schedules (3)
 
-Making stuff is a creative endavour. Neither can you really plan it, nor can you time it, well. Therefore, attempts to squeeze in creative work in your schedule will eventually fail. (HR)
+Making new stuff is a creative endavour. Neither can you really plan for it, nor can you time it. Therefore, attempts to squeeze in creative work in your schedule will eventually fail. (HR)
 
 
 ### Project Teams vs. Startups
@@ -59,7 +59,9 @@ When in doubt, go for the opportunity you can make real in 24h rather than in 24
 
 ### Running out of Energy
 
-“Startups don't die when they run out of cash; they die when the founders run out of energy.” (Naval Ravikant) In that sense, project teams are no different to startups. (HR)
+“Startups don't die when they run out of cash; they die when the founders run out of energy.” (Naval Ravikant) 
+
+In that sense, project teams are no different to startups. (HR)
 
 
 ## 2023
@@ -70,6 +72,6 @@ People in UX as well as in user research tend to evade the term "user" recently.
 
 Sounds good. But it misses the point. Twice.
 
-(1) The term “user" in "user research" does not refer to a specific target, but to a [set of methods](../tools/research-tools.md). User research is not exclusive about human beings and their usage behavior, but also animals. And even more so, [machines](https://www.researchgate.net/publication/332636704_Machine_behaviour).
+(1) The term “user" in "user research" does not refer to a specific target, but to a set of methods. User research is not exclusive about human beings, but also animals. And even more so, [machines](https://www.researchgate.net/publication/332636704_Machine_behaviour).
 
-(2) User research methods are clearly limited in scope. They allow us to observe usage behavior but they don't tell us more about the nature of the user itself, their feelings and reasonings. Though, behavorial research [attempted to make us believe so(https://osf.io/ezcuj/)]. An example: we can observe a person in a situation X. That persone decides for option Y over option Z. But no user research method allows us to reveal why that person choses option Y. (HR)
+(2) Though, behavioural research [tried to tell us](https://osf.io/ezcuj/) otherwise, user research methods don't reveal the human nature of the actor. They only reveal usage behaviors, hence the name. (HR)
