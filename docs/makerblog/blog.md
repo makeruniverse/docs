@@ -2,17 +2,17 @@
 
 ## 2024
 
-### Schelling Point
+### Schelling Points
 
-Imagine this scenario: you are in New York. You are supposed to meet a stranger in the city within the next 24 hours, without any chance to communicate. 
+Imagine this scenario: You are in New York. You are supposed to meet a stranger in the city within the next 24 hours, without any chance to communicate with them. 
 
 Where do you go? And when?
 
-Turns out, people likely end up on top of the Empire State Building at Noon.
+It turns out that people are likely to end up on top of the Empire State Building at Noon.
 
-In this thought experiment, the Empire State Building is a so-called [Schelling Point](https://www.youtube.com/watch?v=BtW-Ds-artA). The existence of Schelling Points indicate that coordination without communication is actually possible.
+In this thought experiment, the Empire State Building serves as a [Schelling Point](https://www.youtube.com/watch?v=BtW-Ds-artA). The existence of Schelling Points indicates that coordination without communication is possible.
 
-In various other scenarios, users also gravitate towards likely solutions. This is especially interesting for product teams. Being aware of Schelling Points, these teams can take advantage of coordination effects with their users.
+Now, imagine this: You are part of a product team developing a radically new user experience powered by AI. There are no buttons, no interfaces—everything is controlled by speech. Understanding the Schelling Points of your product experience will determine whether your users are captivated or simply lost.
 
 
 
