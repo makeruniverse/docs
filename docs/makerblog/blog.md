@@ -16,11 +16,11 @@ Now, imagine this: You are part of a product team developing a revolutionary AI-
 
 ### Jobs to be Done 
 
-The purpose of every product is to help someone get a job done.
+We don't want to buy products to own them.
 
-Most jobs are universal and long lasting: (1) getting from A to B (2) living healthy (3) finding partners (4) reducing stress (5) making decisions, etc. 
+We need them to get a job done. It's always about getting from A to B.
 
-New products, that succeed, help someone get a job done in a better way. (HR) <<br /> <br /> <br />
+Product teams need to understand what that A and that B is in the life of a user. And the obstacles between them. (HR) <<br /> <br /> <br />
 
 ### Startups fail
 
@@ -37,7 +37,7 @@ Extreme ideas are initially appreciated only by "extreme users". Therefore, inno
 
 ### Makers vs. Schedules (1)
 
-Paul Graham [highlights](https://paulgraham.com/makersschedule.html) the clash between a manager's and a maker's schedule. Managers' days are broken up by meetings, and planned by others. Makers, however, work through long, uninterrupted time periods. (HR)
+Paul Graham [highlights](https://paulgraham.com/makersschedule.html) the clash between a manager's and a maker's schedule. Managers' days are broken up by meetings, and planned by others. Makers, however, work through long, uninterrupted time periods. (HR) <br /> <br /> <br />
 
 ### Makers vs. Schedules (2)
 
