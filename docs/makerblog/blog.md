@@ -12,9 +12,7 @@ It turns out that people are likely to end up on top of the Empire State Buildin
 
 In this thought experiment, the Empire State Building serves as a [Schelling Point](https://www.youtube.com/watch?v=BtW-Ds-artA). The existence of Schelling Points indicates that coordination without communication is possible.
 
-Now, imagine this: You are part of a product team developing a revolutionary AI-powered user experience with no buttons or interfaces.Everything is speech-controlled. Identifiying the Schelling Points in your product experience will determine whether your users are captivated or simply lost.
-
-<br />
+Now, imagine this: You are part of a product team developing a revolutionary AI-powered user experience with no buttons or interfaces.Everything is speech-controlled. Identifiying the Schelling Points in your product experience will determine whether your users are captivated or simply lost. (HR) <br /> <br />
 
 ### Jobs to be Done 
 
@@ -22,11 +20,11 @@ The purpose of every product is to help someone get a job done.
 
 Most jobs are universal and long lasting: (1) getting from A to B (2) living healthy (3) finding partners (4) reducing stress (5) making decisions, etc. 
 
-New products, that succeed, help someone get a job done in a better way. (HR)
+New products, that succeed, help someone get a job done in a better way. (HR) <br /> <br />
 
 ### Startups fail
 
-Startups fail. The few that don't are "fat tail events" (Nassim Taleb). They almost never happen, but when they do, they "concentrate all the returns" (Paul Graham).
+Startups fail. The few that don't are "fat tail events" (Nassim Taleb). They almost never happen, but when they do, they "concentrate all the returns" (Paul Graham). <br /> <br />
 
 
 ### Good Ideas look bad
