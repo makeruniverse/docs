@@ -20,7 +20,7 @@ We don't want to buy products to own them.
 
 We need them to get a job done. It's always about getting from A to B.
 
-Product teams need to understand what that A and that B is in the life of a user. And the obstacles between them. (HR) <<br /> <br /> <br />
+Product teams must understand what A and B represent in a user's life and identify the obstacles in between. (HR) <<br /> <br /> <br />
 
 ### Startups fail
 
