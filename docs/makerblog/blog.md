@@ -14,7 +14,7 @@ In this thought experiment, the Empire State Building serves as a [Schelling Poi
 
 Now, imagine this: You are part of a product team developing a radically new user experience powered by AI. There are no buttons, no interfaces—everything is controlled by speech. Understanding the Schelling Points of your product experience will determine whether your users are captivated or simply lost.
 
-###
+<br />
 
 ### Jobs to be Done 
 
@@ -23,8 +23,6 @@ The purpose of every product is to help someone get a job done.
 Most jobs are universal and long lasting: (1) getting from A to B (2) living healthy (3) finding partners (4) reducing stress (5) making decisions, etc. 
 
 New products, that succeed, help someone get a job done in a better way. (HR)
-
-###
 
 ### Startups fail
 
