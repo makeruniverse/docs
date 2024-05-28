@@ -24,50 +24,30 @@ Most jobs are universal and long lasting: (1) getting from A to B (2) living hea
 
 New products, that succeed, help someone get a job done in a better way. (HR)
 
-
-
-
 ### Startups fail
 
 Startups fail. The few that don't are "fat tail events" (Nassim Taleb). They almost never happen, but when they do, they "concentrate all the returns" (Paul Graham).
-
-
 
 
 ### Good Ideas look bad
 
 The best ideas initially look bad - even extreme - to almost everyone (Alejandro Lecuna).
 
-
-
-
 ### Extreme Users
 
 Extreme ideas are initially appreciated only by "extreme users". Therefore, innovations don't serve mass markets, but create new niches. (HR)
-
-
-
 
 ### Makers vs. Schedules (1)
 
 Paul Graham [highlights](https://paulgraham.com/makersschedule.html) the clash between a manager's and a maker's schedule. Managers' days are broken up by meetings, and planned by others. Makers, however, work through long, uninterrupted time periods. (HR)
 
-
-
-
 ### Makers vs. Schedules (2)
 
 Try to commit a maker to a schedule. Either the maker or the schedule will fall apart. (HR)
 
-
-
-
 ### Makers vs. Schedules (3)
 
 Making new stuff is a creative endavour. Neither can you really plan for it, nor can you time it. Therefore, attempts to squeeze in creative work in your schedule will eventually fail. (HR)
-
-
-
 
 ### Project Teams vs. Startups
 
@@ -77,26 +57,17 @@ Google in 1998: How can we fix internet search?
 
 Failing Startup in 2024: How can we make money out of AI? (HR)
 
-
-
-
 ### Constraints
 
 To explore opportunities in the beginning of a project is not an invitation for exuberating concepts. 
 
 When in doubt, go for the opportunity you can make real in 24h rather than in 24 months. (HR)
 
-
-
-
 ### Running out of Energy
 
 “Startups don't die when they run out of cash; they die when the founders run out of energy.” (Naval Ravikant) 
 
 In that sense, project teams are no different to startups. (HR)
-
-
-
 
 ## 2023
 
