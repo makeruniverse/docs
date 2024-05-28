@@ -12,7 +12,7 @@ It turns out that people are likely to end up on top of the Empire State Buildin
 
 In this thought experiment, the Empire State Building serves as a [Schelling Point](https://www.youtube.com/watch?v=BtW-Ds-artA). The existence of Schelling Points indicates that coordination without communication is possible.
 
-Now, imagine this: You are part of a product team developing a revolutionary AI-powered user experience with no buttons or interfaces.Everything is speech-controlled. Identifiying the Schelling Points in your product experience will determine whether your users are captivated or simply lost. (HR) <br /> <br /> <br /> <br />
+Now, imagine this: You are part of a product team developing a revolutionary AI-powered user experience with no buttons or interfaces.Everything is speech-controlled. Identifiying the Schelling Points in your product experience will determine whether your users are captivated or simply lost. (HR) <br /> <br /> <br />
 
 ### Jobs to be Done 
 
@@ -20,20 +20,20 @@ The purpose of every product is to help someone get a job done.
 
 Most jobs are universal and long lasting: (1) getting from A to B (2) living healthy (3) finding partners (4) reducing stress (5) making decisions, etc. 
 
-New products, that succeed, help someone get a job done in a better way. (HR) <br /> <br /> <br /> <br />
+New products, that succeed, help someone get a job done in a better way. (HR) <<br /> <br /> <br />
 
 ### Startups fail
 
-Startups fail. The few that don't are "fat tail events" (Nassim Taleb). They almost never happen, but when they do, they "concentrate all the returns" (Paul Graham). <br /> <br /> <br /> <br />
+Startups fail. The few that don't are "fat tail events" (Nassim Taleb). They almost never happen, but when they do, they "concentrate all the returns" (Paul Graham). <br /> <br /> <br />
 
 
 ### Good Ideas look bad
 
-The best ideas initially look bad - even extreme - to almost everyone (Alejandro Lecuna). <br /> <br /> <br /> <br />
+The best ideas initially look bad - even extreme - to almost everyone (Alejandro Lecuna). <br /> <br /> <br />
 
 ### Extreme Users
 
-Extreme ideas are initially appreciated only by "extreme users". Therefore, innovations don't serve mass markets, but create new niches. (HR)
+Extreme ideas are initially appreciated only by "extreme users". Therefore, innovations don't serve mass markets, but create new niches. (HR) <br /> <br /> <br />
 
 ### Makers vs. Schedules (1)
 
@@ -41,11 +41,11 @@ Paul Graham [highlights](https://paulgraham.com/makersschedule.html) the clash b
 
 ### Makers vs. Schedules (2)
 
-Try to commit a maker to a schedule. Either the maker or the schedule will fall apart. (HR)
+Try to commit a maker to a schedule. Either the maker or the schedule will fall apart. (HR) <br /> <br /> <br />
 
 ### Makers vs. Schedules (3)
 
-Making new stuff is a creative endavour. Neither can you really plan for it, nor can you time it. Therefore, attempts to squeeze in creative work in your schedule will eventually fail. (HR)
+Making new stuff is a creative endavour. Neither can you really plan for it, nor can you time it. Therefore, attempts to squeeze in creative work in your schedule will eventually fail. (HR) <br /> <br /> <br />
 
 ### Project Teams vs. Startups
 
@@ -53,19 +53,19 @@ Paul Graham's [blog post](https://www.paulgraham.com/google.html) is a strong re
 
 Google in 1998: How can we fix internet search? 
 
-Failing Startup in 2024: How can we make money out of AI? (HR)
+Failing Startup in 2024: How can we make money out of AI? (HR) <br /> <br /> <br />
 
 ### Constraints
 
 To explore opportunities in the beginning of a project is not an invitation for exuberating concepts. 
 
-When in doubt, go for the opportunity you can make real in 24h rather than in 24 months. (HR)
+When in doubt, go for the opportunity you can make real in 24h rather than in 24 months. (HR) <br /> <br /> <br />
 
 ### Running out of Energy
 
 “Startups don't die when they run out of cash; they die when the founders run out of energy.” (Naval Ravikant) 
 
-In that sense, project teams are no different to startups. (HR)
+In that sense, project teams are no different to startups. (HR) <br /> <br /> <br />
 
 ## 2023
 
@@ -77,4 +77,4 @@ Sounds good. But it misses the point. Twice.
 
 (1) The term “user" in "user research" does not refer to a specific target, but to a set of methods. These methods are not exclusively adressing human beings, but also animals. And even more so, [machines](https://www.researchgate.net/publication/332636704_Machine_behaviour).
 
-(2) Though, behavioural research [tried to tell us](https://osf.io/ezcuj/) otherwise, user research methods don't reveal the human nature of the actor. They only reveal usage behaviors, hence the name. (HR)
+(2) Though, behavioural research [tried to tell us](https://osf.io/ezcuj/) otherwise, user research methods don't reveal the human nature of the actor. They only reveal usage behaviors, hence the name. (HR) 
