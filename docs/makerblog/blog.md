@@ -14,7 +14,7 @@ In this thought experiment, the Empire State Building serves as a [Schelling Poi
 
 Now, imagine this: You are part of a product team developing a radically new user experience powered by AI. There are no buttons, no interfaces—everything is controlled by speech. Understanding the Schelling Points of your product experience will determine whether your users are captivated or simply lost.
 
-
+##
 
 ### Jobs to be Done 
 
