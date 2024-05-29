@@ -2,7 +2,7 @@ Make your ideas real! Visit our Maker Studio and learn how to laser cut, 3D prin
 
 Get started today and meet our [maker experts](../team/team.md) that will support you.
 
-# Maker Studio Workstations
+# Workstations
 
 Workstations are our stationary computers with pre-installed software for free usage.
 
@@ -121,7 +121,7 @@ Please contact our team to participate for a mandatory introduction in the machi
 
 The Electronic Workstation is located in the Maker Studio. It offers various tools to measure and solder electronic parts.
 
-### Soldering Stations
+### Soldering Station
 
 We have 6 soldering stations you can use after a mandatory introduction.
 

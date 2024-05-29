@@ -2,7 +2,7 @@ Podcasting, video recording, photo shootings, AI generation, visualizations, sou
 
 Visit our Media Studio in House K and get in contact with our Head of Media Studios to get support for your project [@markus.wutzlhofer](../team/team.md/#markus-wutzlhofer)
 
-# Media Workstations
+# Workstations
 
 Our Media Workstations are located in the Media Studio. They serve various use case to produce and edit media content.
 
