@@ -1,6 +1,6 @@
 Tools
 
-The tools below are available at the HPI Maker Universe. The usage of some tools require mandatory instructions by [experts](../team/team.md).
+The tools below are available at the HPI Maker Universe. The usage of some tools require mandatory instructions by [experts](../team/team.md). <br />
 
 # Maker Studio Tools
 
@@ -28,6 +28,8 @@ Install with brew: `brew install orcaslicer`
 AUR: `orca-slicer`
 
 ## Autodesk Fusion
+
+## Blender
 
 ## Printer/Plotter
 
@@ -126,3 +128,63 @@ We have 6 soldering stations you can use after a mandatory introduction.
 ## Electronic Components
 
 ## Electronic Materials
+
+Podcasting, video recording, photo shootings, AI generation, visualizations, sound designs. The opportunities are vast.
+
+Visit our Media Studio in House K and get in contact with our Head of Media Studios to get support for your project [@markus.wutzlhofer](../team/team.md/#markus-wutzlhofer)
+
+# Media Tools
+
+Our Media Tools are located in the Media Studio. They serve various use case to produce and edit media content.
+
+## Media Workstation  
+
+The Media Workstation consists of two powerful computers with access to AI applications, e.g. [Stable Diffusion](tools.md/#stable-diffusion), [HeyGen](tools.md/#heygen), [Chat GPT](tools.md/#chat-gpt), [Project Runway](tools.md/#project-runway), [DaVinci Resolve](tools.md/#davinci-resolve), [Adobe Firefly](tools.md/#adobe-firefly), [Eleven Labs](tools.md/#eleven-labs), [Photoshop Retouche4me](tools.md/#photoshop-retouche4me). Furthermore, both computers give acees to media editing software: [Izotope RX10](tools.md/#izotope-rx10), and [Ableton Live 11](tools.md/#ableton-live-11), and modeling software: [Blender](tools.md/#blender), [Shaper Trace](tools.md/#shaper-trace), [Orca Slicer](tools.md/#orca-slicer-software), [Shapr 3D](./tools.md/#shapr-3d), and [Kyub](./tools.md/#kyub).
+
+## Stable Diffusion
+
+## HeyGen
+
+## Chat GPT
+
+## Project Runway
+
+## DaVinci Resolve
+
+## Adobe Firefly
+
+## Eleven Labs
+
+Above that, the workstations offer media editing software.
+
+## Photoshop Retouche4me
+
+## Izotope RX10
+
+## Ableton Live 11
+
+The worstations also allow to create models which can be printed or laser cut in the Maker Studio.
+
+## Shaper Trace
+
+## Shapr 3D
+
+## Kyub
+
+## Studio Workstation
+
+Our Studio Workstation allows for professional [photo shootings](tools.md/#canon-slrt-photoshootings) and [video recordings](tools.md/#video-recordings) as well as [podcast recordings](tools.md/#podcasting).
+
+## Canon SLRT Photoshooting
+
+## Video Recordings
+
+## Podcasting Setup
+
+## UX Recording Workstation
+
+Our UX Recordings Workstation allows for professional video recordings for various kinds of user studies.
+
+## Superposition Workstation
+
+Superposition allows teams up to 4 members to work in parallel using 4 75inch screens that either show all screens
