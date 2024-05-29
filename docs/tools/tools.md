@@ -1,14 +1,14 @@
-Tools
+Tools that are available at the HPI Maker Universe. 
 
-The tools below are available at the HPI Maker Universe. The usage of some tools require mandatory instructions by [experts](../team/team.md). <br />
+Talk to our [experts](../team/team.md) for instructions. <br />
 
-# Maker Studio Tools
+## Maker Studio Tools
 
-## Modeler Workstation
+### Modeler Workstation
 
 The Modeler Workstation is our stationary computer in the Maker Studio that allows to create digital models. It includes [slicer software](tools.md/#orca-slicer-software), [modeling software](tools.md/#autodesk-fusion), and access to our [label printer](tools.md/#label-printer-ql-820nwbc).
 
-## Orca Slicer Software
+### Orca Slicer Software
 
 Orca Slicer is your best option to prepare 3D prints.
 
@@ -27,13 +27,13 @@ https://github.com/SoftFever/OrcaSlicer
 Install with brew: `brew install orcaslicer`
 AUR: `orca-slicer`
 
-## Autodesk Fusion
+### Autodesk Fusion
 
-## Blender
+### Blender
 
-## Printer/Plotter
+### Printer/Plotter
 
-## Label Printer QL-820NWBc
+### Label Printer QL-820NWBc
 
 Getting Started
 This device can print up to 62mm in width. If wider: You might change the orientation of the label in the software to fit the label on the printer.
@@ -49,15 +49,15 @@ Download the Software
 MacOS: https://apps.apple.com/de/app/brother-p-touch-editor/id1453365242?mt=12
 Windows: https://support.brother.com/g/s/es/inst/de/index.htm?c=de&lang=de&navi=off&comple=on&redirect=on
 
-## 3D Printer Workstation
+### 3D Printer Workstation
 
 Our workstation includes a access to [slicer software](tools.md/#orca-slicer-software) and a variety of 3D printers, e.g., 2x [Bambu A1 Mini](./tools.md/#bambu-a1-mini-2x), [2x Bambu X1](./tools.md/#bambu-x1-2x), 2x [Creality K1](tools.md/#creality-k1-2x), and the mighty [Prusa XL](tools.md/#prusa-xl). 
 
-## Bambu A1 Mini (2x)
+### Bambu A1 Mini (2x)
 
 Use Bambu a1 Mini when you print small objects with a single filament.
 
-## Bambu X1 (2x)
+### Bambu X1 (2x)
 
 Use Bambu X1x when you print larger objects or objects with up to four different types or filaments.
 
@@ -68,7 +68,7 @@ PLA Warping Issues
 The Bambu has a Snakehouse Fan Duct, which is a bit too close to the bed, on the left of the enclosure. If thin/fragile parts are located on the left side of the bed, near to the edge, they might warp due to the fan blowing on it. If that happens disable the AUX Fan and print with open enclosure. ![OrcaSlicer AUX Fan Settings](../3D_Printing/img/auxfan-orca.png)
 This might also apply for other printers with a similar fan duct.
 
-## Creality K1 (2x)
+### Creality K1 (2x)
 
 Use Creality K1 when you print large objects.
 
@@ -90,7 +90,7 @@ Web Interface of the Creality K1
 Make sure your PS is connected to `hpi_studio` WiFi.
 Select `Settings` and then `Network`. Then enter the IP Address in your browser. Make sure to append `4408` as port. Example: ![http://172.22.0.254:4408](http://172.22.0.254:4408)
 
-## Prusa XL
+### Prusa XL
 
 Use Prusa XL when you print large objects and / or objects with multiple filament types.
 
@@ -101,7 +101,7 @@ This works in Pruse SLicer, Orca Slicer & Bambu Studio.
 Import your SVG file, the printer will directly show an extruded version with a height of 10mm.
 For creating small signs set Z-height to 2mm (uncheck uniform scale) and adjust XY scale as needed.
 
-## Laser Cutter Workstation
+### Laser Cutter Workstation
 
 The Laser Cutter Workstation is located in the small Maker Studio next to the Trotec Laser Cutter.
 
@@ -113,77 +113,77 @@ Ruby Software
 
 ...
 
-## Electronic Workstation
+### Electronic Workstation
 
 The Electronic Workstation offers two working tables with various tools to [solder components](tools.md/#soldering-station), and to do precise electronic [measurements](tools.md/#multimeter). The workstation is also stacked with [electronic components](tools.md/#electronic-components) and [materials](tools.md/#electronic-materials) that are free to use.
 
-## Soldering Station
+### Soldering Station
 
 We have 6 soldering stations you can use after a mandatory introduction.
 
-## Multimeter
+### Multimeter
 
-## Microscope
+### Microscope
 
-## Electronic Components
+### Electronic Components
 
-## Electronic Materials
+### Electronic Materials
 
 Podcasting, video recording, photo shootings, AI generation, visualizations, sound designs. The opportunities are vast.
 
 Visit our Media Studio in House K and get in contact with our Head of Media Studios to get support for your project [@markus.wutzlhofer](../team/team.md/#markus-wutzlhofer)
 
-# Media Tools
+## Media Tools
 
 Our Media Tools are located in the Media Studio. They serve various use case to produce and edit media content.
 
-## Media Workstation  
+### Media Workstation  
 
 The Media Workstation consists of two powerful computers with access to AI applications, e.g. [Stable Diffusion](tools.md/#stable-diffusion), [HeyGen](tools.md/#heygen), [Chat GPT](tools.md/#chat-gpt), [Project Runway](tools.md/#project-runway), [DaVinci Resolve](tools.md/#davinci-resolve), [Adobe Firefly](tools.md/#adobe-firefly), [Eleven Labs](tools.md/#eleven-labs), [Photoshop Retouche4me](tools.md/#photoshop-retouche4me). Furthermore, both computers give acees to media editing software: [Izotope RX10](tools.md/#izotope-rx10), and [Ableton Live 11](tools.md/#ableton-live-11), and modeling software: [Blender](tools.md/#blender), [Shaper Trace](tools.md/#shaper-trace), [Orca Slicer](tools.md/#orca-slicer-software), [Shapr 3D](./tools.md/#shapr-3d), and [Kyub](./tools.md/#kyub).
 
-## Stable Diffusion
+### Stable Diffusion
 
-## HeyGen
+### HeyGen
 
-## Chat GPT
+### Chat GPT
 
-## Project Runway
+### Project Runway
 
-## DaVinci Resolve
+### DaVinci Resolve
 
-## Adobe Firefly
+### Adobe Firefly
 
-## Eleven Labs
+### Eleven Labs
 
 Above that, the workstations offer media editing software.
 
-## Photoshop Retouche4me
+### Photoshop Retouche4me
 
-## Izotope RX10
+### Izotope RX10
 
-## Ableton Live 11
+### Ableton Live 11
 
 The worstations also allow to create models which can be printed or laser cut in the Maker Studio.
 
-## Shaper Trace
+### Shaper Trace
 
-## Shapr 3D
+### Shapr 3D
 
-## Kyub
+### Kyub
 
 ## Studio Workstation
 
 Our Studio Workstation allows for professional [photo shootings](tools.md/#canon-slrt-photoshootings) and [video recordings](tools.md/#video-recordings) as well as [podcast recordings](tools.md/#podcasting).
 
-## Canon SLRT Photoshooting
+### Canon SLRT Photoshooting
 
-## Video Recordings
+### Video Recordings
 
-## Podcasting Setup
+### Podcasting Setup
 
-## UX Recording Workstation
+## UX Workstation
 
-Our UX Recordings Workstation allows for professional video recordings for various kinds of user studies.
+Our UX Workstation allows for professional video recordings for various kinds of user studies.
 
 ## Superposition Workstation
 
