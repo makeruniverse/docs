@@ -1,8 +1,8 @@
-Hey Makers. 
+A list of Bachelor projects and individual maker projects that we supported and documented so that you can re-build some of the prototypes at your own pace. You will have access to all necessary materials and tools.
 
-we support student- and team-projects with tools, expertise and, project management. We selectively record team sessions for tutorials so that future students can re-build prototypes from former projects.
+Talk to our Head of Maker Universe [@holger.rhinow](../team/team.md/#holger-rhinow) about your project ideas! 
 
-## 2024
+## 2024 <br />
 
 ### [Smart Clothing by Orhan](./projects/smart-clothing-project.md)
 
@@ -18,4 +18,3 @@ we support student- and team-projects with tools, expertise and, project managem
 
 ### [Nanoleaf++ Project by Yannik & Alexander](./projects/nanoleafplus-project.md)
 
-Talk to our Head of Maker Universe [@holger.rhinow](../team/team.md/#holger-rhinow) about your project ideas! 
