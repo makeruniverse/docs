@@ -1,6 +1,4 @@
-Tools that are available at the HPI Maker Universe. 
-
-Talk to our [experts](../team/team.md) for instructions. <br />
+Tools that are available at the HPI Maker Universe. Talk to our [experts](../team/team.md) for instructions. <br />
 
 ## Maker Studio Tools
 
@@ -171,7 +169,7 @@ The worstations also allow to create models which can be printed or laser cut in
 
 ### Kyub
 
-## Studio Workstation
+## Film Studio Workstation
 
 Our Studio Workstation allows for professional [photo shootings](tools.md/#canon-slrt-photoshootings) and [video recordings](tools.md/#video-recordings) as well as [podcast recordings](tools.md/#podcasting).
 
@@ -183,7 +181,13 @@ Our Studio Workstation allows for professional [photo shootings](tools.md/#canon
 
 ## UX Workstation
 
-Our UX Workstation allows for professional video recordings for various kinds of user studies.
+Our UX Workstation allows for professional video recordings for various kinds of user studies, e.g.:
+
+- User Interviews
+- UX / Usabiltiy Tests
+- Standardized Questionnaires
+- Field Observations
+- Prototype User Tests
 
 ## Superposition Workstation
 

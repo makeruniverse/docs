@@ -6,9 +6,9 @@ Working Hours: Weekdays
 
 Services 
 
-- [Project Planning](../projects/projects.md)
-- Agile Project Management
-- Research
+- [Project Partnering](../projects/projects.md)
+- [User Research](../tools/tools.md/#ux-workstation)
+- [Communication]()
 
 ## David Bizer
 
@@ -16,8 +16,8 @@ Working Hours: Tuesdays
 
 Services
 
-- 3D Printing
-- 3D Modeling
+- [3D Printing](../tools/tools.md/#3d-printer-workstation)
+- [3D Modeling](../tools/tools.md/#modeler-workstation)
 - [Laser Cutting](../tools/tools.md/#laser-cutter-workstation)
 
 ## Markus Wutzlhofer
@@ -29,3 +29,44 @@ Services
 - AI & Design Consulting
 - Film Studio Projects
 - Video Documentation of Maker Projects
+
+## Jan Koch
+
+Working Hours: Mondays
+
+Services
+
+- User Research
+- Smart Home Setup
+
+## Björn Steiner
+
+Working Hours: Mondays - Thursdays
+
+Services
+
+- Audio Engineering
+- 3D Printing
+- Workshop Tools
+
+## Anna Roumen
+
+Working Hours: Weekdays in the afternoons (remote)
+
+- Procurement
+- Project Support
+
+## Tobias Rosenbusch
+
+Working Hours: Thursdays
+
+- Electronics
+- Sensors
+
+## Nicolai Hertle
+
+Working Hourse: Upon request
+
+- Maker Lab Organisation
+- Workshop Setups
+
