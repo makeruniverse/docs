@@ -1,14 +1,10 @@
-# Our Team
-
-Our team of experts is here to help you. Please send you requests via Slack @contact-our-team
+Our team of experts is here to help you. Please send your requests via Slack @contact-our-team
 
 ## Holger Rhinow
 
-### Working Hours
+Working Hours: Weekdays
 
-Weekdays
-
-### Services 
+Services 
 
 - [Project Planning](../projects/projects.md)
 - Agile Project Management
@@ -16,24 +12,20 @@ Weekdays
 
 ## David Bizer
 
-### Working Hours
+Working Hours: Tuesdays
 
-Tuesdays
+Services
 
-### Services
-
-- 3D Printing, e.g. with Bambu X1, Bambu A1, Creality K1, Prusa XL
-- 3D Modeling with Rhino 3D and Autodesk
-- Laser Cutting with [Trotec](../tools/maker-tools.md/#laser-cutter-trotec)
+- 3D Printing
+- 3D Modeling
+- [Laser Cutting](../tools/tools.md/#laser-cutter-workstation)
 
 ## Markus Wutzlhofer
 
-### Working Hours
+Working Hours: Mondays - Thursdays
 
-Mondays - Thursdays
+Services
 
-### Services
-
-- [Media Tool](../tools/media-tools.md) Introductions
-- Media Coverage of Maker Projects
 - AI & Design Consulting
+- Film Studio Projects
+- Video Documentation of Maker Projects

@@ -6,7 +6,6 @@ You can also join a guided tour every Tuesday 10:00 AM in the Maker Universe in 
 
 We partner with HPI teams and indivdual students, and researchers to support them in making their ideas real. We also document our [projects](./projects/projects.md) for future students - as an inspiration and an opportunity to re-build prototypes.
 
-
 ## Tools
 
 We offer access to [tools and materials](./tools/tools.md) as well as [experts](./team/team.md) that can teach you how to use them.
