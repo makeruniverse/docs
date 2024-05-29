@@ -99,6 +99,16 @@ This works in Pruse SLicer, Orca Slicer & Bambu Studio.
 Import your SVG file, the printer will directly show an extruded version with a height of 10mm.
 For creating small signs set Z-height to 2mm (uncheck uniform scale) and adjust XY scale as needed.
 
+### 3D Print Ressources
+
+Collection of high quality template pages for 3d printing, laser cutting, etc.
+3D Printing:
+
+https://www.printables.com/
+https://www.thingiverse.com/
+https://thangs.com/
+https://makerworld.com/
+
 ### Laser Cutter Workstation
 
 The Laser Cutter Workstation is located in the small Maker Studio next to the Trotec Laser Cutter.

@@ -8,7 +8,7 @@ Services
 
 - [Project Partnering](../projects/projects.md)
 - [User Research](../tools/tools.md/#ux-workstation)
-- [Communication]()
+- [Communication]
 
 ## David Bizer
 
@@ -26,9 +26,9 @@ Working Hours: Mondays - Thursdays
 
 Services
 
-- AI & Design Consulting
+- AI & Design Projects
 - Film Studio Projects
-- Video Documentation of Maker Projects
+- Video Documentation
 
 ## Jan Koch
 
