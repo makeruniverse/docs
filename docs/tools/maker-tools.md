@@ -2,10 +2,6 @@ Make your ideas real! Visit our Maker Studio and learn how to laser cut, 3D prin
 
 Get started today and meet our [maker experts](../team/team.md) that will support you.
 
-# Workstations
-
-Workstations are our stationary computers with pre-installed software for free usage.
-
 ## Modeler Workstation
 
 The Modeler Workstation is our stationary computer in the Maker Studio that allows to create models, and to preapare various kinds of prints.
@@ -35,7 +31,7 @@ AUR: `orca-slicer`
 
 ### Label Printer QL-820NWBc
 
-#### Getting Started
+Getting Started
 This device can print up to 62mm in width. If wider: You might change the orientation of the label in the software to fit the label on the printer.
 
 You can use the printer via Wi-Fi (hpi-studios) and via USB.
@@ -44,11 +40,10 @@ Currently these settings are used:
 ![](../Label_Printer/img/settings.png)
 Design and print your label. You can also print multiple labels at once.
 
-#### Software
+Software
 Download the Software
 MacOS: https://apps.apple.com/de/app/brother-p-touch-editor/id1453365242?mt=12
 Windows: https://support.brother.com/g/s/es/inst/de/index.htm?c=de&lang=de&navi=off&comple=on&redirect=on
-
 
 ## 3D Printers
 
@@ -62,7 +57,7 @@ Use Bambu X1x when you print larger objects or objects with up to four different
 
 The Bambu Lab X1c has a build volume of 256 x 256 x 265 mm and usually uses a 0.4mm nozzle.
 
-#### PLA Warping Issues
+PLA Warping Issues
 
 The Bambu has a Snakehouse Fan Duct, which is a bit too close to the bed, on the left of the enclosure. If thin/fragile parts are located on the left side of the bed, near to the edge, they might warp due to the fan blowing on it. If that happens disable the AUX Fan and print with open enclosure. ![OrcaSlicer AUX Fan Settings](../3D_Printing/img/auxfan-orca.png)
 This might also apply for other printers with a similar fan duct.
