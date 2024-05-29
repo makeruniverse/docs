@@ -1,6 +1,6 @@
 Hey Makers. 
 
-not only do we support you on your journey, but we are also turning your project into video tutorials. That way, future students can re-build ideas at their own pace and supported by our experts.
+we support student- and team-projects with tools, expertise and, project management. We selectively record team sessions for tutorials so that future students can re-build prototypes from former projects.
 
 [256 Pixels Project by Luca](./projects/256-pixels-project.md)
 
