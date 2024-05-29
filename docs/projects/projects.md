@@ -2,6 +2,8 @@ Hey Makers.
 
 we support student- and team-projects with tools, expertise and, project management. We selectively record team sessions for tutorials so that future students can re-build prototypes from former projects.
 
+[Smart Clothing by Orhan](./projects/smart-clothing-project.md)
+
 [256 Pixels Project by Luca](./projects/256-pixels-project.md)
 
 [Smart Plants Project by Florian](./projects/smart-plants-project.md)
