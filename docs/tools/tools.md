@@ -99,7 +99,7 @@ This works in Pruse SLicer, Orca Slicer & Bambu Studio.
 Import your SVG file, the printer will directly show an extruded version with a height of 10mm.
 For creating small signs set Z-height to 2mm (uncheck uniform scale) and adjust XY scale as needed.
 
-# Laser Cutter Workstation
+## Laser Cutter Workstation
 
 The Laser Cutter Workstation is located in the small Maker Studio next to the Trotec Laser Cutter.
 
@@ -111,9 +111,9 @@ Ruby Software
 
 ...
 
-# Electronic Workstation
+## Electronic Workstation
 
-The Electronic Workstation is located in the Maker Studio. It offers various tools to measure and solder electronic parts.
+The Electronic Workstation offers two working tables with various tools to [solder components](tools.md/#soldering-station), and to do precise electronic [measurements](tools.md/#multimeter). The workstation is also stacked with [electronic components](tools.md/#electronic-components) and [materials](tools.md/#electronic-materials) that are free to use.
 
 ## Soldering Station
 
@@ -122,3 +122,7 @@ We have 6 soldering stations you can use after a mandatory introduction.
 ## Multimeter
 
 ## Microscope
+
+## Electronic Components
+
+## Electronic Materials
