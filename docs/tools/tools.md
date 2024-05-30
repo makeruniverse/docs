@@ -70,20 +70,20 @@ This might also apply for other printers with a similar fan duct.
 
 Creality K1 has a build volume of 300 x 300 x 300 mm usually one of them is equipped with a 0.4mm nozzle and the other one with a 0.8mm nozzle.
 
-??? Use Creality K1 when you print large objects.
+??? "Print large objects"
 
     The Creality printers use Klipper firmware [Official Documentation] (https://www.klipper3d.org/Overview.html)
     You can access the printers via webinterface.
     IP left printer (0.8 nozzle): https://172.22.0.254:4408 
     IP right printer (0.4 nozzle) https://172.22.3.249:4408
 
-??? Connect OrcaSlicer to Creatly K1 with pure Klipper
+??? "Connect OrcaSlicer to Creatly K1"
 
     You can get the IP address of your Creatly K1 by going to the printer menu and selecting `Settings` and then `Network`.
     Make sure your PC is connected to `hpi_studio` WiFi.
     Enter the IP Address like shown in the image above and click `Test`. If the test is successful you can click `Connect` and start printing. After slicing you can click `Print` to start printing.
 
-??? Web Interface of the Creality K1
+??? Creality K1 Web Interface" of the Creality K1"
 
     Make sure your PS is connected to `hpi_studio` WiFi.
     Select `Settings` and then `Network`. Then enter the IP Address in your browser. Make sure to append `4408` as port. Example: ![http://172.22.0.254:4408](http://172.22.0.254:4408)
@@ -92,22 +92,22 @@ Creality K1 has a build volume of 300 x 300 x 300 mm usually one of them is equi
 
 Use Prusa XL when you print large objects and / or objects with multiple filament types.
 
-Printing with Vector Files
-It's possible to import SVG files into the slicing software, give them a thickness (extrude) and 3d print them.
-This works in Pruse SLicer, Orca Slicer & Bambu Studio.
+??? "Printing with Vector Files"
 
-Import your SVG file, the printer will directly show an extruded version with a height of 10mm.
-For creating small signs set Z-height to 2mm (uncheck uniform scale) and adjust XY scale as needed.
+    It's possible to import SVG files into the slicing software, give them a thickness (extrude) and 3d print them.
+    This works in Pruse SLicer, Orca Slicer & Bambu Studio.
+
+    Import your SVG file, the printer will directly show an extruded version with a height of 10mm.
+    For creating small signs set Z-height to 2mm (uncheck uniform scale) and adjust XY scale as needed.
 
 ### 3D Print Ressources
 
-Collection of high quality template pages for 3d printing, laser cutting, etc.
-3D Printing:
+???+ "Collection of high quality template pages"
 
-https://www.printables.com/
-https://www.thingiverse.com/
-https://thangs.com/
-https://makerworld.com/
+    https://www.printables.com/
+    https://www.thingiverse.com/
+    https://thangs.com/
+    https://makerworld.com/
 
 ### Laser Cutter Workstation
 
