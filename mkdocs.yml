@@ -76,3 +76,4 @@ nav:
   - 'Tools': './tools/tools.md'
   - 'Projects': './projects/projects.md'
   - 'Blog': './makerblog/blog.md'
+  - 'Metrics': './metrics/metrics.md'
