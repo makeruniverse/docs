@@ -41,3 +41,11 @@ Rationale: The number of active learners in our own educational offers during a 
 Method: We will track participation numbers in our workshops and summarize results per semester.
 
 Limitations: Our offers are not mandatory. Students may appreciate certain offers but simply cannot participate due to time conflicts. Therefore, participation numbers do not adequately reflect a general interest in maker education offers.
+
+### #3: Education Quality
+
+Rationale: The perceived quality is an indicator for the relevance of the Maker Universe among those students, researchers, and staff that engage with it.
+
+Method: At the end of every workshop, we will conduct a survey among active participants using the Net Promoter Score (NPS). Participants are asked to rate to what degree they would recommend the Maker Universe to their peers (0 = not all, 10= extremely likely). Only “9” and “10” answers are considered “promotions”. NPS scores above 50% are considered excellent.
+
+Limitations: The NPS does not address reasonings for ratings, e.g., whether a workshop was relevant, but not very engaging.

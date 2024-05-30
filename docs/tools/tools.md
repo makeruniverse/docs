@@ -61,11 +61,10 @@ Use Bambu X1x when you print larger objects or objects with up to four different
 
 The Bambu Lab X1c has a build volume of 256 x 256 x 265 mm and usually uses a 0.4mm nozzle.
 
-PLA Warping Issues
+??? "PLA Warping Issues"
 
-The Bambu has a Snakehouse Fan Duct, which is a bit too close to the bed, on the left of the enclosure. If thin/fragile parts are located on the left side of the bed, near to the edge, they might warp due to the fan blowing on it. If that happens disable the AUX Fan and print with open enclosure. ![OrcaSlicer AUX Fan Settings](../3D_Printing/img/auxfan-orca.png)
-This might also apply for other printers with a similar fan duct.
-
+    The Bambu has a Snakehouse Fan Duct, which is a bit too close to the bed, on the left of the enclosure. If thin/fragile parts are located on the left side of the bed, near to the edge, they might warp due to the fan blowing on it. If that happens disable the AUX Fan and print with open enclosure. ![OrcaSlicer AUX Fan Settings](../3D_Printing/img/auxfan-orca.png)
+    
 ### Creality K1 (2x)
 
 Creality K1 has a build volume of 300 x 300 x 300 mm usually one of them is equipped with a 0.4mm nozzle and the other one with a 0.8mm nozzle.
@@ -199,6 +198,8 @@ Our UX Workstation allows for professional video recordings for various kinds of
 - Field Observations
 - Prototype User Tests
 
+Researchers can book our UX space to conduct usability tests or user interviews via #contact-our-team. The space  comprises 4 PTZ cameras, a a Shure audio panel, a UX workstation, a recording workstation, and a coffee table with two chairs. It serves for video recordings without lengthy setup procedures.
+
 ## Superposition Workstation
 
-Superposition allows teams up to 4 members to work in parallel using 4 75inch screens that either show all screens
+Project teams of up to four people can book our Super Position setup with four large screens connected to a matrix switch. Preliminary results indicate that teams code & design more efficiently in a controlled environment in which every team member can also observe parallel tasks.
