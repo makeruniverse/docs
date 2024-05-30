@@ -67,11 +67,10 @@ Method: At the end of every workshop, we will conduct a survey among active part
 
 Limitations: The NPS does not address reasonings for ratings, e.g., whether a workshop was relevant, but not very engaging.
 
-**STATS**
+**TOP 5**
 
-??? "TOP 5"
+??? "30.5.2024"
 
-    30.5.2024
     1. Soldering (NPS: 100) <br />
     2. Stable Diffusion 2 (NPS:100) <br />
     3. Stable Diffusion 1 (NPS: 80) <br />
