@@ -1,4 +1,4 @@
-Tiny reflections on what we learned about maker teams that got things right.
+Tiny observations on what we learned about maker teams that got things right.
 
 ## 2024
 

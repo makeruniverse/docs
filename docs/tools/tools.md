@@ -102,12 +102,11 @@ Use Prusa XL when you print large objects and / or objects with multiple filamen
 
 ### 3D Print Ressources
 
-???+ "Collection of high quality template pages"
-
-    https://www.printables.com/ <br />
-    https://www.thingiverse.com/ <br />
-    https://thangs.com/ <br />
-    https://makerworld.com/ <br />
+Collection of high quality template pages:
+https://www.printables.com/ <br />
+https://www.thingiverse.com/ <br />
+https://thangs.com/ <br />
+https://makerworld.com/ <br />
 
 ### Laser Cutter Workstation
 
