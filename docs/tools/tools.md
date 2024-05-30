@@ -83,7 +83,7 @@ Creality K1 has a build volume of 300 x 300 x 300 mm usually one of them is equi
     Make sure your PC is connected to `hpi_studio` WiFi.
     Enter the IP Address like shown in the image above and click `Test`. If the test is successful you can click `Connect` and start printing. After slicing you can click `Print` to start printing.
 
-??? Creality K1 Web Interface" of the Creality K1"
+??? "Creality K1 Web Interface"
 
     Make sure your PS is connected to `hpi_studio` WiFi.
     Select `Settings` and then `Network`. Then enter the IP Address in your browser. Make sure to append `4408` as port. Example: ![http://172.22.0.254:4408](http://172.22.0.254:4408)
@@ -104,10 +104,10 @@ Use Prusa XL when you print large objects and / or objects with multiple filamen
 
 ???+ "Collection of high quality template pages"
 
-    https://www.printables.com/
-    https://www.thingiverse.com/
-    https://thangs.com/
-    https://makerworld.com/
+    https://www.printables.com/ <br />
+    https://www.thingiverse.com/ <br />
+    https://thangs.com/ <br />
+    https://makerworld.com/ <br />
 
 ### Laser Cutter Workstation
 
