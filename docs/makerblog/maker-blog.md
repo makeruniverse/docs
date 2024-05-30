@@ -1,4 +1,4 @@
-Tiny observations on what we learned about maker teams that got things right.
+Tiny Reflections: The Wins and Lessons from Maker Projects.
 
 ## 2024
 
@@ -16,11 +16,9 @@ Now, imagine this: You are part of a product team developing a revolutionary AI-
 
 ### Jobs to be Done 
 
-We don't want to buy products to own them.
+As users, we don't want to own products. We need them to get a job done. It's always about getting from A to B.
 
-We need them to get a job done. It's always about getting from A to B.
-
-Product teams must understand what A and B represent in a user's life and identify the obstacles in between. (HR) <<br /> <br />
+Accomplished product teams know their users' A and their B. And the obstacles between them. (HR) <<br /> <br />
 
 ### Startups fail
 
