@@ -16,7 +16,9 @@ Our goal is to educate **50 students** in learning how to apply maker technologi
 Our maker team will accomplish this goal by offering education sessions. Accomplishing this goal will create an impact on student satisfaction at HPI, measured through a Net Promoter Score.
 Students will receive a digital badge for their participation. This enables them to introduce tools to other students (peer-learning-concept).
 
-**STATS** (30.05/24): 53 Students / 8 HPI Employees / 25 School Children
+**STATS** 
+??? "30.05.24"
+    53 Students / 8 HPI Employees / 25 School Children
 
 ### #2: Student Educators
 
@@ -25,7 +27,9 @@ Our goal is to guide **10 students** to become educators for other students by 3
 Our team will accomplish this goal by actively promoting and introducing students in front of their peers. Accomplishing this goal will create a new peers-based and hands-on education experience.
 Student educators will receive a certification and a documentation of their accomplishments.
 
-**STATS** (30.05/24): 7 Student Educators in 6 Projects
+**STATS** 
+??? "30.05.24"
+    7 Student Educators in 6 Projects
 
 ## Key Performance Indicators
 
@@ -39,7 +43,9 @@ Method: We will track ingoing persons via a POS Retail version based on light su
 
 Limitations: The number of daily visits is not a qualitative indicator. People can come in and leave soon without having achieved anything meaningful. Also, at days, only a few visitors may come in, but these visits may have lasting impacts on their projects.
 
-**STATS** (30.05/24) on avg. over the last 30 days: 141 visits/day
+**STATS** 
+??? "30.05.24" 
+    141 visits/day on average
 
 ### #2: No. of active learners
 
@@ -49,7 +55,9 @@ Method: We will track participation numbers in our workshops and summarize resul
 
 Limitations: Our offers are not mandatory. Students may appreciate certain offers but simply cannot participate due to time conflicts. Therefore, participation numbers do not adequately reflect a general interest in maker education offers.
 
-**STATS** (30.05/24): 53 Students / 8 HPI Employees / 25 School Children
+**STATS** 
+??? "30.05.24"
+53 Students / 8 HPI Employees / 25 School Children
 
 ### #3: Education Quality
 
@@ -59,9 +67,13 @@ Method: At the end of every workshop, we will conduct a survey among active part
 
 Limitations: The NPS does not address reasonings for ratings, e.g., whether a workshop was relevant, but not very engaging.
 
-Top 5 Educational Offers (30.5.2024)
-1. Soldering (NPS: 100)
-2. Stable Diffusion 2 (NPS:100)
-3. Stable Diffusion 1 (NPS: 80)
-4. Blender (NPS: 80)
-5. Laser Cutter Workshop (NPS: 75)
+**STATS**
+
+??? "TOP 5"
+
+    30.5.2024
+    1. Soldering (NPS: 100)
+    2. Stable Diffusion 2 (NPS:100)
+    3. Stable Diffusion 1 (NPS: 80)
+    4. Blender (NPS: 80)
+    5. Laser Cutter Workshop (NPS: 75)
