@@ -12,4 +12,7 @@ We offer access to [tools and materials](./tools/tools.md) as well as [experts](
 
 ## Community
 
-Join via [Slack Workspace](https://hpi-makeruniverse.slack.com) and sign up for #maker-community to get regular updates and to register for workshops. Sign up for #contact-our-team to send requests and ideas Sign up for #incoming-equipment to track all orders of new materials and tools and why they are ordered. 
+Join our communication channels via [Slack Workspace](https://hpi-makeruniverse.slack.com).
+From here, sign up for #maker-community to get regular updates and to register for workshops. 
+Sign up for #contact-our-team to send requests and ideas.
+Also, Sign up for #incoming-equipment to track all orders of new materials and tools and why they are ordered. 
