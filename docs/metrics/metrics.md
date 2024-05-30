@@ -57,7 +57,7 @@ Limitations: Our offers are not mandatory. Students may appreciate certain offer
 
 **STATS** 
 ??? "30.05.24"
-53 Students / 8 HPI Employees / 25 School Children
+    53 Students / 8 HPI Employees / 25 School Children
 
 ### #3: Education Quality
 
@@ -72,8 +72,8 @@ Limitations: The NPS does not address reasonings for ratings, e.g., whether a wo
 ??? "TOP 5"
 
     30.5.2024
-    1. Soldering (NPS: 100)
-    2. Stable Diffusion 2 (NPS:100)
-    3. Stable Diffusion 1 (NPS: 80)
-    4. Blender (NPS: 80)
-    5. Laser Cutter Workshop (NPS: 75)
+    1. Soldering (NPS: 100) <br />
+    2. Stable Diffusion 2 (NPS:100) <br />
+    3. Stable Diffusion 1 (NPS: 80) <br />
+    4. Blender (NPS: 80) <br />
+    5. Laser Cutter Workshop (NPS: 75) <br />
