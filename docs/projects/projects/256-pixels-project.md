@@ -1,4 +1,4 @@
-# 256 Pixels by Luca
+# 256 Pixels by Blueforcer
 
 In this project, you will build a RGB Pixel display running and based on [awtrix](https://github.com/Blueforcer/awtrix3).
 
@@ -22,7 +22,7 @@ In this video we will show you how to laser cut a frosted glass screen that cove
 
 ## Soldering Parts with the ESP
 
-In this video ...
+In this video you will learn how to connect the dots. 
 
 ## UI Configurations
 
