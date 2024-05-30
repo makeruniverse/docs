@@ -66,12 +66,14 @@ In that sense, project teams are no different to startups. (HR) <br /> <br />
 
 ## 2023
 
-### User Research
+### Limits of User Research
 
 People in UX as well as in user research tend to evade the term "user" recently. They prefer to talk about and "human-centered" research, and "human-centered" solutions.
 
-Sounds good. But it misses the point. Twice.
+The re-branding misses the point.
 
-(1) The term “user" in "user research" does not refer to a specific target, but to a set of methods. These methods are not exclusively adressing human beings, but also animals. And even more so, [machines](https://www.researchgate.net/publication/332636704_Machine_behaviour).
+We know by now that user research methods [cannot tell us](https://osf.io/ezcuj/) what human beings are, what they feel and think. All they do, is to reveal usage behaviors. (HR) <br /> <br />
 
-(2) Though, behavioural research [tried to tell us](https://osf.io/ezcuj/) otherwise, user research methods don't reveal the human nature of the actor. They only reveal usage behaviors, hence the name. (HR) <br /> <br />
+### Users in User Research 
+
+The term “user" in "user research" does not refer to a specific target, but to a set of methods. These methods are not exclusively adressing human beings. They can also reveal usage behaviors of animals. And even more so, [machines](https://www.researchgate.net/publication/332636704_Machine_behaviour).
