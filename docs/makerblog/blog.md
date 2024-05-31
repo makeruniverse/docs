@@ -1,4 +1,4 @@
-Tiny Reflections: The Wins and Lessons from Maker Projects.
+Tiny Observations on the Wins and Lessons from Maker Projects.
 
 ## 2024
 
