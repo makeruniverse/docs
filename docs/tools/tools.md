@@ -190,15 +190,20 @@ Our Studio Workstation allows for professional [photo shootings](tools.md/#canon
 
 ## UX Workstation
 
-Our UX Workstation allows for professional video recordings for various kinds of user studies, e.g.:
+Our UX Workstation allows for professional video recordings for various kinds of user studies.
 
-- User Interviews
-- UX / Usabiltiy Tests
-- Standardized Questionnaires
-- Field Observations
-- Prototype User Tests
+The **setup** comprises 4 PTZ cameras, a Shure audio panel, a recording workstation, and a coffee table with two chairs.
 
-Researchers can book our UX space to conduct usability tests or user interviews via #contact-our-team. The space  comprises 4 PTZ cameras, a a Shure audio panel, a UX workstation, a recording workstation, and a coffee table with two chairs. It serves for video recordings without lengthy setup procedures.
+??? "UX Case Study Examples"
+    - User Interviews
+    - UX / Usabiltiy Tests
+    - Standardized Questionnaires
+    - Field Observations
+    - Prototype User Tests
+
+??? "How to get Access"
+
+    Get in contact with our colleague [Jan](../team/team.md) to plan your UX-project or leave a message in our Slack Channel #contact-our-team.
 
 ## Superposition Workstation
 
