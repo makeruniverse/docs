@@ -16,11 +16,11 @@ Our Head of Maker Universe, Holger, is [taking notes](./makerblog/blog.md) on ma
 
 ## Metrics
 
-The Maker Universe is a testing environment for new on-campus services and educational experiences. With our [metrics](./metrics/metrics.md) we want to openly share what success would like for us. 
+The Maker Universe is a testing environment for new on-campus services and educational experiences. With our [metrics](./metrics/metrics.md) we aim to openly share what success would like for us. 
 
 ## Community
 
-This Github repository is a knowledge base for students - supported by students. We are looking forward to your contributions and welcom your pull requests. 
+This Github repository is a knowledge base for students - supported by students. We are looking forward to your contributions in the form of pull requests. 
 
 ??? "More about our community"
 
