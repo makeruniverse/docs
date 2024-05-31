@@ -146,7 +146,30 @@ Our Media Tools are located in the Media Studio. They serve various use case to 
 
 ### Media Workstation  
 
-The Media Workstation consists of two powerful computers with access to AI applications, e.g. [Stable Diffusion](tools.md/#stable-diffusion), [HeyGen](tools.md/#heygen), [Chat GPT](tools.md/#chat-gpt), [Project Runway](tools.md/#project-runway), [DaVinci Resolve](tools.md/#davinci-resolve), [Adobe Firefly](tools.md/#adobe-firefly), [Eleven Labs](tools.md/#eleven-labs), [Photoshop Retouche4me](tools.md/#photoshop-retouche4me). Furthermore, both computers give acees to media editing software: [Izotope RX10](tools.md/#izotope-rx10), and [Ableton Live 11](tools.md/#ableton-live-11), and modeling software: [Blender](tools.md/#blender), [Shaper Trace](tools.md/#shaper-trace), [Orca Slicer](tools.md/#orca-slicer-software), [Shapr 3D](./tools.md/#shapr-3d), and [Kyub](./tools.md/#kyub).
+The Media Workstation consists of two powerful computers with access to AI applications, media editing software, and modeler software.
+
+??? "AI tools"
+
+    [Stable Diffusion](tools.md/#stable-diffusion) <br /> 
+    [HeyGen](tools.md/#heygen) <br />
+    [Chat GPT](tools.md/#chat-gpt)<br />
+    [Project Runway](tools.md/#project-runway)<br />
+    [DaVinci Resolve](tools.md/#davinci-resolve)<br />
+    [Adobe Firefly](tools.md/#adobe-firefly)<br />
+    [Eleven Labs](tools.md/#eleven-labs)<br />
+    [Photoshop Retouche4me](tools.md/#photoshop-retouche4me)
+ 
+??? "Media Editing Software"
+
+    [Izotope RX10](tools.md/#izotope-rx10) <br />
+    [Ableton Live 11](tools.md/#ableton-live-11)
+
+??? "Modeler Software"
+    [Blender](tools.md/#blender)<br />
+    [Shaper Trace](tools.md/#shaper-trace)<br />
+    [Orca Slicer](tools.md/#orca-slicer-software)<br />
+    [Shapr 3D](./tools.md/#shapr-3d)<br />
+    [Kyub](./tools.md/#kyub)
 
 ### Stable Diffusion
 
