@@ -1,4 +1,4 @@
-# 256 Pixels based on awtrix 3 by Blueforcer
+# 256 Pixels
 
 In this project, you will build a RGB Pixel display running and based on [awtrix](https://github.com/Blueforcer/awtrix3).
 
