@@ -182,6 +182,10 @@ The worstations also allow to create models which can be printed or laser cut in
 
 Our Studio Workstation allows for professional [photo shootings](tools.md/#canon-slrt-photoshootings) and [video recordings](tools.md/#video-recordings) as well as [podcast recordings](tools.md/#podcasting).
 
+??? "How to get access"
+
+    The studio is available and can be used without prior registrations. We can support you in setting up the space for a professional shooting. Our colleague [Markus Wutzlhofer](../team/team.md) is managing the studio and can help you.
+
 ### Canon SLRT Photoshooting
 
 ### Video Recordings
@@ -207,4 +211,10 @@ The **setup** comprises 4 PTZ cameras, a Shure audio panel, a recording workstat
 
 ## Superposition Workstation
 
-Project teams of up to four people can book our Super Position setup with four large screens connected to a matrix switch. Preliminary results indicate that teams code & design more efficiently in a controlled environment in which every team member can also observe parallel tasks.
+Project teams of up to four people can book our Super Position setup to work in parallel by sharing their screens with each other.
+
+??? "How to connect to Superposition"
+
+    abc
+
+ 
