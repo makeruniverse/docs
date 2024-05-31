@@ -33,23 +33,25 @@ AUR: `orca-slicer`
 
 ### Label Printer QL-820NWBc
 
-Getting Started
 This device can print up to 62mm in width. If wider: You might change the orientation of the label in the software to fit the label on the printer.
 
 You can use the printer via Wi-Fi (hpi-studios) and via USB.
 
-Currently these settings are used:
-![](../Label_Printer/img/settings.png)
-Design and print your label. You can also print multiple labels at once.
+??? "Software for our Label Printer"
 
-Software
-Download the Software
-MacOS: https://apps.apple.com/de/app/brother-p-touch-editor/id1453365242?mt=12
-Windows: https://support.brother.com/g/s/es/inst/de/index.htm?c=de&lang=de&navi=off&comple=on&redirect=on
+    MacOS: https://apps.apple.com/de/app/brother-p-touch-editor/id1453365242?mt=12
+    Windows: https://support.brother.com/g/s/es/inst/de/index.htm?c=de&lang=de&navi=off&comple=on&redirect=on
 
 ### 3D Printer Workstation
 
-Our workstation includes a access to [slicer software](tools.md/#orca-slicer-software) and a variety of 3D printers, e.g., 2x [Bambu A1 Mini](./tools.md/#bambu-a1-mini-2x), [2x Bambu X1](./tools.md/#bambu-x1-2x), 2x [Creality K1](tools.md/#creality-k1-2x), and the mighty [Prusa XL](tools.md/#prusa-xl). 
+Our workstation includes a access to [slicer software](tools.md/#orca-slicer-software) and a variety of 3D printers, e.g., 2x [Bambu A1 Mini](./tools.md/#bambu-a1-mini-2x), [2x Bambu X1](./tools.md/#bambu-x1-2x), 2x [Creality K1](tools.md/#creality-k1-2x), and the mighty [Prusa XL](tools.md/#prusa-xl).
+
+??? "3D Print Online Ressources"
+
+    https://www.printables.com/ <br />
+    https://www.thingiverse.com/ <br />
+    https://thangs.com/ <br />
+    https://makerworld.com/
 
 ### Bambu A1 Mini (2x)
 
@@ -99,30 +101,16 @@ Use Prusa XL when you print large objects and / or objects with multiple filamen
     Import your SVG file, the printer will directly show an extruded version with a height of 10mm.
     For creating small signs set Z-height to 2mm (uncheck uniform scale) and adjust XY scale as needed.
 
-### 3D Print Ressources
-
-Collection of high quality template pages: <br />
-
-- https://www.printables.com/ <br />
-- https://www.thingiverse.com/ <br />
-- https://thangs.com/ <br />
-- https://makerworld.com/ <br />
-
 ### Laser Cutter Workstation
 
 The Laser Cutter Workstation is located in the small Maker Studio next to the Trotec Laser Cutter.
 
-Getting Started
-
 Please contact our team to participate for a mandatory introduction in the machine and the software. The succesful participation allows you to use the laser cutter afterwards.
 
-Ruby Software
-
-...
 
 ### Electronic Workstation
 
-The Electronic Workstation offers two working tables with various tools to [solder components](tools.md/#soldering-station), and to do precise electronic [measurements](tools.md/#multimeter). The workstation is also stacked with [electronic components](tools.md/#electronic-components) and [materials](tools.md/#electronic-materials) that are free to use.
+The Electronic Workstation offers two working tables with various tools [solder components](tools.md/#soldering-station), and to do precise electronic [measurements](tools.md/#multimeter). The workstation is also stacked with [electronic components](tools.md/#electronic-components) and [materials](tools.md/#electronic-materials) that are free to use.
 
 ### Soldering Station
 
