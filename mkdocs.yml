@@ -65,12 +65,22 @@ extra_css:
 plugins:
   - search
   - offline
+  - glightbox
+  - mkdocs-video:
+      is_video: True
+      video_autoplay: True
+      video_loop: True
+      video_muted: True
+      video_controls: False
+      css_style:
+        width: "25%"
 
 markdown_extensions:
   - attr_list
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - md_in_html
 
 nav:
   - 'Home': 'index.md'
