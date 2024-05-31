@@ -26,6 +26,6 @@ This Github repository is a knowledge base for students - supported by students.
 
     Our daily communication happens in our [Slack Workspace](https://hpi-makeruniverse.slack.com). Here, you will find three channels for different purposes:
 
-    1. #maker-community is where you get regular updates and register for workshops. <br />
-    2. #contact-our-team is where you send us your questions and requests. <br />
-    3. #incoming-equipment is where you see tools and materials that are incoming. <br />
+    1. **maker-community** is where you get regular updates and register for workshops. <br />
+    2. **contact-our-team** is where you send us your questions and requests. <br />
+    3. **incoming-equipment** is where you see tools and materials that are incoming. <br />
