@@ -4,7 +4,7 @@ date: 2024-06-03
 categories:
     - aviation-project
 authors:
-    - holger
+    - Holger
 ---
 
 # First Blog Post
