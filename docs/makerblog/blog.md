@@ -46,9 +46,7 @@ When in doubt, go for the opportunity you can make real in 24h rather than in 24
 
 ### Running out of Energy
 
-“Startups don't die when they run out of cash; they die when the founders run out of energy.” (Naval Ravikant) 
-
-In that sense, project teams are no different to startups. (HR) <br /> <br /> 
+“Startups don't die when they run out of cash; they die when the founders run out of energy” (Naval Ravikant). In that sense, project teams are no different to startups. (HR) <br /> <br /> 
 
 ### Schelling Points
 
@@ -68,7 +66,7 @@ Now, imagine this: You are part of a product team developing a revolutionary AI-
 
 People in UX as well as in user research tend to evade the term "user" recently. They prefer to talk about and "human-centered" research, and "human-centered" solutions.
 
-The re-branding misses the point.
+"Human-centered" misses the point.
 
 We know by now that user research methods [cannot tell us](https://osf.io/ezcuj/) what human beings are, what they feel and think. All they do, is to reveal usage behaviors. (HR) <br /> <br />
 
