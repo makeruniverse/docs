@@ -2,7 +2,7 @@
 draft: false
 date: 2024-05-03
 categories:
-    - aviation-project
+    - general
 authors:
     - Holger
 ---
