@@ -1,4 +1,4 @@
-Tiny Reflections on previous Maker Projects
+Short Reflections on previous Maker Projects
 
 ## 2024
 
