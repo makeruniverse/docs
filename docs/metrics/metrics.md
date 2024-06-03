@@ -30,6 +30,9 @@ Student educators will receive a certification and a documentation of their acco
 ??? "30.05.24"
     7 Student Educators in 6 Projects
 
+??? "3.06.24"
+    7 Student Educators in 7 Projects
+
 ## Key Performance Indicators
 
 KPIs will help us to detect, (1) how many students and researchers engage with our learning environment, (2) to what degree they participate in our educational offers, and (3) how they perceive the quality of our offers.
