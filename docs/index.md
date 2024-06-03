@@ -12,7 +12,7 @@ We partner with HPI teams, students, and researchers in executing on projects. W
 
 ## Blog
 
-Our Head of Maker Universe, Holger, is [taking notes](./makerblog/blog.md) on maker projects: lessons learnt from teams and their projects.
+Our Head of Maker Universe, Holger, is [taking notes](./blog/index.md) on maker projects: lessons learnt from teams and their projects.
 
 ## Metrics
 
