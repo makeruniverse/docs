@@ -1,24 +1,10 @@
-Tiny Observations on the Wins and Lessons from Maker Projects.
+Tiny Reflections on previous Maker Projects
 
 ## 2024
 
-### Schelling Points
-
-Imagine this scenario: You are in New York. You are supposed to meet a stranger in the city within the next 24 hours, without any chance to communicate with them. 
-
-Where do you go? And when?
-
-It turns out that people are likely to end up on top of the Empire State Building at Noon.
-
-In this thought experiment, the Empire State Building serves as a [Schelling Point](https://www.youtube.com/watch?v=BtW-Ds-artA). The existence of Schelling Points indicates that coordination without communication is possible.
-
-Now, imagine this: You are part of a product team developing a revolutionary AI-powered user experience with no buttons or interfaces.Everything is speech-controlled. Identifiying the Schelling Points in your product experience will determine whether your users are captivated or simply lost. (HR) <br /> <br />
-
 ### Jobs to be Done 
 
-As users, we don't want to own products. We need them to get a job done. It's always about getting from A to B.
-
-Accomplished product teams know their users' A and their B. And the obstacles between them. (HR) <<br /> <br />
+As users, we don't want to own products. We need them to get a job done. It's always about getting from A to B. Accomplished product teams know their users' A and their B. And the obstacles between them. (HR) <br /> <br />
 
 ### Startups fail
 
@@ -63,6 +49,18 @@ When in doubt, go for the opportunity you can make real in 24h rather than in 24
 “Startups don't die when they run out of cash; they die when the founders run out of energy.” (Naval Ravikant) 
 
 In that sense, project teams are no different to startups. (HR) <br /> <br /> 
+
+### Schelling Points
+
+Imagine this scenario: You are in New York. You are supposed to meet a stranger in the city within the next 24 hours, without any chance to communicate with them. 
+
+Where do you go? And when?
+
+It turns out that people are likely to end up on top of the Empire State Building at Noon.
+
+In this thought experiment, the Empire State Building serves as a [Schelling Point](https://www.youtube.com/watch?v=BtW-Ds-artA). The existence of Schelling Points indicates that coordination without communication is possible.
+
+Now, imagine this: You are part of a product team developing a revolutionary AI-powered user experience with no buttons or interfaces.Everything is speech-controlled. Identifiying the Schelling Points in your product experience will determine whether your users are captivated or simply lost. (HR) <br /> <br />
 
 ## 2023
 
