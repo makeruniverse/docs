@@ -1,1 +1,3 @@
-# Welcome to the Blog
+# Maker Blog
+
+Short Reflections on previous Maker Projects.
