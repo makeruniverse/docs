@@ -17,7 +17,10 @@ Students will receive a digital badge for their participation. This enables them
 
 **STATS** 
 ??? "30.05.24"
-    53 Students / 8 HPI Employees / 25 School Children
+    53 Students / 8 HPI Employees / 25 Pupils
+
+??? "3.6.24"
+    10 Workshops / 61 Students / 8 HPI Employees / 25 Pupils
 
 ### #2: Student Educators
 
@@ -28,10 +31,10 @@ Student educators will receive a certification and a documentation of their acco
 
 **STATS** 
 ??? "30.05.24"
-    7 Student Educators in 6 Projects
+    7 Student Educators in 6 [Projects](../projects/projects.md)
 
 ??? "3.06.24"
-    7 Student Educators in 7 Projects
+    8 Student Educators in 8 [Projects](../projects/projects.md)
 
 ## Key Performance Indicators
 
