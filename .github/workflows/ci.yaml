@@ -2,13 +2,14 @@ name: ci
 on:
   push:
     branches:
-      - master 
+      - main
+  pull_request:
+    branches:
       - main
 permissions:
   contents: write
 jobs:
-  deploy:
-    if: github.repository == 'makeruniverse/docs'
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -21,3 +22,4 @@ jobs:
           path: .cache
       - run: pip install -r requirements.txt
       - run: mkdocs gh-deploy --force
+        if: github.ref == 'refs/heads/main'

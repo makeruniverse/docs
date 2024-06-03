@@ -64,10 +64,10 @@ extra_css:
 
 plugins:
   - search
+  - glightbox
   - blog:
       blog_dir: "./blog/"
   - offline
-  - glightbox
   - mkdocs-video:
       is_video: True
       video_autoplay: True
@@ -87,7 +87,7 @@ markdown_extensions:
 
 nav:
   - Home:
-    - index.md
+    - ./index.md
   - Tools:
     - ./tools/tools.md
   - Projects:
