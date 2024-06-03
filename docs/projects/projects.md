@@ -4,7 +4,7 @@ Talk to our Head of Maker Universe [@holger.rhinow](../team/team.md/#holger-rhin
 
 ## Bachelor Projects <br />
 
-### [Smart Clothing by Organ](./projects/smart-clothing-project.md)
+### [Smart Clothing by Orhan](./projects/smart-clothing-project.md)
 
 ## Student Projects <br />
 
