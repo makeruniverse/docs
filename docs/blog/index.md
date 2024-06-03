@@ -1,3 +1,1 @@
-# Maker Blog
-
-Short Reflections on previous Maker Projects.
+Tiny Reflections on previous Maker Projects.
