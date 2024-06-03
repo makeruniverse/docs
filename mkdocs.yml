@@ -64,6 +64,8 @@ extra_css:
 
 plugins:
   - search
+  - blog
+    blog_dir: .
   - offline
   - glightbox
   - mkdocs-video:
@@ -74,6 +76,7 @@ plugins:
       video_controls: False
       css_style:
         width: "25%"
+  
 
 markdown_extensions:
   - attr_list
