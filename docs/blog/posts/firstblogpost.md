@@ -8,4 +8,5 @@ authors:
 ---
 
 # First Blog Post
-- [aviation-project](/docs/projects/projects/aviation-project.md)
+
+
