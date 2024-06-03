@@ -8,7 +8,7 @@ In its current state (05/24), the HPI defined SMART goals to increase employee s
 
 Our SMART goals are focused on engaging students creating a unique hands-on-learning experience.
 
-### #1: Student Learners
+### Student Learners
 
 Our goal is to educate **50 students** in learning how to apply maker technologies by 31.12.2024. 
 
@@ -22,7 +22,7 @@ Students will receive a digital badge for their participation. This enables them
 ??? "3.6.24"
     10 Workshops / 61 Students / 8 HPI Employees / 25 Pupils
 
-### #2: Student Educators
+### Student Educators
 
 Our goal is to guide **10 students** to become educators for other students by 31.12.2024.
 
@@ -40,7 +40,7 @@ Student educators will receive a certification and a documentation of their acco
 
 KPIs will help us to detect, (1) how many students and researchers engage with our learning environment, (2) to what degree they participate in our educational offers, and (3) how they perceive the quality of our offers.
 
-### #1: No. of daily visits
+### No. of daily visits
 
 Rationale: The number of daily visits indicates how well known and how attractive the Maker Universe is to HPI students, researchers, and staff.
 
@@ -52,7 +52,7 @@ Limitations: The number of daily visits is not a qualitative indicator. People c
 ??? "30.05.24" 
     141 visits/day on average
 
-### #2: No. of active learners
+### No. of active learners
 
 Rationale: The number of active learners in our own educational offers during a semester is an indicator on how attractive our education offers are to students, researchers, and staff.
 
@@ -64,7 +64,7 @@ Limitations: Our offers are not mandatory. Students may appreciate certain offer
 ??? "30.05.24"
     53 Students / 8 HPI Employees / 25 School Children
 
-### #3: Education Quality
+### Education Quality
 
 Rationale: The perceived quality is an indicator for the relevance of the Maker Universe among those students, researchers, and staff that engage with it.
 
