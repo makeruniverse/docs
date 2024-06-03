@@ -69,4 +69,3 @@ Working Hourse: Upon request
 
 - Maker Lab Organisation
 - Workshop Setups
-

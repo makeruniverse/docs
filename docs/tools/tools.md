@@ -1,4 +1,4 @@
-Tools that are available at the HPI Maker Universe. Talk to our [experts](../team/team.md) for instructions. <br />
+Tools at the HPI Maker Universe. Talk to our [experts](../team/team.md) for help. <br />
 
 ## Maker Studio Tools
 
@@ -18,12 +18,11 @@ Orca Slicer is your best option to prepare 3D prints.
 - [ ] print on one of our printers
 - [ ] tag printer with your name
 
-You are of course free to downloard OrcaSlicer on your computer to prepare your print from there.
+??? "Alternative: Use Orca Slicer on your Laptop"
+    https://github.com/SoftFever/OrcaSlicer
 
-https://github.com/SoftFever/OrcaSlicer
-
-Install with brew: `brew install orcaslicer`
-AUR: `orca-slicer`
+    Install with brew: `brew install orcaslicer`
+    AUR: `orca-slicer`
 
 ### Autodesk Fusion
 
@@ -33,9 +32,9 @@ AUR: `orca-slicer`
 
 ### Label Printer QL-820NWBc
 
-This device can print up to 62mm in width. If wider: You might change the orientation of the label in the software to fit the label on the printer.
+This QL-820NWBc can print up to 62mm in width. If wider: You might change the orientation of the label in the software to fit the label on the printer.
 
-You can use the printer via Wi-Fi (hpi-studios) and via USB.
+You can use the printer via Wi-Fi (hpi-studios) and via USB. You can find the software on our Modeler Workstation.
 
 ??? "Software for our Label Printer"
 

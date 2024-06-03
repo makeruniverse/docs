@@ -1,4 +1,4 @@
-Our longterm goals and the tiny indicators of progress.
+Our goals. And potential indicators of progress.
 
 ## SMART Goals
 
@@ -7,7 +7,6 @@ SMART is the acronym for Specific, Measurable, Achievable, Relevant, and Time-Bo
 In its current state (05/24), the HPI defined SMART goals to increase employee satisfaction, improve scientific excellence and create societal impact.
 
 Our SMART goals are focused on engaging students creating a unique hands-on-learning experience.
-
 
 ### #1: Student Learners
 
