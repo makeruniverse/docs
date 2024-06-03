@@ -6,7 +6,7 @@ Talk to our Head of Maker Universe [@holger.rhinow](../team/team.md/#holger-rhin
 
 ### [Smart Clothing by Orhan](./projects/smart-clothing-project.md)
 
-### [256 Pixels Project by Luca](./projects/256-pixels-project.md)
+### [256 Pixels Project by Blueforcer](./projects/256-pixels-project.md)
 
 ### [Smart Plants Project by Florian](./projects/smart-plants-project.md)
 
@@ -18,3 +18,4 @@ Talk to our Head of Maker Universe [@holger.rhinow](../team/team.md/#holger-rhin
 
 ### [Nanoleaf++ Project by Yannik & Alexander](./projects/nanoleafplus-project.md)
 
+### [Beamcase Project by Beamcase Design](./projects/beamcase-project.md)
