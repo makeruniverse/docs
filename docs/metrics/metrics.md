@@ -49,7 +49,7 @@ Method: We will track ingoing persons via a POS Retail version based on light su
 Limitations: The number of daily visits is not a qualitative indicator. People can come in and leave soon without having achieved anything meaningful. Also, at days, only a few visitors may come in, but these visits may have lasting impacts on their projects.
 
 **STATS** 
-??? "May 24" 
+??? "May 2024" 
     127 visits/day on average
 
 ### No. of active learners
