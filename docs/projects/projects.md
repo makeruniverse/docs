@@ -6,7 +6,7 @@ Talk to our Head of Maker Universe [@holger.rhinow](../team/team.md/#holger-rhin
 
 ### [Smart Clothing by Orhan](./projects/smart-clothing-project.md)
 
-## Student Projects
+## Student Projects <br />
 
 ### [256 Pixels Project by Blueforcer](./projects/256-pixels-project.md)
 
