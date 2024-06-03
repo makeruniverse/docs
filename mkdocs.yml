@@ -64,8 +64,8 @@ extra_css:
 
 plugins:
   - search
-  - blog
-    blog_dir: .
+  - blog:
+      blog_dir: "./blog/"
   - offline
   - glightbox
   - mkdocs-video:
@@ -86,8 +86,13 @@ markdown_extensions:
   - md_in_html
 
 nav:
-  - 'Home': 'index.md'
-  - 'Tools': './tools/tools.md'
-  - 'Projects': './projects/projects.md'
-  - 'Blog': './makerblog/blog.md'
-  - 'Metrics': './metrics/metrics.md'
+  - Home:
+    - index.md
+  - Tools:
+    - ./tools/tools.md
+  - Projects:
+    - ./projects/projects.md
+  - Metrics:
+    - ./metrics/metrics.md
+  - Blog:
+    - ./blog/index.md
