@@ -23,10 +23,20 @@ Orca Slicer is your best option to prepare 3D prints.
 
     Install with brew: `brew install orcaslicer`
     AUR: `orca-slicer`
+The easiest way to use the printers is sending files remotely. Upon installation you will be asked if you want to install the network plugin. We recommend to do this. The login credentials are:
+
+User: makeruniverse@hpi.de
+PW: Freezable-Scoured3-pigment
 
 ### Autodesk Fusion
 
+Parametric CAD software with a powerful CAM module.
+Full version free to use with educational autodesk account.
+
 ### Blender
+
+Blender is a versatile and powerful 3D modeling, animation, and rendering software known for its robust feature set and open-source nature.
+we offer blender introduction workshops regularly at makeruniverse. If you want to get into 3d-modelling and don't tie yourself to commercial software this is our first recommendation. [download blender](https://www.blender.org/download/)
 
 ### Printer/Plotter
 
@@ -62,13 +72,11 @@ Use Bambu X1x when you print larger objects or objects with up to four different
 
 The Bambu Lab X1c has a build volume of 256 x 256 x 265 mm and usually uses a 0.4mm nozzle.
 
-??? "PLA Warping Issues"
-
     The Bambu has a Snakehouse Fan Duct, which is a bit too close to the bed, on the left of the enclosure. If thin/fragile parts are located on the left side of the bed, near to the edge, they might warp due to the fan blowing on it. If that happens disable the AUX Fan and print with open enclosure. ![OrcaSlicer AUX Fan Settings](../3D_Printing/img/auxfan-orca.png)
     
 ### Creality K1 (2x)
 
-Creality K1 has a build volume of 300 x 300 x 300 mm usually one of them is equipped with a 0.4mm nozzle and the other one with a 0.8mm nozzle.
+Creality K1 has a build volume of 300 x 300 x 300 mm usually one of them is equipped with a 0.4mm nozzle and the other one with a 0.6mm nozzle.
 
 ??? "Print large objects"
 
@@ -91,6 +99,16 @@ Creality K1 has a build volume of 300 x 300 x 300 mm usually one of them is equi
 ### Prusa XL
 
 Use Prusa XL when you print large objects and / or objects with multiple filament types.
+
+To use all features of the Prusa XL we recommend to use [Download: Prusa Slicer](https://www.prusa3d.com/en/page/prusaslicer_424/)
+You can send jobs remotely with [prusa connect](https://connect.prusa3d.com/)
+
+Login credentials:
+User: makeruniverse@hpi.de
+PW: UEH6zvg2ecm.vwe3nad
+
+If you want to use various nozzle widths in one print, you need to use simplify 3d for slicing.
+we have a profile for Prusa XL here:
 
 ??? "Printing with Vector Files"
 
