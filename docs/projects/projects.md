@@ -4,20 +4,36 @@ Talk to our Head of Maker Universe [@holger.rhinow](../team/team.md/#holger-rhin
 
 ## Bachelor Projects <br />
 
-### [Smart Clothing by Orhan](./projects/smart-clothing-project.md)
+### Smart Clothing by Orhan
+
+[Smart Clothing Project Details](./projects/smart-clothing-project.md)
 
 ## Student Projects <br />
 
-### [256 Pixels Project by Blueforcer](./projects/256-pixels-project.md)
+### Awtrix3 by Blueforcer
 
-### [Smart Plants Project by Florian](./projects/smart-plants-project.md)
+[Awtrix 3 Project Details](./projects/awtrix-3-project.md)
 
-### [Aviation Project by Nikita](./projects/aviation-project.md)
+### Smart Plants by Florian
 
-### [Phone Stand Project by Markus](./projects/phone-stand-project.md)
+[Smart Plants Project Details](./projects/smart-plants-project.md)
 
-### [Split Keyboard Project by Antonius](./projects/split-keyboard-project.md)
+### RC Airplane by Nikita
 
-### [Nanoleaf++ Project by Yannik & Alexander](./projects/nanoleafplus-project.md)
+[Aviation Project Details](./projects/aviation-project.md)
 
-### [Beamcase Project by Beamcase Design](./projects/beamcase-project.md)
+### Phone Stand by Markus
+
+[Phone Stand Project Details](./projects/phone-stand-project.md)
+
+### Split Keyboard by Antonius
+
+[Split Keyboard Project Details](./projects/split-keyboard-project.md)
+
+### Nanoleaf++ by Yannik & Alexander
+
+[Nanoleaf++ Project Detaisl](./projects/nanoleafplus-project.md)
+
+### Beamcase by Beamcase Design
+
+[Beamcase Project Detaisl](./projects/beamcase-project.md)
