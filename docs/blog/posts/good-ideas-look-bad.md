@@ -7,4 +7,4 @@ authors:
     - Holger
 ---
 
-The best ideas initially look bad - even extreme - to almost everyone (Alejandro Lecuna).
+Radical ideas are the ones that look bad but turn out to be good - to almost everyone (Alejandro Lecuna).
