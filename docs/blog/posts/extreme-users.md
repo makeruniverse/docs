@@ -2,7 +2,7 @@
 draft: false
 date: 2024-02-03
 categories:
-    - general
+    - users
 authors:
     - Holger
 ---

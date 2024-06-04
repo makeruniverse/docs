@@ -2,7 +2,7 @@
 draft: false
 date: 2024-01-03
 categories:
-    - general
+    - mindset
 authors:
     - Holger
 ---

@@ -2,7 +2,7 @@
 draft: false
 date: 2024-01-02
 categories:
-    - general
+    - startups
 authors:
     - Holger
 ---

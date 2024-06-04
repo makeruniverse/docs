@@ -2,7 +2,7 @@
 draft: false
 date: 2023-11-03
 categories:
-    - general
+    - energy
 authors:
     - Holger
 ---
