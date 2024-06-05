@@ -3,7 +3,7 @@ draft: false
 date: 2024-01-03
 categories:
     - makers
-    - project management
+    - projects
 authors:
     - Holger
 ---
