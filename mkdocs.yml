@@ -88,11 +88,17 @@ markdown_extensions:
 nav:
   - Home:
     - ./index.md
-  - Tools:
-    - ./tools/tools.md
+  - Maker Studios:
+    - ./studios/maker-studios.md
+  - Media Studio:
+    - ./studios/media-studio.md
+  - Researcher Studio:
+    - ./studios/researcher-studio.md
   - Projects:
     - ./projects/projects.md
   - Metrics:
     - ./metrics/metrics.md
+  - Team:
+    - ./team/team.md
   - Blog:
     - ./blog/index.md
