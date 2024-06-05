@@ -7,4 +7,8 @@ authors:
     - Holger
 ---
 
-As users, we don't want to own products. We need them to get a job done. It's always about getting from A to B. Accomplished product teams know their users' A and their B. And the obstacles between them.
+**What do teams need to know about their users?**
+
+Users don't want to own products. They use them to get a job done. 
+
+A job is about getting from from A to B. That is why innovation teams need to know their users' A and their B. And the obstacles between them.

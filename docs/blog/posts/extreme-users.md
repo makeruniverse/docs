@@ -8,4 +8,10 @@ authors:
     - Holger
 ---
 
-Innovation teams need to find their "extreme users". These are the only types of users that value radical new ideas early on. All innovations per se don't serve mass markets. They all start to become successful by creating new niches - with extreme users.
+**What kind of users are valuable in innovation projects?**
+
+Innovation teams need to find "extreme users".
+
+These users that value radical new ideas early on, because they feel the need for new solutions the most. 
+
+New innovations, per se, don't serve mass markets. They create new niches in the markets. Most other users follow later, once the innovation is approved by the initial extreme users.

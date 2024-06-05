@@ -7,4 +7,6 @@ authors:
     - Holger
 ---
 
-Radical ideas are the ones that look bad but turn out to be good - to almost everyone (Alejandro Lecuna).
+**What ideas lead to radical innovations?**
+
+Radical innovations are based on strange looking ideas. Ideas that "look bad to almost everyone" first, until they turn out to be good. (Alejandro Lecuna)
