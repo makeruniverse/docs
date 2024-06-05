@@ -1,15 +1,15 @@
-The Maker Studios offer tools and services **to make ideas real** at the intersection of hardware and software. 
+Three maker studios are located in House K. Here, we offer tools and services **to make ideas real** at the intersection of hardware and software. 
 
-Here is a list of **maker tools** that are available for all students and researchers. Do not hesitate to ask our Maker Team for help. <br />
-
-## Maker Studio Team
+Our Maker Team is here to help you: <br />
 
 Head of Maker Studio:
 Electronic Workstation:
 Tools and Materials:
 Project Inquiries:
 
-## Weekly Services
+??? "Our Weekly Services"
+    Tuesdays 2:00 PM: Introducing 3D Printing
+    Thursdays 2:00 PM: Introducing Electronics
 
 ## Printer Workstation
 
