@@ -1,6 +1,6 @@
 **Welcome to the HPI Maker Universe**
 
-The HPI Maker Universe is a new initiative that runs **3 Studios**. Our studios are open to HPI students, HPI researchers, visting researchers, and employees.
+The HPI Maker Universe is a new initiative that runs various **Studios** for different purposes: Maker Studios, a Media Studio, and a Research Studio. Our studios are open to HPI students, HPI researchers, visting researchers, and employees.
 
 The Studios of the HPI Maker Universe offer **expert services and tools** to support Bachelor-, Master-, and Research-Projects as well as Startup-Ideas.
 

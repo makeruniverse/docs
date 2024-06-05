@@ -1,6 +1,6 @@
-The researcher studio allows students and researchers to setup and to test new **user experiences**. 
+The research studio allows students and researchers to setup and to test new **user experiences**. 
 
-Get in contact with our Researcher Studios team for help. 
+Get in contact with our Research Studio team for help. 
 
 Here is a list of **tools and services** that are available:
 
