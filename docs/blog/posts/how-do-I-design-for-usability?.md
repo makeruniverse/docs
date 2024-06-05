@@ -7,8 +7,6 @@ authors:
     - Holger
 ---
 
-**How do I design for usability?**
-
 Imagine this scenario: You are in New York. You are supposed to meet a stranger in the city within the next 24 hours, without any chance to communicate with them. 
 
 Where do you go? And when?

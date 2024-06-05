@@ -8,8 +8,6 @@ authors:
     - Holger
 ---
 
-**What kind of users are valuable in innovation projects?**
-
 Innovation teams need to find "extreme users".
 
 These users that value radical new ideas early on, because they feel the need for new solutions the most. 

@@ -7,6 +7,4 @@ authors:
     - Holger
 ---
 
-**What ideas lead to radical innovations?**
-
 Radical innovations are based on strange looking ideas. Ideas that "look bad to almost everyone" first, until they turn out to be good. (Alejandro Lecuna)

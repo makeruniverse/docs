@@ -3,15 +3,19 @@ draft: false
 date: 2024-06-04
 categories:
     - energy
-    - project management
+    - measuring
 authors:
     - Holger
 ---
 
-Our goal in an innovation project is to find out what the goal is. 
+Innovation projects start with a problem but without a known solution. 
 
-Since we don't know the end result, it is impossible to measure our progress terms of accomplished work packages and tasks.
+In other words: Our goal in any innovation project is to find out what our goal is. 
 
-But we can sense energy. Like any team, energetic teams may also not get things right. But it is the energy that keeps them going until they get there.
+Which makes it hard to measure progress. We simply cannot know how many tasks we have to accomplish until we arrive at a solution, if we don't know the solution yet.
 
-Energy is what keeps projects alive, not money.
+So what can we measure? Energy.
+
+Teams with a high level of energy may not be smarter and they may not find solutions faster. But they  also not get things right. But it is the energy that keeps them going until they get there.
+
+Energy is what [keeps projects alive](when-do-startups-die?.md), not money.
