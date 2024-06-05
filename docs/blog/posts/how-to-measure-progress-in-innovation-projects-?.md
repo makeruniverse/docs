@@ -3,14 +3,15 @@ draft: false
 date: 2024-06-04
 categories:
     - energy
+    - project management
 authors:
     - Holger
 ---
 
-**Teams in innovation projects do not follow specific outcomes; so what orientation is left for them?**
+Our goal in an innovation project is to find out what the goal is. 
 
-Innovation teams need to keep going, until they find something valuable: an insight, an anomaly. The faster they keep going, the faster they find something.
+Since we don't know the end result, it is impossible to measure our progress terms of accomplished work packages and tasks.
 
-Any direction that releases energy within a team is therefore valuable. It might not lead to final answers, but it will get them somewhere. Energy is what keeps projects alive. Not money, not good will. 
+But we can sense energy. Like any team, energetic teams may also not get things right. But it is the energy that keeps them going until they get there.
 
-From a team leader perspective, the level of energy within a team is likely to be the  best - if not the only - metric to measure the progress of an innovation project.
+Energy is what keeps projects alive, not money.
