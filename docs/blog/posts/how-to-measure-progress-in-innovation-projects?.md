@@ -2,8 +2,8 @@
 draft: false
 date: 2024-06-04
 categories:
-    - energy
-    - measuring
+    - progress
+    - projects
 authors:
     - Holger
 ---
