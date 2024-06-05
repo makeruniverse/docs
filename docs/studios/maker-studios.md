@@ -1,23 +1,15 @@
-Three maker studios are located in House K. Here, we offer tools and services **to make ideas real** at the intersection of hardware and software. 
+Our Maker Studio is located in three rooms in House K. Here, we offer tools and services **to make ideas real** at the intersection of hardware and software. 
 
-Our Maker Team is here to help you: <br />
+# Printer Workstation
 
-Head of Maker Studio:
-Electronic Workstation:
-Tools and Materials:
-Project Inquiries:
+The Modeler Workstation is a stationary computer in the Maker Studio. It offers software tools for various use cases: create digital models, 3D print digital models, or print labels and posters.
 
-??? "Our Weekly Services"
-    Tuesdays 2:00 PM: Introducing 3D Printing
-    Thursdays 2:00 PM: Introducing Electronics
+??? "Get to know the Printer Workstation"
+    Visit our Maker Studio on Tuesdays around 2PM to learn more about out the software and the 3D printers.
 
-## Printer Workstation
+## 3D Print Models
 
-The Modeler Workstation is our stationary computer in the Maker Studio that allows to create digital models. It includes [slicer software](tools.md/#orca-slicer-software), [modeling software](tools.md/#autodesk-fusion), and access to our [label printer](tools.md/#label-printer-ql-820nwbc).
-
-### Orca Slicer Software
-
-Orca Slicer is your best option to prepare 3D prints.
+The modeler workstation offers access to Orca Slicer. Orca Slicer is your best option to prepare 3D prints.
 
 - [ ] import model in OrcaSlicer
 - [ ] use "auto orient" to position model
