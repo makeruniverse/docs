@@ -1,6 +1,6 @@
 A list of Bachelor projects and individual maker projects that we supported and documented so that you can re-build some of the prototypes at your own pace. You will have access to all necessary materials and tools.
 
-Talk to our Head of Maker Universe [@holger.rhinow](../team/team.md/#holger-rhinow) about your project ideas! 
+Talk to our Head of Maker Universe [@holger.rhinow](../team/team.md/#holger-rhinow) about your project ideas.
 
 ## Bachelor Projects <br />
 
