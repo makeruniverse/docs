@@ -1,1 +1,1 @@
-Tiny Reflections on previous Maker Projects.
+Reflections on previous Maker Projects.
