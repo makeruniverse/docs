@@ -2,7 +2,7 @@ The Maker Studios offer tools and services **to make ideas real** at the interse
 
 Here is a list of **maker tools** that are available for all students and researchers. Do not hesitate to ask our Maker Team for help. <br />
 
-# Maker Studio Team
+## Maker Studio Team
 
 Head of Maker Studio:
 Electronic Workstation:
@@ -11,15 +11,7 @@ Project Inquiries:
 
 ## Weekly Services
 
-## Maker Tools
-
-
-
-
-
-
-
-### Modeler Workstation
+## Printer Workstation
 
 The Modeler Workstation is our stationary computer in the Maker Studio that allows to create digital models. It includes [slicer software](tools.md/#orca-slicer-software), [modeling software](tools.md/#autodesk-fusion), and access to our [label printer](tools.md/#label-printer-ql-820nwbc).
 
