@@ -40,7 +40,7 @@ Student educators will receive a certification and a documentation of their acco
 
 KPIs will help us to detect, (1) how many students and researchers engage with our learning environment, (2) to what degree they participate in our educational offers, and (3) how they perceive the quality of our offers.
 
-### No. of daily visits
+### No. of Daily Visits
 
 Rationale: The number of daily visits indicates how well known and how attractive the Maker Universe is to HPI students, researchers, and staff.
 
@@ -52,7 +52,7 @@ Limitations: The number of daily visits is not a qualitative indicator. People c
 ??? "May 2024" 
     127 visits/day on average
 
-### No. of active learners
+### No. of Active Learners
 
 Rationale: The number of active learners in our own educational offers during a semester is an indicator on how attractive our education offers are to students, researchers, and staff.
 
