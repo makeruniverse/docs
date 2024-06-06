@@ -6,7 +6,7 @@ Contact our [Maker Studio Team](../team/team.md/#maker-studio-team) for introduc
 
 The Modeler Workstation is a stationary computer in the Maker Studio. It offers software tools for various use cases: create digital models, 3D print digital models, or print labels and posters.
 
-Our printers are free to use. If you are not familiar with them, do not hesitate to contact our our Maker Team for support.
+Our printers are free to use. If you are not familiar with them, do not hesitate to contact our our [Maker Studio Team](../team/team.md/#maker-studio-team) for support.
 
 ### CAD Software: Autodesk Fusion
 
@@ -16,9 +16,18 @@ Full version free to use with educational autodesk account.
 ### 3D Modelling Software: Blender
 
 Blender is a versatile and powerful 3D modeling, animation, and rendering software known for its robust feature set and open-source nature.
-we offer blender introduction workshops regularly at makeruniverse. If you want to get into 3d-modelling and don't tie yourself to commercial software this is our first recommendation. [download blender](https://www.blender.org/download/)
+
+We offer Blender introduction workshops regularly at makeruniverse. 
+
+Use Blender via our Printer Workstation or our Media Workstations. 
+
+??? "Blender Software"
+
+    Free download: https://www.blender.org/download/
 
 ### Plotter: Canon TM300
+
+You can print A1 and A0 posters. Simply open your file on our Printer Workstation and select "Canon TM300" as your printer. We recommend to select "quality: high" for images that 600dpi or more.
 
 ### Label Printer: QL-820NWBc
 
