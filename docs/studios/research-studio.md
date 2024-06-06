@@ -1,14 +1,12 @@
-The research studio allows students and researchers to setup and to test new **user experiences**. 
+The research studio allows students and researchers to setup and to test new **user experiences**. All tools are accessible through workstations.
 
-Get in contact with our Research Studio team for help. 
-
-Here is a list of **tools and services** that are available:
+Get in contact with our Research Studio Team for help. 
 
 ## UX Workstation
 
-Our UX Workstation allows for professional video recordings for various kinds of user studies.
+Our UX Workstation is located in the Media Studio. It allows for professional video recordings for various kinds of user studies.
 
-The **setup** comprises 4 PTZ cameras, a Shure audio panel, a recording workstation, and a coffee table with two chairs.
+The setup comprises 4 PTZ cameras, a Shure audio panel, a recording workstation, and a coffee table with two chairs.
 
 ??? "UX Case Study Examples"
     - User Interviews
@@ -17,16 +15,11 @@ The **setup** comprises 4 PTZ cameras, a Shure audio panel, a recording workstat
     - Field Observations
     - Prototype User Tests
 
-??? "How to get Access"
-
-    Get in contact with our colleague [Jan](../team/team.md) to plan your UX-project or leave a message in our Slack Channel #contact-our-team.
-
 ## Superposition Workstation
 
 Project teams of up to four people can book our Super Position setup to work in parallel by sharing their screens with each other.
 
 The four screens are connected to the [KVM Matrix-Switcher](https://kvm-switch.de/de/4-x-4-hdmi-2-0-multiview-seamless-matrix-switch-mit-video-wall-funktion-uniclass-rh-244.html){target="_blank"}. An [AirServer](https://www.airserver.com/connect-3){target="_blank"} (screens 1, 2 and 3) and an HDMI cable (screen 4) act as feeders. A connection via AirPlay 2, Google Cast and Miracast is possible via the AirServer.
-
 
 ??? "How does the connection and the display work?"
 
