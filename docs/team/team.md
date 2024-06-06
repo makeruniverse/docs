@@ -1,6 +1,6 @@
 Our team of experts is here to help you. Please send your requests via Slack @contact-our-team
 
-## Maker Universe 
+## HPI Maker Universe 
 
 ### Head of Maker Universe: Dr. Holger Rhinow
 
