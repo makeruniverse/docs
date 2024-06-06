@@ -120,6 +120,22 @@ The Electronic Workstation is located in the large Maker Studio. It offers two w
 
 Please contact our Maker Team to participate in a mandatory introduction into the tools before you use them.
 
+### Electronics: Soldering Station
+
+We have 6 soldering stations you can use after a mandatory introduction.
+
+### Electronics: Multimeter
+
+### Electronics: Microscope
+
+### Electronics: Components
+
+### Electronics: Materials
+
+Podcasting, video recording, photo shootings, AI generation, visualizations, sound designs. The opportunities are vast.
+
+Visit our Media Studio in House K and get in contact with our Head of Media Studios to get support for your project [@markus.wutzlhofer](../team/team.md/#markus-wutzlhofer)
+
 ## Laser Cutter Workstation
 
 The Laser Cutter Workstation is located in the small Maker Studio next to the Trotec Laser Cutter.
@@ -131,18 +147,3 @@ Please contact our Maker Team to participate in a mandatory introduction in the 
 
 
 
-### Soldering Station
-
-We have 6 soldering stations you can use after a mandatory introduction.
-
-### Multimeter
-
-### Microscope
-
-### Electronic Components
-
-### Electronic Materials
-
-Podcasting, video recording, photo shootings, AI generation, visualizations, sound designs. The opportunities are vast.
-
-Visit our Media Studio in House K and get in contact with our Head of Media Studios to get support for your project [@markus.wutzlhofer](../team/team.md/#markus-wutzlhofer)
