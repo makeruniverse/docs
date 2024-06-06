@@ -4,7 +4,7 @@ Our team of experts is here to help you. Please send your requests via Slack @co
 
 ### Head of Maker Universe: Dr. Holger Rhinow
 
-Working Hours: Tuesdays
+Working Hours: Mondays to Fridays
 
 Services
 
@@ -18,7 +18,7 @@ Working Hours: Weekdays in the afternoons (remote)
 
 - Procurement
 - Project Support
-
+- Kyub
 
 ## Maker Studio Team
 
@@ -76,7 +76,7 @@ Services
 
 - Film Studio Recordings
 
-## Researcher Studio
+## Research Studio Team
 
 ### Head of Researcher Studio: Jan Koch
 

@@ -1,5 +1,7 @@
 Our Media Studio offers services and tools to create **visual and audio experiences** to tell your stories. All tools are accessible through workstations.
 
+Get in contact with our [Media Studio team](../team/team.md/#media-studio-team) for further support.
+
 ## Mac Studio Workstation  
 
 The Mac Workstation with 192GB RAM is perfect for producing and editing media content. It also offers AI applications.

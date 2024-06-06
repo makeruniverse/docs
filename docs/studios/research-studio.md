@@ -1,6 +1,6 @@
 The research studio allows students and researchers to setup and to test new **user experiences**. All tools are accessible through workstations.
 
-Get in contact with our Research Studio Team for help. 
+Get in contact with our [Research Studio Team](../team/team.md/#research-studio-team) for help. 
 
 ## UX Workstation
 
