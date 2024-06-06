@@ -1,16 +1,27 @@
-Our Maker Studio is located in three rooms in House K. Here, we offer tools and services **to make ideas real** at the intersection of hardware and software. 
+Our Maker Studio is a setup of three rooms with tools and services for hardware-related projects. All tools are accessible through workstations.
 
 ## Printer Workstation
 
 The Modeler Workstation is a stationary computer in the Maker Studio. It offers software tools for various use cases: create digital models, 3D print digital models, or print labels and posters.
 
-??? "Get to know the Printer Workstation"
-    Visit our Maker Studio on Tuesdays around 2PM to learn more about out the software and the 3D printers.
+Our printers are free to use. If you are not familiar with them, do not hesitate to contact our our Maker Team for support.
 
-## 3D Printing
-You can access a variety of 3D printers via our Printer Workstation or directly from your laptop, by downloading the [recommended software](maker-studios.md/#software-orca-slicer).
+## Electronic Workstation
 
-### Software: Orca Slicer
+The Electronic Workstation is located in the large Maker Studio. It offers two working tables with various tools and free-to-use materials.
+
+Please contact our Maker Team to participate in a mandatory introduction into the tools before you use them.
+
+## Laser Cutter Workstation
+
+The Laser Cutter Workstation is located in the small Maker Studio next to the Trotec Laser Cutter.
+
+Please contact our Maker Team to participate in a mandatory introduction in the machine before you use it.
+
+
+
+
+### 3D Printing Software: Orca Slicer
 The modeler workstation offers access to Orca Slicer. Orca Slicer is your best option to prepare 3D prints.
 
 ### 3D Printers: Bambu A1 Mini (2x)
@@ -121,16 +132,6 @@ You can use the printer via Wi-Fi (hpi-studios) and via USB. You can find the so
 
 
 
-### Laser Cutter Workstation
-
-The Laser Cutter Workstation is located in the small Maker Studio next to the Trotec Laser Cutter.
-
-Please contact our team to participate for a mandatory introduction in the machine and the software. The succesful participation allows you to use the laser cutter afterwards.
-
-
-### Electronic Workstation
-
-The Electronic Workstation offers two working tables with various tools [solder components](tools.md/#soldering-station), and to do precise electronic [measurements](tools.md/#multimeter). The workstation is also stacked with [electronic components](tools.md/#electronic-components) and [materials](tools.md/#electronic-materials) that are free to use.
 
 ### Soldering Station
 
