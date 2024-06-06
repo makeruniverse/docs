@@ -88,8 +88,8 @@ markdown_extensions:
 nav:
   - Home:
     - ./index.md
-  - Maker Studios:
-    - ./studios/maker-studios.md
+  - Maker Studio:
+    - ./studios/maker-studio.md
   - Media Studio:
     - ./studios/media-studio.md
   - Research Studio:
