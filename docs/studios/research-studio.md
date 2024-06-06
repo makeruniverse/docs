@@ -2,7 +2,7 @@ The research studio allows students and researchers to setup and to test new **u
 
 Get in contact with our Research Studio Team for help. 
 
-# UX Workstation
+## UX Workstation
 
 Our UX Workstation is located in the Media Studio. It allows for professional video recordings for various kinds of user studies.
 
@@ -15,7 +15,7 @@ The setup comprises 4 PTZ cameras, a Shure audio panel, a recording workstation,
     - Field Observations
     - Prototype User Tests
 
-# Superposition Workstation
+## Superposition Workstation
 
 Project teams of up to four people can book our Super Position setup to work in parallel by sharing their screens with each other.
 
@@ -41,4 +41,4 @@ The four screens are connected to the [KVM Matrix-Switcher](https://kvm-switch.d
 
     ![type:video](../mediaassets/tools/superposition_recall1.mp4)
 
- ## test
+
