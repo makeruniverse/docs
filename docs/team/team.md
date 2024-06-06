@@ -1,16 +1,28 @@
 Our team of experts is here to help you. Please send your requests via Slack @contact-our-team
 
-## Holger Rhinow
+## Maker Universe 
 
-Working Hours: Weekdays
+### Head of Maker Universe: Dr. Holger Rhinow
 
-Services 
+Working Hours: Tuesdays
 
-- [Project Partnering](../projects/projects.md)
-- [User Research](../tools/tools.md/#ux-workstation)
-- [Communication]
+Services
 
-## David Bizer
+- Project Partnering
+- Communications
+- Strategy
+
+### Anna Roumen
+
+Working Hours: Weekdays in the afternoons (remote)
+
+- Procurement
+- Project Support
+
+
+## Maker Studio Team
+
+### Head of Maker Studio: David Bizer
 
 Working Hours: Tuesdays
 
@@ -20,7 +32,33 @@ Services
 - [3D Modeling](../tools/tools.md/#modeler-workstation)
 - [Laser Cutting](../tools/tools.md/#laser-cutter-workstation)
 
-## Markus Wutzlhofer
+### Ext. Electronics Expert: Tobias Rosenbusch
+
+Working Hours: Thursdays
+
+- Electronics
+- Sensors
+
+### Technical Support: Björn Steiner
+
+Working Hours: Mondays - Thursdays
+
+Services
+
+- 3D Printing Introductions
+
+### Ext. Workshop Partner: Nicolai Hertle
+
+Working Hourse: Upon Request
+
+Services
+
+- Workshop
+- Maker Studio Development
+
+## Media Studio Team
+
+### Head of Media Studio: Markus Wutzlhofer
 
 Working Hours: Mondays - Thursdays
 
@@ -30,42 +68,30 @@ Services
 - Film Studio Projects
 - Video Documentation
 
-## Jan Koch
-
-Working Hours: Mondays
-
-Services
-
-- User Research
-- Smart Home Setup
-
-## Björn Steiner
+### Audio Engineering: Björn Steiner
 
 Working Hours: Mondays - Thursdays
 
 Services
 
-- Audio Engineering
-- 3D Printing
-- Workshop Tools
+- Film Studio Recordings
 
-## Anna Roumen
+## Researcher Studio
 
-Working Hours: Weekdays in the afternoons (remote)
+### Head of Researcher Studio: Jan Koch
 
-- Procurement
-- Project Support
+Working Hours: Mondays
 
-## Tobias Rosenbusch
+Services
 
-Working Hours: Thursdays
+- UX Recordings
+- Superposition
+- Smart Home Setup
 
-- Electronics
-- Sensors
+### Superposition Setup: Björn Steiner
 
-## Nicolai Hertle
+Working Hours: Mondays - Thursdays
 
-Working Hourse: Upon request
+Services
 
-- Maker Lab Organisation
-- Workshop Setups
+- Superposition
