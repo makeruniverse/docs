@@ -6,20 +6,28 @@ The Modeler Workstation is a stationary computer in the Maker Studio. It offers 
 
 Our printers are free to use. If you are not familiar with them, do not hesitate to contact our our Maker Team for support.
 
-## Electronic Workstation
+### CAD Software: Autodesk Fusion
 
-The Electronic Workstation is located in the large Maker Studio. It offers two working tables with various tools and free-to-use materials.
+Parametric CAD software with a powerful CAM module.
+Full version free to use with educational autodesk account.
 
-Please contact our Maker Team to participate in a mandatory introduction into the tools before you use them.
+### 3D Modelling Software: Blender
 
-## Laser Cutter Workstation
+Blender is a versatile and powerful 3D modeling, animation, and rendering software known for its robust feature set and open-source nature.
+we offer blender introduction workshops regularly at makeruniverse. If you want to get into 3d-modelling and don't tie yourself to commercial software this is our first recommendation. [download blender](https://www.blender.org/download/)
 
-The Laser Cutter Workstation is located in the small Maker Studio next to the Trotec Laser Cutter.
+### Plotter: Canon TM300
 
-Please contact our Maker Team to participate in a mandatory introduction in the machine before you use it.
+### Label Printer: QL-820NWBc
 
+This QL-820NWBc can print up to 62mm in width. If wider: You might change the orientation of the label in the software to fit the label on the printer.
 
+You can use the printer via Wi-Fi (hpi-studios) and via USB. You can find the software on our Modeler Workstation.
 
+??? "Software for our Label Printer"
+
+    MacOS: https://apps.apple.com/de/app/brother-p-touch-editor/id1453365242?mt=12
+    Windows: https://support.brother.com/g/s/es/inst/de/index.htm?c=de&lang=de&navi=off&comple=on&redirect=on
 
 ### 3D Printing Software: Orca Slicer
 The modeler workstation offers access to Orca Slicer. Orca Slicer is your best option to prepare 3D prints.
@@ -106,29 +114,19 @@ PW: Freezable-Scoured3-pigment
     https://thangs.com/ <br />
     https://makerworld.com/
 
+## Electronic Workstation
 
-### Autodesk Fusion
+The Electronic Workstation is located in the large Maker Studio. It offers two working tables with various tools and free-to-use materials.
 
-Parametric CAD software with a powerful CAM module.
-Full version free to use with educational autodesk account.
+Please contact our Maker Team to participate in a mandatory introduction into the tools before you use them.
 
-### Blender
+## Laser Cutter Workstation
 
-Blender is a versatile and powerful 3D modeling, animation, and rendering software known for its robust feature set and open-source nature.
-we offer blender introduction workshops regularly at makeruniverse. If you want to get into 3d-modelling and don't tie yourself to commercial software this is our first recommendation. [download blender](https://www.blender.org/download/)
+The Laser Cutter Workstation is located in the small Maker Studio next to the Trotec Laser Cutter.
 
-### Printer/Plotter
+Please contact our Maker Team to participate in a mandatory introduction in the machine before you use it.
 
-### Label Printer QL-820NWBc
 
-This QL-820NWBc can print up to 62mm in width. If wider: You might change the orientation of the label in the software to fit the label on the printer.
-
-You can use the printer via Wi-Fi (hpi-studios) and via USB. You can find the software on our Modeler Workstation.
-
-??? "Software for our Label Printer"
-
-    MacOS: https://apps.apple.com/de/app/brother-p-touch-editor/id1453365242?mt=12
-    Windows: https://support.brother.com/g/s/es/inst/de/index.htm?c=de&lang=de&navi=off&comple=on&redirect=on
 
 
 
