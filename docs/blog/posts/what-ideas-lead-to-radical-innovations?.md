@@ -2,7 +2,6 @@
 draft: false
 date: 2024-03-03
 categories:
-    - maker
     - media
 authors:
     - Holger
