@@ -2,7 +2,7 @@
 draft: false
 date: 2024-02-03
 categories:
-    - researcher
+    - research
     - maker
     - media
 authors:
