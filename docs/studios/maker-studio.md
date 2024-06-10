@@ -1,6 +1,6 @@
 Our Maker Studio is a setup of three rooms with tools and services for hardware-related projects. All tools are accessible through workstations.
 
-Contact our [Maker Studio Team](../team/team.md/#maker-studio-team) for introductions.
+Click on the tools you are interested and find more information about our tool workshops.
 
 ## Printer Workstation
 
@@ -150,8 +150,6 @@ Visit our Media Studio in House K and get in contact with our Head of Media Stud
 ## Laser Cutter Workstation
 
 The Laser Cutter Workstation is located in the small Maker Studio next to the Trotec Laser Cutter.
-
-Please contact our Maker Team to participate in a mandatory introduction in the machine before you use it.
 
 ### Laser Cutting Workshops
 
