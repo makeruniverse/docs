@@ -153,6 +153,10 @@ The Laser Cutter Workstation is located in the small Maker Studio next to the Tr
 
 Please contact our Maker Team to participate in a mandatory introduction in the machine before you use it.
 
+### Laser Cutting Workshops
+
+Our expert [David Bizer](../team/team.md/#head-of-maker-studio-david-bizer) gives an introduction into our laser cutter. You will learn the basics of laser cutting in general, how to use the software, and all about maintenance and safety. After successfullly taking part in this introduction you are allowed to use the laser cutter for your projects.
+
 
 
 
