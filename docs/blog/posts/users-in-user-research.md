@@ -2,7 +2,7 @@
 draft: false
 date: 2023-10-03
 categories:
-    - users
+    - research
 authors:
     - Holger
 ---

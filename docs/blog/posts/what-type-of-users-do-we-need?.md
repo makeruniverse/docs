@@ -2,8 +2,9 @@
 draft: false
 date: 2024-02-03
 categories:
-    - users
-    - ideas
+    - researcher
+    - maker
+    - media
 authors:
     - Holger
 ---

@@ -2,8 +2,7 @@
 draft: false
 date: 2024-01-04
 categories:
-    - design
-    - frameworks
+    - research
 authors:
     - Holger
 ---

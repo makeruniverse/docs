@@ -2,8 +2,7 @@
 draft: false
 date: 2024-01-02
 categories:
-    - makers
-    - startups
+    - maker
 authors:
     - Holger
 ---
