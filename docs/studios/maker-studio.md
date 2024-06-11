@@ -23,7 +23,7 @@ Blender is a versatile and powerful 3D modeling, animation, and rendering softwa
 
 You can also get access to Blender in our [Media Studio](media-studio.md/#mac-studio-workstation). 
 
-Download: https://www.blender.org/download/
+[Download Blender](https://www.blender.org/download/)
 
 ### Plotter: Canon TM300
 
