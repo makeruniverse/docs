@@ -21,11 +21,9 @@ Blender is a versatile and powerful 3D modeling, animation, and rendering softwa
 ??? "Blender Workshop"
     May 7th, 1:30-2:30: Create 3D models with Blender. You will learn how to use Blender to create 3D models. Feel free to print your model on one of our 3D printers, afterwards. You can register via #maker-community a few days before the event takes place.
  
-
-
 You can also get access to Blender in our [Media Studio](media-studio.md/#mac-studio-workstation). 
 
-    Free download: https://www.blender.org/download/
+Download: https://www.blender.org/download/
 
 ### Plotter: Canon TM300
 
@@ -37,10 +35,9 @@ This QL-820NWBc can print up to 62mm in width. If wider: You might change the or
 
 You can use the printer via Wi-Fi (hpi-studios) and via USB. You can find the software on our Modeler Workstation.
 
-??? "Software for our Label Printer"
-
-    MacOS: https://apps.apple.com/de/app/brother-p-touch-editor/id1453365242?mt=12
-    Windows: https://support.brother.com/g/s/es/inst/de/index.htm?c=de&lang=de&navi=off&comple=on&redirect=on
+Download:
+- MacOS: https://apps.apple.com/de/app/brother-p-touch-editor/id1453365242?mt=12
+- Windows: https://support.brother.com/g/s/es/inst/de/index.htm?c=de&lang=de&navi=off&comple=on&redirect=on
 
 ### 3D Printing Software: Orca Slicer
 The modeler workstation offers access to Orca Slicer. Orca Slicer is your best option to prepare 3D prints.
