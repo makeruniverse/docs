@@ -16,11 +16,11 @@ Full version free to use with educational autodesk account.
 
 ### 3D Modelling Software: Blender
 
+??? "Blender Workshop 2024"
+    May 7th, 1:30-2:30: Create 3D models with Blender. You will learn how to use Blender to create 3D models. Feel free to print your model on one of our 3D printers, afterwards. You can register via #maker-community a few days before the event takes place.
+
 Blender is a versatile and powerful 3D modeling, animation, and rendering software known for its robust feature set and open-source nature.
 
-??? "Blender Workshop"
-    May 7th, 1:30-2:30: Create 3D models with Blender. You will learn how to use Blender to create 3D models. Feel free to print your model on one of our 3D printers, afterwards. You can register via #maker-community a few days before the event takes place.
- 
 You can also get access to Blender in our [Media Studio](media-studio.md/#mac-studio-workstation). 
 
 Download: https://www.blender.org/download/
