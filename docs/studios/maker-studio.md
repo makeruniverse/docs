@@ -4,10 +4,10 @@ Our Maker Studio is a setup of three rooms in House K, with tools and services f
 
 The Printer Workstation is a computer in the Maker Studio. It offers free access to modeling and printing software, e.g., to create digital models, prepare 3D prints , and to print labels, and posters (A1/A0).
 
-Support:
-- Our [Maker Studio Team](../team/team.md/#maker-studio-team)
-- Your student peers next to you
-- Learn more about our tools in short workshops
+**Support Options**
+1. Our [Maker Studio Team](../team/team.md/#maker-studio-team)
+2. Your student peers next to you
+3. Learn more about our tools in short workshops
 
 ### CAD Software: Autodesk Fusion
 
