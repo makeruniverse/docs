@@ -22,10 +22,9 @@ You can get access to Blender via<br />
 4. [Free Download ](https://www.blender.org/download)<br />
 
 **Community Notes**
-| Method      | Description                          |
-| ----------- | ------------------------------------ |
-| `MAKE OBJECTS`       |      The best way to make objects in Blender is to...  |
-| `DELETE OBJECTS`       | Deleting... |
+
+[!TIP]
+> The best way to **export objects** from Blender to our printers is to - and this is just an example of a tip on how to use tools.
 
 ### CAD Software: Autodesk Fusion
 
