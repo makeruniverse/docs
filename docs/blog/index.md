@@ -1,1 +1,2 @@
-Reflections on previous Maker Projects.
+Go to where the energy is. 
+Lessons from previous Maker Projects.
