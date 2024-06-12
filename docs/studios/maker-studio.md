@@ -21,12 +21,11 @@ You can get access to Blender via<br />
 3. [Studio Workstation](media-studio.md/#studio-workstation)<br />
 4. [Free Downloard ](https://www.blender.org/download)<br />
 
-
+**Community Notes**
 | Method      | Description                          |
 | ----------- | ------------------------------------ |
-| `GET`       | :material-check:     Fetch resource  |
-| `PUT`       | :material-check-all: Update resource |
-| `DELETE`    | :material-close:     Delete resource |
+| `MAKE OBJECTS`       |      The best way to make objects in Blender is to...  |
+| `DELETE OBJECTS`       | Deleting... |
 
 ### CAD Software: Autodesk Fusion
 
