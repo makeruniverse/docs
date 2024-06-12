@@ -21,18 +21,14 @@ You can get access to Blender via<br />
 3. [Studio Workstation](media-studio.md/#studio-workstation)<br />
 4. [Free Download ](https://www.blender.org/download)<br />
 
-> [!NOTE]
-> 1. <br />
-> 2. <br />
-
-> [!ACCESS]
-> 1. <br />
-> 2. <br />
-
 **Community Notes**
 
-> [!TIP]
+> **3D Print Models**
 > The best way to **export objects** from Blender to our printers is to - and this is just an example of a tip on how to use tools.
+
+> **Another Tip**
+> This is how it looks when **multiple tips** and ideas appear.
+
 
 ### CAD Software: Autodesk Fusion
 
