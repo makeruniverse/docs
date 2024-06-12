@@ -6,20 +6,20 @@ The **Printer Workstation** is a computer in the Maker Studio with access softwa
 
 Learn more about some of the tools in our workshops <br />
 
-### 3D Modelling Software: Blender
+### Blender
 
 ??? "Blender Workshop 2024"
     May 7th, 1:30-2:30: Create 3D models with Blender. You will learn how to use Blender to create 3D models. Feel free to print your model on one of our 3D printers, afterwards. You can register via #maker-community a few days before the event takes place.
 
 **About** 
-Blender is a 3D modeling, animation, and rendering open-source software. 
+Blender is an open-source 3D modeling, animation, and rendering software. 
 
 **Access** 
 You can get access to Blender via<br />
 1. [Printer Workstation](maker-studio.md/#printer-workstation)<br />
 2. [AI Workstation](media-studio.md/#ai-workstation)<br />
 3. [Studio Workstation](media-studio.md/#studio-workstation)<br />
-4. [Free Downloard ](https://www.blender.org/download)<br />
+4. [Free Download ](https://www.blender.org/download)<br />
 
 **Community Notes**
 | Method      | Description                          |
