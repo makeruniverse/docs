@@ -2,9 +2,9 @@ Our Media Studio offers services and tools to create **visual and audio experien
 
 Get in contact with our [Media Studio team](../team/team.md/#media-studio-team) for further support.
 
-## Mac Studio Workstation  
+## Studio Workstation  
 
-The Mac Studio Workstation with 192GB RAM is perfect for producing and editing media content. It also offers various AI applications.
+This Mac Workstation with 192GB RAM is perfect for producing and editing media content. It also offers various AI applications.
 
 ### Izotope RX10
 
@@ -16,9 +16,9 @@ The Mac Studio Workstation with 192GB RAM is perfect for producing and editing m
 
 ### Kyub
 
-## PC AI Workstation
+## AI Workstation
 
-The PC Workstation with an NVIDIA RTX4090 is the best option for AI applications. It also offers media editing software.
+This PC Workstation with an NVIDIA RTX4090 is the best option for AI applications. It also offers media editing software.
 
 ### Stable Diffusion
 
