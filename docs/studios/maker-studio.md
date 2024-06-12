@@ -2,28 +2,25 @@ Our Maker Studio is a setup of three rooms in House K, with tools and services f
 
 ## Printer Workstation
 
-The Printer Workstation is a computer in the Maker Studio. It offers free access to modeling and printing software, e.g., to create digital models, prepare 3D prints , and to print labels, and posters (A1/A0).
+The **Printer Workstation** is a computer in the Maker Studio with access software, to create digital models, prepare 3D prints, and to print labels and posters.
 
-**Support Options**
-1. Our [Maker Studio Team](../team/team.md/#maker-studio-team)
-2. Your student peers next to you
-3. Learn more about our tools in short workshops
-
-### CAD Software: Autodesk Fusion
-
-Parametric CAD software with a powerful CAM module.
-Full version free to use with educational autodesk account.
+Learn more about some of the tools in our workshops <br />
 
 ### 3D Modelling Software: Blender
 
 ??? "Blender Workshop 2024"
     May 7th, 1:30-2:30: Create 3D models with Blender. You will learn how to use Blender to create 3D models. Feel free to print your model on one of our 3D printers, afterwards. You can register via #maker-community a few days before the event takes place.
 
-Blender is a versatile and powerful 3D modeling, animation, and rendering software known for its robust feature set and open-source nature.
+Blender is a 3D modeling, animation, and rendering open-source software. 
 
-You can also get access to Blender in our [Media Studio](media-studio.md/#mac-studio-workstation). 
+You can get access to Blender via our [Printer Workstation](maker-studio.md/#printer-workstation), or via our [via](media-studio.md/#pc-alienware-workstation) You can also get access to Blender in our [Media Studio](media-studio.md/#mac-studio-workstation). 
 
 [Download Blender](https://www.blender.org/download/)
+
+### CAD Software: Autodesk Fusion
+
+Parametric CAD software with a powerful CAM module.
+Full version free to use with educational autodesk account.
 
 ### Plotter: Canon TM300
 
@@ -150,7 +147,6 @@ The Laser Cutter Workstation is located in the small Maker Studio next to the Tr
 ### Laser Cutting Workshops
 
 Our expert [David Bizer](../team/team.md/#head-of-maker-studio-david-bizer) gives an introduction into our laser cutter. You will learn the basics of laser cutting in general, how to use the software, and all about maintenance and safety. After successfullly taking part in this introduction you are allowed to use the laser cutter for your projects.
-
 
 
 

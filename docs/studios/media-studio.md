@@ -16,7 +16,7 @@ The Mac Studio Workstation with 192GB RAM is perfect for producing and editing m
 
 ### Kyub
 
-## PC AlienWare Workstation
+## PC AI Workstation
 
 The PC Workstation with an NVIDIA RTX4090 is the best option for AI applications. It also offers media editing software.
 
