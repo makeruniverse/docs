@@ -2,7 +2,7 @@
 draft: false
 date: 2024-01-04
 categories:
-    - coordination with communication
+    - intuitive design
 authors:
     - Holger
 ---
