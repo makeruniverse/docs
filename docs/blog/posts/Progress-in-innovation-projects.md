@@ -17,4 +17,4 @@ So what can we measure? Energy.
 
 Teams with a high level of energy may not be smarter and they may not find solutions faster. But they  also not get things right. But it is the energy that keeps them going until they get there.
 
-Energy is what [keeps projects alive](when-do-startups-die?.md), not money.
+Energy is what keeps projects alive, not money.
