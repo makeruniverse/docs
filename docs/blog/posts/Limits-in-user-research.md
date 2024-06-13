@@ -2,7 +2,7 @@
 draft: false
 date: 2024-06-03
 categories:
-    - humans and users in UX
+    - limits in user research
 authors:
     - Holger
 ---

@@ -2,7 +2,7 @@
 draft: false
 date: 2024-03-03
 categories:
-    - strange ideas and AI
+    - strange ideas in AI
 authors:
     - Holger
 ---

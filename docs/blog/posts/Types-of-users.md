@@ -2,7 +2,7 @@
 draft: false
 date: 2023-10-03
 categories:
-    - humans and users in UX
+    - types of users
 authors:
     - Holger
 ---
