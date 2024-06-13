@@ -2,7 +2,7 @@
 draft: false
 date: 2024-04-03
 categories:
-    - maker
+    - startups fail
 authors:
     - Holger
 ---

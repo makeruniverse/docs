@@ -2,7 +2,7 @@
 draft: false
 date: 2024-06-04
 categories:
-    - maker
+    - progress in innovation projects
 authors:
     - Holger
 ---

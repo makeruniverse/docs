@@ -2,7 +2,7 @@
 draft: false
 date: 2024-01-03
 categories:
-    - maker
+    - managers vs. makers
 authors:
     - Holger
 ---

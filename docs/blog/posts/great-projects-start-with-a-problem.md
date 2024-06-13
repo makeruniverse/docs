@@ -2,7 +2,7 @@
 draft: false
 date: 2024-01-02
 categories:
-    - maker
+    - teams that solve problems
 authors:
     - Holger
 ---
