@@ -2,7 +2,8 @@
 draft: false
 date: 2024-06-17
 categories:
-    - early adopers
+    - early adopters
+    - podcasting
 authors:
     - Holger
 ---
