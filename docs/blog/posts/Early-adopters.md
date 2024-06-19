@@ -10,10 +10,16 @@ authors:
 
 In the summer of 2007, I met a programmer named Christian at a short-lived startup. Christian was ecstatic about something I had never heard before: podcasting.
 
-Back then, podcasting wasn’t as accessible as it is today. There were no podcasting apps. Christian had to scour personal websites to find audio files, download them, and listen to them on his computer during late-night coding breaks. Most of these amateur-made podcasts sounded like they were recorded in a bunker, with low-quality audio and a DIY spirit.
+I immediately liked the idea of podcasting, but not the product. At that time, finding podcasts was difficult - there we no podcast apps, and no one shared podcast files on the then-popular music streaming sites. Most podcasts back then sounded like they were made in a bunker.
 
-Despite my interest in the concept, the primitive state of podcasting deterred me. But not Christian. He tolerated bad audio quality and usability issues because, for him, audio was the ultimate medium. He not only consumed but also crafted his own podcast experiments.
+Christian on the other hand didn't mind all these flaws. To him, podcasting was the ultimate solution for his need to consume interesting content. Christian was a so-called early adopter. A small group of people who are actively looking for new ideas for in their scope of interest. 
 
-In that context, Christian was part of a small, well-connected group of early adopters who embraced new products long before they became mainstream. Tim Ferriss once said something along the lines, that if you want to understand what is coming next, you need to watch out for "what the nerds are doing on the weekends." In 2007, Christian and others were deep into podcasting, well ahead of the curve.
+I on the other hand jumped on the podcasting train five years later when podcasting finally offered convenient and pleasant user experience with podcast apps, and devices at hand to listen to content on-the-go.
 
-Reflecting on this almost twenty years later, I wonder what today’s nerds are doing on the weekends. The ones willing to embrace new offers before they become polished or widely accessible. To show us what’s ahead of the next curve.
+This blog post is about the importance of people like Christian. 
+
+Early adopters are the ones who embrace new ideas first, and who actively support companies and startups in improving their ideas so that they eventually become mainstream products.
+
+Tim Ferriss once said that we find inspiration by observing what the "nerds are doing on the weekends." Well, back in 2007, you would have had the chance to observe people like Christian to understand that podcasting would become a big thing. This is what we know in hindsight.
+
+What's important now is to understand what today's nerds are doing on the weekends: not the video games they play, or the shows they watch. But the half-baked ideas they already embrace despite their poor user experience. This is where we find innovations in the making.
