@@ -8,7 +8,7 @@ authors:
     - Holger
 ---
 
-Listening to podcasts has become my most consistent hobby, and I still vividly recall my first encounter with it. In the summer of 2007, I met a programmer named Christian at a short-lived startup. Christian was ecstatic about something I had never heard before: podcasting.
+In the summer of 2007, I met a programmer named Christian at a short-lived startup. Christian was ecstatic about something I had never heard before: podcasting.
 
 Back then, podcasting wasn’t as accessible as it is today. There were no podcasting apps. Christian had to scour personal websites to find audio files, download them, and listen to them on his computer during late-night coding breaks. Most of these amateur-made podcasts sounded like they were recorded in a bunker, with low-quality audio and a DIY spirit.
 
