@@ -8,14 +8,14 @@ authors:
     - Holger
 ---
 
-Startups have advantages as well as disadvantages against established companies. One advantage they have is that they can comfortably focus on emerging markets. But what are emerging markets?
+Startups have several advantages over established companies. One key advantage is their ability to focus on emerging markets. But what exactly are emerging markets?
 
-A great heuristic to find an emerging market is to look out for what [the nerds are doing on the weekends](https://cdixon.org/2013/03/02/what-the-smartest-people-do-on-the-weekend-is-what-everyone-else-will-do-during-the-week-in-ten-years).
+A great heuristic to identify an emerging market is to observe what [the nerds are doing on the weekends](https://cdixon.org/2013/03/02/what-the-smartest-people-do-on-the-weekend-is-what-everyone-else-will-do-during-the-week-in-ten-years).
 
-Nerds in that sense are early adopters. They spent their time with market offers that are irrelevant to a majority of people, not because their needs are vastly different, but they tolerate market offers with poor qualities.
+In this context, "nerds" are the early adopters. They engage with market offerings that are irrelevant to the majority, not because their needs are vastly different, but because they tolerate products with poor quality.
 
-For example, in 2007, Christian first introduced me to the concept of podcasting. Nobody else I knew, had a clue about it. I liked the idea, but I didn't like user experience around it. For example, to find podcast files was a mess. There we no podcast apps, and no one seemed to share them on streaming sites. Moreover, all podcasts sounded like they were made in a bunker. This is why it took several more years, before I started to consume podcasts on a regular basis.
+For example, in 2007, my friend Christian introduced me to the concept of podcasting. At the time, no one else I knew had even heard of it. I liked the idea, but the user experience was lacking. Finding podcast files was a mess, there were no podcast apps, and podcasts were not available on streaming sites. Additionally, most podcasts sounded like they were recorded in a bunker. It took several more years before I started to consume podcasts regularly.
 
-Not for Christian, though. Christian, the programmer who moved to Berlin for the electronic clubs, would start listen to podcasts during long coding sessions at night. To him, podcasting was the ultimate solution for his need to consume intesting content that he wouldn't hear on the radio. He was one of the early adopters that tolerated the flaws that came along with the new offer.
+Christian, however, was different. As a programmer who had moved to Berlin for the electronic music scene, he would listen to podcasts during long coding sessions at night. For him, podcasting was the perfect solution for consuming interesting content that wasn't available on the radio. He was one of the early adopters who tolerated the flaws of this new medium.
 
-In contrast, I was only part of an early majority that started to consume podcasts, once the user experience improved significantly. What happened? Smart phones. It was then possible to find podcasts and to listen to them everywhere. But the market was in already in the making long before.
+In contrast, I became part of the early majority that began consuming podcasts only after the user experience had significantly improved. What changed? Smartphones. With the advent of smartphones, it became easy to find and listen to podcasts anywhere. However, the market had been developing long before this mainstream adoption.
