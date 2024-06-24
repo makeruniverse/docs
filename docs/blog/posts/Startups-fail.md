@@ -7,4 +7,4 @@ authors:
     - Holger
 ---
 
-Startups fail. The few that don't are "fat tail events" (Nassim Taleb). They almost never happen, but when they do, they "concentrate all the returns" (Paul Graham).
+Most tech startups fail. The few that don't are "fat tail events" (Nassim Taleb). They almost never happen, but when they do, they "concentrate all the returns" (Paul Graham).
