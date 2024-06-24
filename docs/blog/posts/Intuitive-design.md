@@ -5,20 +5,26 @@ categories:
     - intuitive design
 authors:
     - Holger
----
+--- 
 
-What does intuitive design feels like?
+Unlike in art, we can mutually agree on what constitutes good design. As users, we all know the difference between well-designed and poorly designed products. As product builders, it’s crucial to remember what good design entails.
 
-Imagine this: You are part of a product team, a developer or a user experience designer. You are developing a revolutionary AI-powered user experience. Everything is speech-controlled. No interface.
+Braun innovator Dieter Rams wrote a [famous manifesto](https://designmuseum.org/discover-design/all-stories/what-is-good-design-a-quick-look-at-dieter-rams-ten-principles) on the principles of good design. I believe the fourth principle is the most important: "Good design makes a product understandable."
 
-How do you as a programmer, a designer of a user exer
+Users don't want to read manuals; they want to get the job done and use the product immediately. Technically, they want to navigate the product without needing further assistance from manuals, call centers, or forums.
 
-Identifiying the Schelling Points in your product experience will determine whether your products are either user-friendly or confusing.
-Imagine this scenario: You are in New York. You are supposed to meet a stranger in the city within the next 24 hours, without any chance to communicate with them. 
+How can we, as product builders, ensure this ease of use?
 
-Where do you go? And when?
+We need to understand Schelling Points.
 
-It turns out that people are likely to end up on top of the Empire State Building at Noon.
+Let me explain with a thought experiment:
 
-In this thought experiment, the Empire State Building serves as a [Schelling Point](https://www.youtube.com/watch?v=BtW-Ds-artA). The existence of Schelling Points indicates that coordination without communication is possible.
+Imagine you are in New York and need to meet a stranger within the next 24 hours. The stranger has the same task: to meet you. There is no communication between you two.
 
+So, where do you go? And when?
+
+Statistics suggest that you will likely succeed if you go to the top of the Empire State Building at noon.
+
+Why? Among all the places and times, the Empire State Building at noon serves as a Schelling Point. When in doubt, people choose the most obvious options.
+
+This concept applies to product design. To make the user experience intuitive, you need to anticipate how users will interact with your product without any guidance. You can achieve this by stepping into the user’s shoes and testing your design early in the development process.
