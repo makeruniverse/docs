@@ -8,18 +8,14 @@ authors:
     - Holger
 ---
 
-Where do we find ideas in the making? The ones that are ahead of the curve. 
+Startups have advantages as well as disadvantages against established companies. One advantage they have is that they can comfortably focus on emerging markets. But what are emerging markets?
 
-A great heuristic is to look out for what [the nerds are doing on the weekends](https://cdixon.org/2013/03/02/what-the-smartest-people-do-on-the-weekend-is-what-everyone-else-will-do-during-the-week-in-ten-years): not the Netflix shows they are watching, or the video games they are playing. More interesting to us are the half-baked products and ideas that they also spent their time with.
+A great heuristic to find an emerging market is to look out for what [the nerds are doing on the weekends](https://cdixon.org/2013/03/02/what-the-smartest-people-do-on-the-weekend-is-what-everyone-else-will-do-during-the-week-in-ten-years).
 
-Nerds, or: early adopters, don't mind half-baked products that come with flaws, as long as they adress the needs they have. And this is where things get interesting, if you want to have success in markets.
+Nerds in that sense are early adopters. They spent their time with market offers that are irrelevant to a majority of people, not because their needs are vastly different, but they tolerate market offers with poor qualities.
 
-For example, in 2007, it became obvious to me that podcasting would become a bigger thing. At that time almost nobody I knew, had a clue about podcasting. But some nerds did.
+For example, in 2007, Christian first introduced me to the concept of podcasting. Nobody else I knew, had a clue about it. I liked the idea, but I didn't like user experience around it. For example, to find podcast files was a mess. There we no podcast apps, and no one seemed to share them on streaming sites. Moreover, all podcasts sounded like they were made in a bunker. This is why it took several more years, before I started to consume podcasts on a regular basis.
 
-In the summer of 2007, I met Christian, a programmer whith whom I worked together at a short-lived startup. Christian was the first person I met, who listened to podcasts.
+Not for Christian, though. Christian, the programmer who moved to Berlin for the electronic clubs, would start listen to podcasts during long coding sessions at night. To him, podcasting was the ultimate solution for his need to consume intesting content that he wouldn't hear on the radio. He was one of the early adopters that tolerated the flaws that came along with the new offer.
 
-I also liked the idea of podcasting. But I didn't like the user experience: Finding files was a mess since there we no podcast apps, and no one seemed to share them on streaming sites. The podcasts you would eventually find, sounded like they were made in a bunker.
-
-Christian didn't mind these flaws. He would program his own tool to crawl for podcasts, and he would listen to them late at night on his computer during coding-breaks. To him, podcasting was the ultimate solution for his need to consume interesting content. As an early adopter, he was ready to use half-baked solutions. In that sense he was the canary in the coal mine. If you want to understand emerging markets, you need to understand their early adopters.
-
-It took me five more years, before I finally started to consume podcasts on a regular basis. What happened? Podcasting then came along with a convenient user experience. Smart phones made it possible to find podcasts and to listen to them on-the-go. At that time, everybody kind of knew that podcasting would become a market of its own.
+In contrast, I was only part of an early majority that started to consume podcasts, once the user experience improved significantly. What happened? Smart phones. It was then possible to find podcasts and to listen to them everywhere. But the market was in already in the making long before.
