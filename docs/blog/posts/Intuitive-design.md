@@ -25,6 +25,6 @@ So, where do you go? And when?
 
 Statistics suggest that you will likely succeed if you go to the top of the Empire State Building at noon.
 
-Why? Among all the places and times, the Empire State Building at noon serves as a Schelling Point. When in doubt, people choose the most obvious options.
+Why? Among all the places and times, the Empire State Building at noon serves as a Schelling Point. Because, when in doubt, people choose the most obvious options.
 
 This concept applies to product design. To make the user experience intuitive, you need to anticipate how users will interact with your product without any guidance. You can achieve this by stepping into the user’s shoes and testing your design early in the development process.
