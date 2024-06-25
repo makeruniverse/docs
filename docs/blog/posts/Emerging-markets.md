@@ -2,7 +2,8 @@
 draft: false
 date: 2024-06-17
 categories:
-    - spot emerging markets
+    - emerging markets
+    - early adopters
 authors:
     - Holger
 ---
