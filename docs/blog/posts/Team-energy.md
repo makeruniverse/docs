@@ -11,10 +11,8 @@ Innovation projects start with a problem but without a known solution.
 
 In other words: Our goal in any innovation project is to find out what our goal is. 
 
-Which makes it hard to measure progress. We simply cannot know how many tasks we have to accomplish until we arrive at a solution, if we don't know the solution yet.
+Which makes it hard to measure progress. We cannot know how many tasks we have to accomplish, if we don't know the solution yet.
 
-So what can we measure? Energy.
+But progress is more than the amount of tasks we accomplish. It is about energy.
 
-Teams with a high level of energy may not be smarter and they may not find solutions faster. But they  also not get things right. But it is the energy that keeps them going until they get there.
-
-Energy is what keeps projects alive, not money.
+It is the energy that keeps teams going until they get somewhere. Energy is what keeps projects alive, not money.
