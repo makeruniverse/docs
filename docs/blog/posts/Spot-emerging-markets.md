@@ -2,8 +2,7 @@
 draft: false
 date: 2024-06-17
 categories:
-    - early adopters
-    - podcasting
+    - spot emerging markets
 authors:
     - Holger
 ---
