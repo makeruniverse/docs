@@ -10,6 +10,10 @@ Talk to our Head of Maker Universe [@holger.rhinow](../team/team.md/#holger-rhin
 
 ## Student Projects <br />
 
+### Vertical Gardening by Elizabeth
+
+[Vertical Garden Details](./projects/vertical-garden-project.md)
+
 ### Awtrix3 by Blueforcer
 
 [Awtrix 3 Project Details](./projects/awtrix-3-project.md)
