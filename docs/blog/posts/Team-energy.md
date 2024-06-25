@@ -2,7 +2,7 @@
 draft: false
 date: 2024-06-04
 categories:
-    - progress in innovation projects
+    - Team energy
 authors:
     - Holger
 ---
