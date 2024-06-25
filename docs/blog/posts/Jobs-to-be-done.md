@@ -2,7 +2,7 @@
 draft: false
 date: 2024-05-03
 categories:
-    - user jobs to be done
+    - Jobs to be done
 authors:
     - Holger
 ---
