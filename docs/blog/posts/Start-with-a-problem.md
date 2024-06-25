@@ -2,7 +2,7 @@
 draft: false
 date: 2024-01-02
 categories:
-    - Solve problems
+    - start with a problem
 authors:
     - Holger
 ---

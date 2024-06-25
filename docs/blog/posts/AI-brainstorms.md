@@ -2,10 +2,15 @@
 draft: false
 date: 2024-03-03
 categories:
-    - strange ideas in AI
+    - AI brainstorms
 authors:
     - Holger
 ---
+
+In our aviation project, we started to think about ways to solve problems with drones. We came up with the ususal suspects: surveillance, last mile deliveries and video productions.
+
+So, I asked ChatGTP. The first results I receivedm overlapped with the ones from our aviation team. I could have expected that, because our team brains and the AI model probably refered to the same use cases that have been published somewhere else in the past.
+
 
 Radical new innovations originate from strange ideas. These are ideas that "look bad to almost everyone" first, until they turn out to be good. (Alejandro Lecuna)
 
