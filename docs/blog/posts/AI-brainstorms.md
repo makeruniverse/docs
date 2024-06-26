@@ -17,8 +17,8 @@ More and more stranger and unusual ideas appeared on my screen.
 
 Radical new innovations originate from strange ideas. These are ideas that "look bad to almost everyone" first, until they turn out to be good. (Alejandro Lecuna)
 
-This is where AI can benefit us. AI generates all kinds of strange looking ideas. They are oftentimes factually wrong, they are inconsistent, and full of biases. 
+This is where the AI can benefit us. AI generates all kinds of strange looking ideas. They are oftentimes factually wrong, they are inconsistent, and full of biases. 
 
 But they are also valuable.
 
-If we resist the urge to judge AI's outcome for its flaws, and instead practice to look at it curiously, even naive, by asking ourselves: "This is strange. But what if...?"
+If we resist the urge to judge the AI's outcome for its flaws, and instead practice to look at it curiously, even naive, by asking ourselves: "This is strange. But what if...?"
