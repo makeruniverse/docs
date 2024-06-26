@@ -9,8 +9,11 @@ authors:
 
 In our aviation project, we started to think about ways to solve problems with drones. We came up with the ususal suspects: surveillance, last mile deliveries and video productions.
 
-So, I asked ChatGTP. The first results I receivedm overlapped with the ones from our aviation team. I could have expected that, because our team brains and the AI model probably refered to the same use cases that have been published somewhere else in the past.
+So, I asked ChatGTP. The first results I received overlapped with the ones from our project team. Probably, our human brains and the AI model refered to the same use cases that have been published somewhere else in the past.
 
+I then started to feed the AI with constraints: "imagine you are Ikea, how would you use drones to strengthen your business model?" "imagine, no Wi-Fi is available, how can drones be useful in that scenario?"
+
+More and more stranger and unusual ideas appeared on my screen. 
 
 Radical new innovations originate from strange ideas. These are ideas that "look bad to almost everyone" first, until they turn out to be good. (Alejandro Lecuna)
 
