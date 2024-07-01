@@ -2,7 +2,7 @@ Our goals. And potential indicators of progress.
 
 ## SMART Goals
 
-Our SMART goals are focused on engaging students creating a unique hands-on-learning experience.
+Our SMART goals are focused on engaging students in creating a unique hands-on-learning experience.
 
 ### Goal#1: Maker Projects
 
@@ -23,7 +23,6 @@ Our goal#2 is to teach maker skills to **100 students** by 31.12.2024.
 Students will participate in workshops and tutorials that are part of maker projects. They will thereby actively learn new maker skills.
 
 We aim to achieve an outstanding educational quality, by a **Net Promoter Score of 41+** on average , across all maker workshops and tutorials.
-
 
 **STATS** 
 ??? "1.7.2024"
