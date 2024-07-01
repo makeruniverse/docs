@@ -27,8 +27,8 @@ We aim to achieve an outstanding educational quality, by a **Net Promoter Score 
 
 **STATS** 
 ??? "1.7.2024"
-    79 Students / 131 including Employees and Externals
-    Net Promoter Score on average: 65
+    79 Students
+    NPS: 65
 
 ??? "Details"
     Workshops	                        NPS
@@ -59,4 +59,4 @@ We aim to achieve an outstanding community experience that is highly recommended
 **STATS** 
 ??? "1.7.2024" 
     93 visits/day on average
-    Net Promoter Score on average: to be measured at the end of the semester
+    NPS to be measured at the end of the semester
