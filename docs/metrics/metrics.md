@@ -32,21 +32,21 @@ We aim to achieve an outstanding educational quality, by a **Net Promoter Score 
 ??? "Education Formats & NPS"
     240425 Soldering: 100 <br />
     240429 Stable Diffusion: 80 <br />
-    240430 3D Schülerkolleg: n/a
+    240430 3D Schülerkolleg: n/a <br />
     240507 Blender: 50 <br />
     240507 Laser Cutting: 75 <br />
     240515 Smart Plants: 0 <br />
-    240521 Laser Cutting: n/a
+    240521 Laser Cutting: n/a <br />
     240521 Blender: 80 <br />
     240522 Stable Diffusion: 100 <br />
     240530 Soldering: 50 <br />
     240606 Aviation: 100 <br />
     240611 After Effects: 100 <br />
     240611 Stable Diffusion: 100 <br />
-    240618 Laser Cutting: n/a
+    240618 Laser Cutting: n/a <br />
     240619 Premiere: 100
 
-### Goal#3: On Campus Community
+### Goal#3: Community
 
 Our goal#3 is to attract on average **70 visits per weekday** in our Studios by 31.12.2024.
 
