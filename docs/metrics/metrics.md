@@ -48,9 +48,7 @@ We aim to achieve an outstanding educational quality, by a **Net Promoter Score 
 
 ### Goal#3: Community
 
-Our goal#3 is to create an on-campus community with students mingling and building new communities of interest by 31.12.2024.
-
-We do this by attracting on average **70 visits per weekday** in our Studios by 31.12.2024.
+Our goal#3 is to, on average, attract **70 visits per weekday** in our Studios by 31.12.2024, which is supposedly sufficient to ensure that like-minded makers eventually meet each other and explore ideas for new projects together.
 
 We aim to achieve an outstanding community experience that is highly recommended among students with a **Net Promoter Score of 41+**. 
 
