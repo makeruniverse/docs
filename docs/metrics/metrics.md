@@ -2,82 +2,61 @@ Our goals. And potential indicators of progress.
 
 ## SMART Goals
 
-SMART is the acronym for Specific, Measurable, Achievable, Relevant, and Time-Bound.
-
-In its current state (05/24), the HPI defined SMART goals to increase employee satisfaction, improve scientific excellence and create societal impact.
-
 Our SMART goals are focused on engaging students creating a unique hands-on-learning experience.
 
-### Student Learners
+### Goal#1: Maker Projects
 
-Our goal is to educate **50 students** in learning how to apply maker technologies by 31.12.2024. 
+Our goal#1 is to empower students to complete **10 maker projects** by 31.12.2024.
 
-Our maker team will accomplish this goal by offering education sessions. Accomplishing this goal will create an impact on student satisfaction at HPI, measured through a Net Promoter Score.
-Students will receive a digital badge for their participation. This enables them to introduce tools to other students (peer-learning-concept).
+We will support students to complete maker-, media-, and research-related projects by offering tools, materials, and expertise.
 
-**STATS** 
-??? "30.05.24"
-    53 Students / 8 HPI Employees / 25 Pupils
-
-??? "3.6.24"
-    10 Workshops / 61 Students / 8 HPI Employees / 25 Pupils
-
-### Student Educators
-
-Our goal is to guide **10 students** to become educators for other students by 31.12.2024.
-
-Our team will accomplish this goal by actively promoting and introducing students in front of their peers. Accomplishing this goal will create a new peers-based and hands-on education experience.
-Student educators will receive a certification and a documentation of their accomplishments.
+We will video document student projects as tutorials so that future students can rebuild ideas at their own pace.
 
 **STATS** 
-??? "30.05.24"
-    7 Student Educators in 6 [Projects](../projects/projects.md)
+??? "1.7.2024"
+    8 Maker Projects started / 2 Maker Projects completed
 
-??? "3.06.24"
-    8 Student Educators in 8 [Projects](../projects/projects.md)
+### Goal#2: Education
 
-## Key Performance Indicators
+Our goal#2 is to teach maker skills to **100 students** by 31.12.2024. 
 
-KPIs will help us to detect, (1) how many students and researchers engage with our learning environment, (2) to what degree they participate in our educational offers, and (3) how they perceive the quality of our offers.
+Students will participate in workshops and tutorials that are part of maker projects. They will thereby actively learn new maker skills.
 
-### No. of Daily Visits
+We aim to achieve an outstanding educational quality, by a **Net Promoter Score of 41+** on average , across all maker workshops and tutorials.
 
-Rationale: The number of daily visits indicates how well known and how attractive the Maker Universe is to HPI students, researchers, and staff.
-
-Method: We will track ingoing persons via a POS Retail version based on light such as systems by Sensmax. These systems do not track individuals and are therefore GDPR-compliant.
-
-Limitations: The number of daily visits is not a qualitative indicator. People can come in and leave soon without having achieved anything meaningful. Also, at days, only a few visitors may come in, but these visits may have lasting impacts on their projects.
 
 **STATS** 
-??? "May 2024" 
-    127 visits/day on average
+??? "1.7.2024"
+    79 Students / 131 including Employees and Externals
+    Net Promoter Score on average: 65
 
-### No. of Active Learners
+??? "Details"
+    Workshops	                        NPS
+    240425 Soldering	                100
+    240429 Stable Diffusion             80
+    240430 3D Schülerkolleg
+    240507 Blender	                    50
+    240507 Laser Cutting	            75
+    240515 Smart Plants	                0
+    240521 Laser Cutting
+    240521 Blender	                    80
+    240522 Stable Diffusion             100
+    240530 Soldering                    50
+    240606 Aviation	                    100
+    240611 After Effects                100
+    240611 Stable Diffusion             100
+    240618 Laser Cutting	
+    240619 Premiere                     100
 
-Rationale: The number of active learners in our own educational offers during a semester is an indicator on how attractive our education offers are to students, researchers, and staff.
+### Goal#3: On Campus Community
 
-Method: We will track participation numbers in our workshops and summarize results per semester.
+Our goal#3 is to attract on average **70 visits per weekday** in our Studios by 31.12.2024.
 
-Limitations: Our offers are not mandatory. Students may appreciate certain offers but simply cannot participate due to time conflicts. Therefore, participation numbers do not adequately reflect a general interest in maker education offers.
+We do this by curating an attractive on-campus experience for students to mingle and to showcase other students’ achievements.
+
+We aim to achieve an outstanding community experience that is highly recommended among students with a **Net Promoter Score of 41+**. 
 
 **STATS** 
-??? "30.05.24"
-    53 Students / 8 HPI Employees / 25 School Children
-
-### Education Quality
-
-Rationale: The perceived quality is an indicator for the relevance of the Maker Universe among those students, researchers, and staff that engage with it.
-
-Method: At the end of every workshop, we will conduct a survey among active participants using the Net Promoter Score (NPS). Participants are asked to rate to what degree they would recommend the Maker Universe to their peers (0 = not all, 10= extremely likely). Only “9” and “10” answers are considered “promotions”. NPS scores above 50% are considered excellent.
-
-Limitations: The NPS does not address reasonings for ratings, e.g., whether a workshop was relevant, but not very engaging.
-
-**TOP 5**
-
-??? "30.5.2024"
-
-    1. Soldering (NPS: 100) <br />
-    2. Stable Diffusion 2 (NPS:100) <br />
-    3. Stable Diffusion 1 (NPS: 80) <br />
-    4. Blender (NPS: 80) <br />
-    5. Laser Cutter Workshop (NPS: 75) <br />
+??? "1.7.2024" 
+    93 visits/day on average
+    Net Promoter Score on average: to be measured at the end of the semester
