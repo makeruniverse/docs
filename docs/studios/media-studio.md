@@ -10,39 +10,51 @@ This Mac Workstation with 192GB RAM is perfect for producing and editing media c
 
 ### Alienware
 
-### Captive
+### Captiva
 
-## Software
+### Software
 
-### Stable Diffusion
+#### Stable Diffusion
 
-### HeyGen
+#### HeyGen
 
-### Chat GPT
+#### Chat GPT
 
-### Project Runway
+#### Project Runway
 
-### DaVinci Resolve
+#### DaVinci Resolve
 
-### Adobe Firefly
+#### Adobe Creative Suite
 
-### Eleven Labs
+##### Retouching in Photoshop with Ai
 
-### Izotope RX10
+??? "Retouching in Photoshop with Ai"
 
-### Ableton Live 11
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/oi4oepQPvww?si=Gc6W-1VZO87nlMul" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Shaper Trace
+#### Eleven Labs
 
-### Shapr 3D
+#### Izotope RX10
 
-### Kyub
+#### Ableton Live 11
+
+#### Shaper Trace
+
+#### Shapr 3D
+
+#### Kyub
 
 ## Film & Photo Studio
 
 The Film Studio is a setup for video recordings and photo shoots in our Media Studio.
 
 ### Portrait Photography
+
+??? "Studio Portraits - Setup & Taking Pictures"
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/bKpvOl86I3Q?si=BZxxn2kExg1mdD4H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    To retouch in Adobe Photoshop, see this [Tutorial](http://makeruniverse.github.io/docs/studios/media-studio.html#retouching-in-photoshop-with-ai)
 
 ### Product Photography
 
