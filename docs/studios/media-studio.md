@@ -12,16 +12,6 @@ This Mac Workstation with 192GB RAM is perfect for producing and editing media c
 
 ### Captive
 
-### Izotope RX10
-
-### Ableton Live 11
-
-### Shaper Trace
-
-### Shapr 3D
-
-### Kyub
-
 ## Software
 
 ### Stable Diffusion
