@@ -11,7 +11,7 @@ Unlike in art, we can mutually agree on what constitutes good design. As users, 
 
 Braun innovator Dieter Rams wrote a [famous manifesto](https://designmuseum.org/discover-design/all-stories/what-is-good-design-a-quick-look-at-dieter-rams-ten-principles) on the principles of good design. I believe the fourth principle is the most important: "Good design makes a product understandable."
 
-Users don't want to read manuals; they want to get the job done and use the product immediately. Technically, they want to navigate the product without needing further assistance from manuals, call centers, or forums.
+Users don't want to read manuals; they want to get a job done. Products need to be tools to get these jobs done without frictions.
 
 How can we, as product builders, ensure this ease of use?
 

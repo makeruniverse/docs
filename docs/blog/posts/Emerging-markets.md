@@ -14,10 +14,10 @@ One promising way to identify an emerging market is to observe what [the nerds a
 
 In this context, "nerds" are the early adopters. They engage with early versions of products that are irrelevant to the majority because of their immature and often poor quality. Early adopters on the other hand tolerate poor qualities.
 
-For example, in 2007, my friend Christian introduced me to the concept of podcasting. At the time, no one else I knew had even heard of it. At that time, finding podcast files was a mess, there were no podcast apps, and podcasts weren't available on streaming sites. Additionally, most podcasts sounded like they were recorded in a bunker.
+For example, in 2007, a former colleague of mine, Christian, introduced me to podcasting. At that time, no one else I knew, had even heard about it. As I found out quickly, finding podcast files was a mess, there were no podcast apps, and podcasts weren't available on streaming sites. Additionally, most podcasts sounded like they were recorded in a bunker.
 
 Christian, a programmer who had just moved to Berlin for the electronic music scene, didn't mind these flaws. He would listen to podcasts during long coding sessions at night. For him, podcasting was the only offer that allowed him to listen to interesting niche-content. In that sense he was an early adopter. 
 
 If you observed what Christian and others were doing in 2007, you could have realized that podcasting would become a bigger thing.
 
-The majority of people began to consume podcasts years later. With the advent of smartphones, it became easy to find and listen to podcasts anywhere. A new market was established.
+With the advent of smartphones, more and more people started to consume podcasts, and a new market formed.
