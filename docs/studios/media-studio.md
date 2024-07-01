@@ -2,9 +2,15 @@ Our Media Studio offers services and tools to create **visual and audio experien
 
 Get in contact with our [Media Studio team](../team/team.md/#media-studio-team) for further support.
 
-## Studio Workstation  
+## Computer  
 
 This Mac Workstation with 192GB RAM is perfect for producing and editing media content. It also offers various AI applications.
+
+### Mac Studio
+
+### Alienware
+
+### Captive
 
 ### Izotope RX10
 
@@ -16,9 +22,7 @@ This Mac Workstation with 192GB RAM is perfect for producing and editing media c
 
 ### Kyub
 
-## AI Workstation
-
-This PC Workstation with an NVIDIA RTX4090 is the best option for AI applications. It also offers media editing software.
+## Software
 
 ### Stable Diffusion
 
@@ -34,13 +38,27 @@ This PC Workstation with an NVIDIA RTX4090 is the best option for AI application
 
 ### Eleven Labs
 
-## Film Studio Workstation
+### Izotope RX10
 
-The Film Studio Workstation is a setup for video and audio recordings in our Media Studio. You can access it via the Mac Mini on the table that is connected to Microphones, camera and a prompter. It also includes professional lighting with presets on our DMX Master 3 FX next to the tables.
+### Ableton Live 11
 
-### Canon SLRT Photoshooting
+### Shaper Trace
 
-### Video Recordings
+### Shapr 3D
+
+### Kyub
+
+## Film & Photo Studio
+
+The Film Studio is a setup for video recordings and photo shoots in our Media Studio.
+
+### Portrait Photography
+
+### Product Photography
+
+### Talking Head Video with Teleprompter
+
+### Equipment
 
 #### RØDE Wireless Microphone System
 
@@ -82,4 +100,4 @@ The Wireless GO II [(Link to product page)](https://rode.com/en/user-guides/wire
     <iframe width="560" height="315" src="https://www.youtube.com/embed/F-Iny4IdEeI?si=RQ9tP3fXkRnIlnK_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     
 
-### Podcasting Setup
+### Podcast
