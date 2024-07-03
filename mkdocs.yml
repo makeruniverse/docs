@@ -9,6 +9,8 @@ theme:
     - content.action.edit
     - content.action.view
     - content.code.copy
+    - content.tabs.link
+    - content.tooltips
 
     - search.suggest
     - search.highlight
@@ -22,7 +24,6 @@ theme:
     - navigation.path
     # - navigation.footer
     - toc.integrate
-    - content.tooltips
 
   font:
     text: Open Sans
@@ -83,6 +84,8 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
   - md_in_html
 
 nav:

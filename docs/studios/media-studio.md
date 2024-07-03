@@ -2,15 +2,35 @@ Our Media Studio offers services and tools to create **visual and audio experien
 
 Get in contact with our [Media Studio team](../team/team.md/#media-studio-team) for further support.
 
-## Computer  
+## Computer
 
-This Mac Workstation with 192GB RAM is perfect for producing and editing media content. It also offers various AI applications.
+### Hardware
 
-### Mac Studio
+We have 3 powerful Workstations available: Captiva Ultimate Gaming I7-974, Alienware Aurora R15, Mac Studio.
 
-### Alienware
+!!! info "Tech Specs"
 
-### Captiva
+    === "Mac Studio"
+
+        Apple M2 Ultra 24-Core CPU, 60-Core GPU<br />
+        192GB RAM<br />
+        1 TB SSD 
+
+    === "Alienware"
+
+        AMD Ryzen 9 7950X 16 Cores Processor, up to 5,70 GHz <br />
+        32 GB RAM DDR5, 4800 MHz<br />
+        1 TB SSD NVMe-M.2-PCIe-SSD <br />
+        1 TB 7.200 1/min SATA 6 Gbit/s <br />
+        NVIDIA GeForce RTX 4090 Grafik (24 GB) <br />
+
+    === "Captiva"
+
+        AMD Ryzen 7 7700X 8-Core Processor, up to 5,40 GHz <br />
+        32 GB RAM <br />
+        1 TB SSD <br />
+        NVIDIA GeForce RTX 4090 Grafik (24 GB) <br />
+        Windows 11 Home 64 Bit
 
 ### Software
 
