@@ -2,9 +2,7 @@ Our Media Studio offers services and tools to create **visual and audio experien
 
 Get in contact with our [Media Studio team](../team/team.md/#media-studio-team) for further support.
 
-## Computer
-
-### Hardware
+## Computers
 
 We have 3 powerful Workstations available: Captiva Ultimate Gaming I7-974, Alienware Aurora R15, Mac Studio.
 
@@ -32,39 +30,37 @@ We have 3 powerful Workstations available: Captiva Ultimate Gaming I7-974, Alien
         NVIDIA GeForce RTX 4090 Grafik (24 GB) <br />
         Windows 11 Home 64 Bit
 
-### Software
+### Stable Diffusion
 
-#### Stable Diffusion
+### HeyGen
 
-#### HeyGen
+### Chat GPT
 
-#### Chat GPT
+### Project Runway
 
-#### Project Runway
+### DaVinci Resolve
 
-#### DaVinci Resolve
+### Adobe Creative Suite
 
-#### Adobe Creative Suite
-
-##### Retouching in Photoshop with Ai
+#### Retouching in Photoshop with Ai
 
 ??? "Retouching in Photoshop with Ai"
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/oi4oepQPvww?si=Gc6W-1VZO87nlMul" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-#### Eleven Labs
+### Eleven Labs
 
-#### Izotope RX10
+### Izotope RX10
 
-#### Ableton Live 11
+### Ableton Live 11
 
-#### Shaper Trace
+### Shaper Trace
 
-#### Shapr 3D
+### Shapr 3D
 
-#### Kyub
+### Kyub
 
-## Film & Photo Studio
+## Film Studio
 
 The Film Studio is a setup for video recordings and photo shoots in our Media Studio.
 
@@ -78,7 +74,7 @@ The Film Studio is a setup for video recordings and photo shoots in our Media St
 
 ### Product Photography
 
-### Talking Head Video with Teleprompter
+### Video with Teleprompter
 
 ### Equipment
 
@@ -121,5 +117,6 @@ The Wireless GO II [(Link to product page)](https://rode.com/en/user-guides/wire
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/F-Iny4IdEeI?si=RQ9tP3fXkRnIlnK_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     
+## Podcasting Studio
 
-### Podcast
+The podcasting Studio is located in our Researcher Studio. Camera setups and recordings can be managed on the left computer in our Media Studio.
