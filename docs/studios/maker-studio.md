@@ -15,7 +15,7 @@ Learn more about some of the tools in our workshops <br />
 Blender is an open-source 3D modeling, animation, and rendering software. 
 
 **Access** 
-You can get access to Blender via<br />
+You can get access to Blender via <br />
 1. [Printer Workstation](maker-studio.md/#printer-workstation)<br />
 2. [AI Workstation](media-studio.md/#ai-workstation)<br />
 3. [Studio Workstation](media-studio.md/#studio-workstation)<br />
@@ -29,7 +29,6 @@ You can get access to Blender via<br />
 > **Another Tip**
 > This is how it looks when **multiple tips** and ideas appear.
 
-
 ### CAD Software: Autodesk Fusion
 
 Parametric CAD software with a powerful CAM module.
@@ -37,7 +36,9 @@ Full version free to use with educational autodesk account.
 
 ### Plotter: Canon TM300
 
-You can print A1 and A0 posters. Simply open your file on our Printer Workstation and select "Canon TM300" as your printer. We recommend to select "quality: high" for images that 600dpi or more.
+You can print A1 and A0 posters. Simply open your file on our Printer Workstation and select "Canon TM300" as your printer. We recommend to select "quality: high" for images that 600dpi or more. <br />
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/urXAK5xGQ6U?si=JJwNRbS1sVblmiGf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Label Printer: QL-820NWBc
 
