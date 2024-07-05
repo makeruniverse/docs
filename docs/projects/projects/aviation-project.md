@@ -1,6 +1,4 @@
-Template for Nikita's airplane: 
-
-![Foam Board Airplane Blueprint](/docs/mediaassets/templates/Aviation_WS-blueprint.pdf){: style="width:25%;"} <br />
+In this project you can build an RC airplane in two days, using foam boards, sensors, and motors.
 
 Step 1: Cutting and Hot Glueing the Foam Board Parts <br />
 
