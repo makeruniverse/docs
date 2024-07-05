@@ -1,12 +1,12 @@
 Our Maker Studio is a setup of three rooms in House K, with tools and services for hardware-related projects. Tools are accessible through designated workstations.
 
-# Printer Workstation
+## Printer Workstation
 
 The **Printer Workstation** is a computer in the Maker Studio with access software, to create digital models, prepare 3D prints, and to print labels and posters.
 
 Learn more about some of the tools in our workshops <br />
 
-## Blender
+### Blender
 
 ??? "Blender Workshop 2024"
     May 7th, 1:30-2:30: Create 3D models with Blender. You will learn how to use Blender to create 3D models. Feel free to print your model on one of our 3D printers, afterwards. You can register via #maker-community a few days before the event takes place.
