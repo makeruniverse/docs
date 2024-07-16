@@ -18,6 +18,4 @@ For example, in 2007, a former colleague of mine, Christian, introduced me to po
 
 Christian, a programmer who had just moved to Berlin for the electronic music scene, didn't mind these flaws. He would listen to podcasts during long coding sessions at night. For him, podcasting was the only offer that allowed him to listen to interesting niche-content. In that sense he was an early adopter. 
 
-If you observed what Christian and others were doing in 2007, you could have realized that podcasting would become a bigger thing.
-
-With the advent of smartphones, more and more people started to consume podcasts, and a new market formed.
+Observing early adopters like Christian is one valid way to understand new markets in the making. At a time, when it's not yet obvious to everyone.
