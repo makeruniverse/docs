@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-07-25
+date: 2024-07-26
 categories:
     - studios
     - education
