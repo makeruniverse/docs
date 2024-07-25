@@ -1,4 +1,4 @@
-We are a team of five employees, and three freelancers, with expertise in engineering, user research, media production, design, and project management.Please send your requests via Slack @contact-our-team
+We are a team of five employees, and three freelancers, with expertise in engineering, user research, media production, design, and project management. Please send your requests via Slack @contact-our-team
 
 ## HPI Maker Universe 
 
