@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 date: 2024-06-04
 categories:
     - Team energy

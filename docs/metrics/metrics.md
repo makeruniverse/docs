@@ -1,8 +1,8 @@
 Our goals. And potential indicators of progress.
 
-## SMART Goals
+## Goals
 
-Our SMART goals are focused on engaging students in creating a unique hands-on-learning experience.
+Our goals are focused on creating a unique hands-on-learning experience.
 
 ### Goal#1: Maker Projects
 
