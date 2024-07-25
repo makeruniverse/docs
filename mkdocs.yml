@@ -99,8 +99,6 @@ nav:
     - ./studios/research-studio.md
   - Projects:
     - ./projects/projects.md
-  - Metrics:
-    - ./metrics/metrics.md
   - Team:
     - ./team/team.md
   - Blog:
