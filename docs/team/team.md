@@ -28,9 +28,9 @@ Working Hours: Tuesdays
 
 Services
 
-- [3D Printing](../tools/tools.md/#3d-printer-workstation)
-- [3D Modeling](../tools/tools.md/#modeler-workstation)
-- [Laser Cutting](../tools/tools.md/#laser-cutter-workstation)
+- [3D Printing](../studios/maker-studio.html/#3d-printer-workstation)
+- [3D Modeling](../studios/maker-studio.html/#modeler-workstation)
+- [Laser Cutting](../studios/maker-studio.html#laser-cutting-workshops)
 
 ### Ext. Electronics Expert: Tobias Rosenbusch
 
