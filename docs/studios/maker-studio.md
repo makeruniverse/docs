@@ -158,7 +158,7 @@ Visit our Media Studio in House K and get in contact with our Head of Media Stud
 
 The Laser Cutter Workstation is located in the small Maker Studio next to the Trotec Laser Cutter.
 You need to take part in the lasercutting workshop before using the laser.
-[refresh your memory with the: **LASERCUTTING PRESENTATION**](https://makeruniverse.github.io/docs/studios/Laser%20workshop%20MAKER%20UNIVERSE.pdf)
+[Refresh your memory with the: **LASERCUTTING PRESENTATION**](https://makeruniverse.github.io/docs/studios/Laser%20workshop%20MAKER%20UNIVERSE.pdf)
 
 
 
