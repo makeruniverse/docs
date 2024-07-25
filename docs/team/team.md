@@ -1,4 +1,4 @@
-Our team of experts is here to help you. Please send your requests via Slack @contact-our-team
+We are a team of five employees, and three freelancers, with expertise in engineering, user research, media production, design, and project management.Please send your requests via Slack @contact-our-team
 
 ## HPI Maker Universe 
 
@@ -8,21 +8,20 @@ Working Hours: Mondays to Fridays
 
 Services
 
-- Project Partnering
-- Communications
 - Strategy
+- Projects
+- Communications
 
-### Anna Roumen
+### Procurement: Anna Roumen
 
 Working Hours: Weekdays in the afternoons (remote)
 
 - Procurement
 - Project Support
-- Kyub
 
 ## Maker Studio Team
 
-### Head of Maker Studio: David Bizer
+### Ext. Maker Expert: David Bizer
 
 Working Hours: Tuesdays
 
@@ -58,7 +57,7 @@ Services
 
 ## Media Studio Team
 
-### Head of Media Studio: Markus Wutzlhofer
+### Media Studio Manager: Markus Wutzlhofer
 
 Working Hours: Mondays - Thursdays
 
@@ -68,7 +67,7 @@ Services
 - Film Studio Projects
 - Video Documentation
 
-### Audio Engineering: Björn Steiner
+### Audio Engineer: Björn Steiner
 
 Working Hours: Mondays - Thursdays
 
@@ -78,7 +77,7 @@ Services
 
 ## Research Studio Team
 
-### Head of Researcher Studio: Jan Koch
+### Research Studio Manager: Jan Koch
 
 Working Hours: Mondays
 
