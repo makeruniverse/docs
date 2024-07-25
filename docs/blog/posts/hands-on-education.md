@@ -2,7 +2,7 @@
 draft: false
 date: 2024-07-25
 categories:
-    - studios
+    - education
 authors:
     - Holger
 ---
