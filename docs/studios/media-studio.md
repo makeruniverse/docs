@@ -48,6 +48,10 @@ We have 3 powerful Workstations available: Captiva Ultimate Gaming I7-974, Alien
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/oi4oepQPvww?si=Gc6W-1VZO87nlMul" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+??? "Video Editing in Premiere Pro"
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/tQTNtBiKfT4?si=4R4dJgwRPlwvVGHy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Eleven Labs
 
 ### Izotope RX10
@@ -60,9 +64,9 @@ We have 3 powerful Workstations available: Captiva Ultimate Gaming I7-974, Alien
 
 ### Kyub
 
-## Film Studio
+## Photo & Video Studio
 
-The Film Studio is a setup for video recordings and photo shoots in our Media Studio.
+The Photo & Video Studio is a setup for video recordings and photo shoots in our Media Studio.
 
 ### Portrait Photography
 
@@ -75,6 +79,10 @@ The Film Studio is a setup for video recordings and photo shoots in our Media St
 ### Product Photography
 
 ### Video with Teleprompter
+
+??? "Create Videos with Teleprompter - Setup & Recording Tips"
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/SUCGFXvN598?si=tZVTTIQJQutmqaBT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Equipment
 
