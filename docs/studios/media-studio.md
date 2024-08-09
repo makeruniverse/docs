@@ -52,7 +52,7 @@ We have 3 powerful Workstations available: Captiva Ultimate Gaming I7-974, Alien
 
 ??? "Video Editing in Premiere Pro"
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/tQTNtBiKfT4?si=4R4dJgwRPlwvVGHy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/n2Nnjkm0f-0?si=fkPrQvYjjbwMUZCC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Eleven Labs
 
