@@ -74,8 +74,8 @@ extra:
 copyright: 
   Copyright &copy; 2024 Maker Universe |
   <a href="#__consent">&#10140; Change cookie settings</a> |
-  <a href="./imprint.html">&#10140; Imprint</a> |
-  <a href="./privacy-policy.html">&#10140; Privacy Policy</a>
+  <a href="https://makeruniverse.github.io/docs/imprint.html">&#10140; Imprint</a> |
+  <a href="https://makeruniverse.github.io/docs/privacy-policy.html">&#10140; Privacy Policy</a>
 
 extra_css:
   - ./mediaassets/style.css
