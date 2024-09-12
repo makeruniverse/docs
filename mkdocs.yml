@@ -108,8 +108,8 @@ markdown_extensions:
 nav:
   - Home:
     - ./index.md
-  - Maker Studio:
-    - ./studios/maker-studio.md
+  - Hardware Studio:
+    - ./studios/hardware-studio.md
   - Media Studio:
     - ./studios/media-studio.md
   - Project Studio:
