@@ -1,20 +1,12 @@
-Our Media Studio offers services and tools to create **visual and audio experiences** to tell your stories. All tools are accessible through workstations.
+Our Media Studio offers services and tools to create **visual and audio experiences**. All tools are accessible through workstations.
 
-Get in contact with our [Media Studio team](../team/team.md/#media-studio-team) for further support.
-
-## Computers
-
-We have 3 powerful Workstations available: Captiva Ultimate Gaming I7-974, Alienware Aurora R15, Mac Studio.
-
-!!! info "Tech Specs"
-
-    === "Mac Studio"
+## "Mac Studio"
 
         Apple M2 Ultra 24-Core CPU, 60-Core GPU<br />
         192GB RAM<br />
         1 TB SSD 
 
-    === "Alienware"
+## "Alienware"
 
         AMD Ryzen 9 7950X 16 Cores Processor, up to 5,70 GHz <br />
         32 GB RAM DDR5, 4800 MHz<br />
@@ -22,13 +14,15 @@ We have 3 powerful Workstations available: Captiva Ultimate Gaming I7-974, Alien
         1 TB 7.200 1/min SATA 6 Gbit/s <br />
         NVIDIA GeForce RTX 4090 Grafik (24 GB) <br />
 
-    === "Captiva"
+## "Captiva"
 
         AMD Ryzen 7 7700X 8-Core Processor, up to 5,40 GHz <br />
         32 GB RAM <br />
         1 TB SSD <br />
         NVIDIA GeForce RTX 4090 Grafik (24 GB) <br />
         Windows 11 Home 64 Bit
+
+## Software
 
 ### Stable Diffusion
 
