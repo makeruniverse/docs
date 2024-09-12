@@ -120,7 +120,3 @@ The Wireless GO II [(Link to product page)](https://rode.com/en/user-guides/wire
     ![RØDE Wireless GO II Merge-Split](../mediaassets/tools/rode_merge-split.png){: style="width:75%;"} <br /><br />
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/F-Iny4IdEeI?si=RQ9tP3fXkRnIlnK_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    
-## Podcasting Studio
-
-The podcasting Studio is located in our Researcher Studio. Camera setups and recordings can be managed on the left computer in our Media Studio.
