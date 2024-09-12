@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 date: 2024-07-25
 categories:
     - education
