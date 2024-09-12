@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 date: 2024-07-26
 categories:
     - studios
