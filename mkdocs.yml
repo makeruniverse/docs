@@ -116,7 +116,7 @@ nav:
     - ./studios/project-studio.md
   - Team:
     - ./team/team.md
-    - Workshops:
+  - Workshops:
     - ./workshops/workshops.md
   - Blog:
     - ./blog/index.md
