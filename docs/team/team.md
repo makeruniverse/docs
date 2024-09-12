@@ -13,8 +13,6 @@ We are a team of five employees, and three freelancers, with expertise in engine
 
 ## David Bizer
 
-Working Hours: Tuesdays & Thursdayx
-
 Services
 
 - [3D Printing](../studios/maker-studio.html/#3d-printer-workstation)
@@ -23,10 +21,8 @@ Services
 
 ## Tobias Rosenbusch
 
-Working Hours: Thursdays
-
-- Electronics
-- Sensors
+- Electronics (Thursday afternoons)
+- Sensors (Thursday afternoons)
 
 ## Björn Steiner
 
@@ -38,7 +34,7 @@ Working Hours: Thursdays
 - Laser Cutter
 - CNC Milling
 
-## MMarkus Wutzlhofer
+## Markus Wutzlhofer
 
 - AI & Design Projects
 - Film Studio Projects
