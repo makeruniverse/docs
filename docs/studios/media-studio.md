@@ -22,43 +22,18 @@ Our Media Studio offers services and tools to create **visual and audio experien
         NVIDIA GeForce RTX 4090 Grafik (24 GB) <br />
         Windows 11 Home 64 Bit
 
-## Software
-
-### Stable Diffusion
-
-### HeyGen
-
-### Chat GPT
-
-### Project Runway
-
-### DaVinci Resolve
-
-### Adobe Creative Suite
-
-#### Retouching in Photoshop with Ai
+### Retouching in Photoshop with Ai
 
 ??? "Retouching in Photoshop with Ai"
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/oi4oepQPvww?si=Gc6W-1VZO87nlMul" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-#### Video Editing in Premiere Pro
+### Video Editing in Premiere Pro
 
 ??? "Video Editing in Premiere Pro"
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/n2Nnjkm0f-0?si=fkPrQvYjjbwMUZCC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Eleven Labs
-
-### Izotope RX10
-
-### Ableton Live 11
-
-### Shaper Trace
-
-### Shapr 3D
-
-### Kyub
 
 ## Photo & Video Studio
 
@@ -71,8 +46,6 @@ The Photo & Video Studio is a setup for video recordings and photo shoots in our
     <iframe width="560" height="315" src="https://www.youtube.com/embed/bKpvOl86I3Q?si=BZxxn2kExg1mdD4H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
     To retouch in Adobe Photoshop, see this [Tutorial](http://makeruniverse.github.io/docs/studios/media-studio.html#retouching-in-photoshop-with-ai)
-
-### Product Photography
 
 ### Video with Teleprompter
 
