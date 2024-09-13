@@ -1,4 +1,4 @@
-Our Hardware Studio is a setup of three rooms in House K that allow you to print, cut, drill, solder, and model hardware objects.
+Our Hardware Studio in House K allows you to model, print, cut, drill, solder, and glue hardware objects.
 
 ## Plotter
 
