@@ -1,4 +1,4 @@
-Our Media Studio allows you to generate media experiences.
+## A Media Studio for you to generate media experiences
 
 ## Retouching in Photoshop with Ai
 

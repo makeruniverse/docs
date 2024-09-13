@@ -1,4 +1,4 @@
-Our Hardware Studio in House K allows you to model and shape physical objects.
+## A Hardware Studio for you to model and shape physical objects
 
 ## Poster Prints
 

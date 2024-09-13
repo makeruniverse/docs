@@ -1,1 +1,1 @@
-The teams studio allows students to work as agile teams.
+## A Teams Studio for your team to work agile
