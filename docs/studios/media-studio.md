@@ -24,13 +24,10 @@ Our Media Studio offers services and tools to create **visual and audio experien
 
 ### Retouching in Photoshop with Ai
 
-??? "Retouching in Photoshop with Ai"
-
     <iframe width="560" height="315" src="https://www.youtube.com/embed/oi4oepQPvww?si=Gc6W-1VZO87nlMul" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Video Editing in Premiere Pro
 
-??? "Video Editing in Premiere Pro"
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/n2Nnjkm0f-0?si=fkPrQvYjjbwMUZCC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -41,7 +38,6 @@ The Photo & Video Studio is a setup for video recordings and photo shoots in our
 
 ### Portrait Photography
 
-??? "Studio Portraits - Setup & Taking Pictures"
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/bKpvOl86I3Q?si=BZxxn2kExg1mdD4H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -49,7 +45,6 @@ The Photo & Video Studio is a setup for video recordings and photo shoots in our
 
 ### Video with Teleprompter
 
-??? "Create Videos with Teleprompter - Setup & Recording Tips"
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/SUCGFXvN598?si=tZVTTIQJQutmqaBT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
