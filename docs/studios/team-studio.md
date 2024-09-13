@@ -1,1 +1,1 @@
-The teams studio allows up to three teams to work collaboratively.
+The teams studio allows students to work as agile teams.

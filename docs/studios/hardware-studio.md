@@ -1,4 +1,4 @@
-Our Hardware Studio in House K allows you to model, print, cut, drill, solder, and glue hardware objects.
+Our Hardware Studio in House K allows you to model and shape physical objects.
 
 ## Poster Prints
 

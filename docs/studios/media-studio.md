@@ -1,4 +1,4 @@
-Our Media Studio allows you to create **visual and audio experiences**. All tools are accessible through open workstations.
+Our Media Studio allows you to generate media experiences.
 
 ## Retouching in Photoshop with Ai
 
