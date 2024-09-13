@@ -1,4 +1,4 @@
-## A Media Studio for you to generate media experiences
+# A Media Studio to generate media content
 
 ## Retouching in Photoshop with Ai
 

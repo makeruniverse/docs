@@ -1,1 +1,1 @@
-## A Teams Studio for your team to work agile
+# A Teams Studio to unlock agile teamwork
