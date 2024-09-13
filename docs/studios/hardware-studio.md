@@ -1,6 +1,6 @@
 Our Hardware Studio in House K allows you to model, print, cut, drill, solder, and glue hardware objects.
 
-## Plotter
+## Print
 
 You can print A1 and A0 posters with our Canon TM300 <br />
 

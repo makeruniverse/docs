@@ -30,8 +30,8 @@ Learn how to setup our teleprompter and record yourself. <br />
 
 ### "Mac Studio"
 
-        Apple M2 Ultra 24-Core CPU, 60-Core GPU<br />
-        192GB RAM<br />
+        Apple M2 Ultra 24-Core CPU, 60-Core GPU <br />
+        192GB RAM <br />
         1 TB SSD 
 
 ### "Alienware"
