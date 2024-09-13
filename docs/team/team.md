@@ -37,7 +37,7 @@ We are a team of five employees, and three freelancers, with expertise in engine
 - Film Studio Projects
 - Video Documentation
 
-## Research Studio Manager: Jan Koch
+## Jan Koch
 
 - Media Recordings
 - Superposition
