@@ -112,10 +112,10 @@ nav:
     - ./studios/hardware-studio.md
   - Media Studio:
     - ./studios/media-studio.md
-  - Project Studio:
-    - ./studios/project-studio.md
-  - Team:
-    - ./team/team.md
+  - Team Studio:
+    - ./studios/team-studio.md
+  - Staff:
+    - ./team/staff.md
   - Workshops:
     - ./workshops/workshops.md
   - Blog:
