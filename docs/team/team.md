@@ -2,7 +2,6 @@ We are a team of five employees, and three freelancers, with expertise in engine
 
 ## Dr. Holger Rhinow
 
-- Strategy
 - Projects
 - Communications
 
@@ -13,11 +12,9 @@ We are a team of five employees, and three freelancers, with expertise in engine
 
 ## David Bizer
 
-Services
-
-- [3D Printing](../studios/maker-studio.html/#3d-printer-workstation)
-- [3D Modeling](../studios/maker-studio.html/#modeler-workstation)
-- [Laser Cutting](../studios/maker-studio.html#laser-cutting-workshops)
+- 3D Printing
+- 3D Modeling
+- Laser Cutting
 
 ## Tobias Rosenbusch
 
@@ -31,7 +28,7 @@ Services
 
 ## Nicolai Hertle
 
-- Laser Cutter
+- Laser Cutting
 - CNC Milling
 
 ## Markus Wutzlhofer
