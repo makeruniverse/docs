@@ -1,4 +1,4 @@
-# A Hardware Studio to shape physical objects
+A Hardware Studio to shape physical objects
 
 ## Poster Prints
 
