@@ -1,45 +1,18 @@
 Our Media Studio offers services and tools to create **visual and audio experiences**. All tools are accessible through workstations.
 
-## "Mac Studio"
-
-        Apple M2 Ultra 24-Core CPU, 60-Core GPU<br />
-        192GB RAM<br />
-        1 TB SSD 
-
-## "Alienware"
-
-        AMD Ryzen 9 7950X 16 Cores Processor, up to 5,70 GHz <br />
-        32 GB RAM DDR5, 4800 MHz<br />
-        1 TB SSD NVMe-M.2-PCIe-SSD <br />
-        1 TB 7.200 1/min SATA 6 Gbit/s <br />
-        NVIDIA GeForce RTX 4090 Grafik (24 GB) <br />
-
-## "Captiva"
-
-        AMD Ryzen 7 7700X 8-Core Processor, up to 5,40 GHz <br />
-        32 GB RAM <br />
-        1 TB SSD <br />
-        NVIDIA GeForce RTX 4090 Grafik (24 GB) <br />
-        Windows 11 Home 64 Bit
-
-### Retouching in Photoshop with Ai
+## Retouching in Photoshop with Ai
 
 Learn how to use photopshop with AI to edit your media content.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oi4oepQPvww?si=Gc6W-1VZO87nlMul" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Video Editing in Premiere Pro
+## Video Editing in Premiere Pro
 
 Learn how to edit videos in Premiere Pro.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n2Nnjkm0f-0?si=fkPrQvYjjbwMUZCC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-## Photo & Video Studio
-
-The Photo & Video Studio is a setup for video recordings and photo shoots in our Media Studio.
-
-### Portrait Photography
+## Portrait Photography
 
 Learn how to setup the studio to make professional portraits.
 
@@ -47,15 +20,37 @@ Learn how to setup the studio to make professional portraits.
 
 To retouch in Adobe Photoshop, see this [Tutorial](http://makeruniverse.github.io/docs/studios/media-studio.html#retouching-in-photoshop-with-ai)
 
-### Video with Teleprompter
+## Video with Teleprompter
 
 Learn how to setup our teleprompter and record yourself.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SUCGFXvN598?si=tZVTTIQJQutmqaBT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Equipment
+## Equipment
 
-#### RØDE Wireless Microphone System
+### "Mac Studio"
+
+        Apple M2 Ultra 24-Core CPU, 60-Core GPU<br />
+        192GB RAM<br />
+        1 TB SSD 
+
+### "Alienware"
+
+        AMD Ryzen 9 7950X 16 Cores Processor, up to 5,70 GHz <br />
+        32 GB RAM DDR5, 4800 MHz<br />
+        1 TB SSD NVMe-M.2-PCIe-SSD <br />
+        1 TB 7.200 1/min SATA 6 Gbit/s <br />
+        NVIDIA GeForce RTX 4090 Grafik (24 GB) <br />
+
+### "Captiva"
+
+        AMD Ryzen 7 7700X 8-Core Processor, up to 5,40 GHz <br />
+        32 GB RAM <br />
+        1 TB SSD <br />
+        NVIDIA GeForce RTX 4090 Grafik (24 GB) <br />
+        Windows 11 Home 64 Bit
+
+### RØDE Wireless Microphone System
 
 The Wireless GO II [(Link to product page)](https://rode.com/en/user-guides/wireless-go-ii){target="_blank"} is a dual channel wireless microphone system with an transmission range of 200 metres (line of sight).
 
