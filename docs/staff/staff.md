@@ -16,8 +16,8 @@ Please send your requests via Slack @contact-our-team
 
 ## Tobias Rosenbusch
 
-- Electronics (Thursday afternoons)
-- Sensors (Thursday afternoons)
+- Electronics
+- Sensors
 
 ## Björn Steiner
 
@@ -33,10 +33,8 @@ Please send your requests via Slack @contact-our-team
 
 - AI & Design Projects
 - Film Studio Projects
-- Video Documentation
 
 ## Jan Koch
 
 - Media Recordings
 - Superposition
-- Smart Home
