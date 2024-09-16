@@ -2,18 +2,16 @@ Please send your requests via Slack @contact-our-team
 
 ## Dr. Holger Rhinow
 
-- Projects
+- Team Coaching
 - Communications
 
 ## Anna Roumen
 
 - Procurement
-- Project Support
 
 ## David Bizer
 
 - 3D Printing
-- 3D Modeling
 - Laser Cutting
 
 ## Tobias Rosenbusch
