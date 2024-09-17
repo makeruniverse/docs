@@ -95,7 +95,7 @@ PW: Freezable-Scoured3-pigment
 Blender is an open-source 3D modeling, animation, and rendering software. 
 
 You can get access to Blender through our workstations in the Media Studio <br />
-[Free Download ](https://www.blender.org/download)<br />
+[Free Download](https://www.blender.org/download)<br />
 
 ## 3D Modelling: Autodesk Fusion
 
@@ -124,4 +124,4 @@ The workstations in our Media Studio and our Hardware Studio offer access to Orc
 
 The Laser Cutter Workstation is located in the small Hardware Studio next to the Trotec Laser Cutter.
 
-{Laser Cutting Intro}(./docs/templates/laser-cutting-intro.pdf)
+[Laser Cutting Intro Slides](./docs/templates/laser-cutting-intro.pdf)
