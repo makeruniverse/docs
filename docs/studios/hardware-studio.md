@@ -111,6 +111,8 @@ The Electronic Workstation is located in the large Maker Studio. It offers two w
 
 ### Soldering
 
+<iframe width="560" height="315" src="https://youtu.be/mrcoVMDm8TQ?si=uiRvPxJ6-vMRSM6k title=" YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Multimeter
 
 ### Microscope
