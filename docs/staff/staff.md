@@ -1,40 +1,25 @@
 Please send your requests via Slack @contact-our-team 
 
-## Dr. Holger Rhinow
+## Dr. Holger Rhinow (Head of Studios)
+Team Coaching
 
-- Team Coaching
-- Communications
-
-## Anna Roumen
-
-- Procurement
+## Markus Wutzlhofer (Head of Media Studio)
+Film & AI
 
 ## David Bizer
-
-- 3D Printing
-- Laser Cutting
-
-## Tobias Rosenbusch
-
-- Electronics
-- Sensors
-
-## Björn Steiner
-
-- 3D Printing
-- Audio Recordings
+Hardware Workshops
 
 ## Nicolai Hertle
+Hardware Workshops
 
-- Laser Cutting
-- CNC Milling
+## Tobias Rosenbusch
+Electronics
 
-## Markus Wutzlhofer
+## Anna Roumen
+Procurement
 
-- AI & Design Projects
-- Film Studio Projects
+## Björn Steiner
+Audio Recordings
 
 ## Jan Koch
-
-- Media Recordings
-- Superposition
+Technology
