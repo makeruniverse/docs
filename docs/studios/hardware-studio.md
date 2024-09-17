@@ -16,16 +16,16 @@ Download:
 - MacOS: https://apps.apple.com/de/app/brother-p-touch-editor/id1453365242?mt=12
 - Windows: https://support.brother.com/g/s/es/inst/de/index.htm?c=de&lang=de&navi=off&comple=on&redirect=on
 
-## 3D Printers: Bambu A1 Mini (2x)
+## 3D Printers: Bambu A1 Mini
 Use Bambu a1 Mini when you print small objects with a single filament.
 
-## 3D Printers: Bambu X1 (2x)
+## 3D Printers: Bambu X1
 Use Bambu X1x when you print large objects of up to 256 x 256 x 265 mm, or objects with up to four different types or filaments.
 
 **Warning**
 The Bambu has a Snakehouse Fan Duct, which is a bit too close to the bed, on the left of the enclosure. If thin/fragile parts are located on the left side of the bed, near to the edge, they might warp due to the fan blowing on it. If that happens disable the AUX Fan and print with open enclosure: [OrcaSlicer AUX Fan Settings](../3D_Printing/img/auxfan-orca.png)
 
-## 3D Printers: Creality K1 (2x)
+## 3D Printers: Creality K1
 Creality K1 has a build volume of 300 x 300 x 300 mm usually one of them is equipped with a 0.4mm nozzle and the other one with a 0.6mm nozzle.
 
 **Print large objects**
