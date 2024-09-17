@@ -1,9 +1,6 @@
 A Hardware Studio to shape physical objects
 
-<figure markdown="span">
-  ![Hardware Studio](makeruniverse/docs/docs/mediaassets/thumbnails/hardware-studio.jpg){ width="300" }
-  <figcaption>Image caption</figcaption>
-</figure>
+{Hardware Studio}(makeruniverse/docs/docs/mediaassets/thumbnails/hardware-studio.jpg)
 
 ## Poster Prints
 
