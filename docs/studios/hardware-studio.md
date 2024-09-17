@@ -121,7 +121,9 @@ The Electronic Workstation is located in the large Maker Studio. It offers two w
 
 ## Laser Cutter Workstation
 
-The Laser Cutter Workstation is located in the small Maker Studio next to the Trotec Laser Cutter.
+The Laser Cutter Workstation is located in the small Hardware Studio next to the Trotec Laser Cutter.
+
+../mediaassets/templates/laser-cutting-intro.pdf
 
 
 
