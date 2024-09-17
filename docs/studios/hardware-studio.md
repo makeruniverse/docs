@@ -1,7 +1,5 @@
 A Hardware Studio to shape physical objects
 
-{Hardware Studio}(makeruniverse/docs/docs/mediaassets/thumbnails/hardware-studio.jpg)
-
 ## Poster Prints
 
 You can print A1 and A0 posters with our Canon TM300 <br />
