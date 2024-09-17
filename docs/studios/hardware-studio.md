@@ -1,4 +1,6 @@
-Our Maker Studio is a setup of three rooms in House K, with tools and services for hardware-related projects. Tools are accessible through designated workstations.
+A Hardware Studio to shape physical objects
+
+![Hardware Studio](../mediaassets/thumbnails/hardware-studio.jpg)
 
 ## Printer Workstation
 
