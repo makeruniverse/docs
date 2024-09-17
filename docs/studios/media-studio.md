@@ -1,5 +1,7 @@
 A Media Studio to generate media content
 
+![Media Studio](../mediaassets/thumbnails/media-studio.jpg)
+
 ## Retouching in Photoshop with Ai
 
 Learn how to use photopshop with AI to edit your media content. <br />
