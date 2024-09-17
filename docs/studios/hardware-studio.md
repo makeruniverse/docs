@@ -107,7 +107,6 @@ Full version free to use with educational autodesk account.
 The workstations in our Media Studio and our Hardware Studio offer access to Orca Slicer. Orca Slicer is your best option to prepare 3D prints.
 
 ## Electronic Workstation
-The Electronic Workstation is located in the large Maker Studio. It offers two working tables with various tools and free-to-use materials.
 
 ### Soldering
 
