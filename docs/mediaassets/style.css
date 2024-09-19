@@ -83,7 +83,7 @@
   --md-accent-fg-color: #da3177;
 }
 
-.img {
+img {
     width: 560px;
     height: auto; /* To maintain the aspect ratio */
 }
