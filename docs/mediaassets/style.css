@@ -84,6 +84,6 @@
 }
 
 img {
-    width: 560px !important;
-    height: auto; /* To maintain the aspect ratio */
+    max-width: 560px !important;
+    height: auto; /* Maintain aspect ratio */
 }
