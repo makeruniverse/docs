@@ -1,7 +1,7 @@
 **Welcome**
 
-The Maker Studios are for everyone to explore, create, and share their ideas. 
+Our Studios are for everyone to explore, build, and share their ideas. 
 
-To make this possible, we ask you to keep two key principles in mind: First, offer feedback to fellow makers only when requested. Focus on being supportive. Second, keep the space clean and tidy. For others to enjoy.
+We offer a Hardware Studio to shape physical objects, a Media Studio to generate media content, and a Teams Studio to to work as teams.
 
 You can find our studios on Campus 1 in House K. We are open Mondays to Fridays between 9:30 AM to 5:00 PM.
