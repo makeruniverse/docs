@@ -1,4 +1,4 @@
-Workshops Winter 2024
+Workshops Winter 24/25
 
 ##Textile: Sewing machine 
 
