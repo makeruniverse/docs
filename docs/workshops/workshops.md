@@ -1,5 +1,3 @@
-Workshops
-
 Registrations are possible a few days prior to the event via Slack. 
 
 <br />
