@@ -22,26 +22,23 @@ Get to know the basics of 3d printing with our expert David. We will cover the s
 
 Learn about the different tools in our Hardware & Media Studio for different use cases. This is not a workshop, but an inspirational tour. 19th November (2:00 – 3:00 PM)
 
+##3D printing: Basics
+Get to know the basics of 3d printing with our expert David. We will cover the software, the printers, and the materials you need to make your first 3d print. 28th November (3:30 – 5:00 PM)
 
 **December 2024**
 
+##3D printing: Basics
+Get to know the basics of 3d printing with our expert David. We will cover the software, the printers, and the materials you need to make your first 3d print. 10th December (10:30 – 12:00 AM)
+
 ##Prototyping Tour
-
 Learn about the different tools in our Hardware & Media Studio for different use cases. This is not a workshop, but an inspirational tour. 17th December (3:30 – 4:30 PM)
-
 
 **January 2025**
 
 ##Prototyping Tour
-
 Learn about the different tools in our Hardware & Media Studio for different use cases. This is not a workshop, but an inspirational tour. 21st January (2:00 – 3:00 PM)
 
-##3D printing: Basics
 
-Get to know the basics of 3d printing with our expert David. We will cover the software, the printers, and the materials you need to make your first 3d print.
-•	24th October (1:00 – 2:30 PM)
-•	28th November (3:30 – 5:00 PM)
-•	10th December (10:30 – 12:00 AM)
 
 Registration not open yet
 
