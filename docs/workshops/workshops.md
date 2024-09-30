@@ -15,23 +15,20 @@ David introduces you to the new Vinyl Plotter. Feel free to bring your own desig
 ##24th October: 3D printing Basics
 Get to know the basics of 3d printing with our expert David. We will cover the software, the printers, and the materials you need to make your first 3d print. (1:00 – 2:30 PM)
 
-<br />
-#November 2024
+##5th November: CNC milling
+Nicolai teaches you how to use the new machine while building a handy desktop organizer. (1:00 – 5:00 PM)
 
-##CNC milling: Basics 
-Nicolai teaches you how to use the new machine while building a handy desktop organizer. 5th November (1:00 – 5:00 PM)
+##7th November: Laser Cutting Basics
+David teaches you how to use our laser cutter safely and effective. This introduction workshop is mandatory for you to use our laser cutter. (1:00 – 3:00 PM)
 
-##Laser Cutting: Basics
-David teaches you how to use our laser cutter safely and effective. This introduction workshop is mandatory for you to use our laser cutter. 7th November (1:00 – 3:00 PM)
+##12th November: Smart Neon Sign with WLED
+Nicolai guides you in designing and building a custom neon sign, controllable via the WLED app. You will also design and print the sign holder. (1:00 – 5:00 PM)
 
-##Smart neon sign with WLED
-Nicolai guides you in designing and building a custom neon sign, controllable via the WLED app. You will also design and print the sign holder. 12th November (1:00 – 5:00 PM)
+##14th November: Electronics Soldering
+Our expert Tobi offers an introduction on how to solder hole & SMD components and wires. No prior knowledge or equipment needed. (2:00 – 3:30 PM)
 
-##Electronics: Soldering
-Our expert Tobi offers an introduction on how to solder hole & SMD components and wires. No prior knowledge or equipment needed. 14th November (2:00 – 3:30 PM)
-
-##Electronics: Advanced Soldering 
-Learn how to solder SMT components with various techniques. We expect you to know basic soldering skills to attend this workshop. 21st November (2:00 – 4:00 PM)
+##21st November: Electronics Advanced Soldering 
+Learn how to solder SMT components with various techniques. We expect you to know basic soldering skills to attend this workshop. (2:00 – 4:00 PM)
 
 ##Prototyping Tour
 Learn about the different tools in our Hardware & Media Studio for different use cases. This is not a workshop, but an inspirational tour. 19th November (2:00 – 3:00 PM)
