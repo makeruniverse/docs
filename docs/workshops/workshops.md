@@ -2,7 +2,7 @@ Workshops
 
 Registrations are possible a few days prior to the event via Slack.
 
-**October 2024**
+#October 2024
 
 ##Resin Printing
 Bring your own model Resin printing is a high-quality, high-demand version of 3d printing. Bring your own digital model and get support. 10th October (4:00 – 6:00 PM)
