@@ -54,7 +54,8 @@ Nicolai guides you in designing and building a custom neon sign, controllable vi
 ##14th November: Electronics Soldering
 Our expert Tobi offers an introduction on how to solder hole & SMD components and wires. No prior knowledge or equipment needed. (2:00 – 3:30 PM)
 
-##18th November: Conducting user tests (German) We will learn how to conduct and analyze a user test by having a live demo, and the reflect on setup. (1:30 – 4:00 PM)
+##18th November: Conducting user tests (German)
+We will learn how to conduct and analyze a user test by having a live demo, and the reflect on setup. (1:30 – 4:00 PM)
 
 ##19th November: Prototyping Tour
 Learn about the different tools in our Hardware & Media Studio for different use cases. This is not a workshop, but an inspirational tour. (2:00 – 3:00 PM)
