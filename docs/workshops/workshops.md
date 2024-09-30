@@ -29,6 +29,12 @@ David teaches you how to use our laser cutter safely and effective. This introdu
 ##Smart neon sign with WLED
 Nicolai guides you in designing and building a custom neon sign, controllable via the WLED app. You will also design and print the sign holder. 12th November (1:00 – 5:00 PM)
 
+##Electronics: Soldering
+Our expert Tobi offers an introduction on how to solder hole & SMD components and wires. No prior knowledge or equipment needed. 14th November (2:00 – 3:30 PM)
+
+##Electronics: Advanced Soldering 
+Learn how to solder SMT components with various techniques. We expect you to know basic soldering skills to attend this workshop. 21st November (2:00 – 4:00 PM)
+
 ##Prototyping Tour
 Learn about the different tools in our Hardware & Media Studio for different use cases. This is not a workshop, but an inspirational tour. 19th November (2:00 – 3:00 PM)
 
@@ -53,6 +59,9 @@ Learn about the different tools in our Hardware & Media Studio for different use
 <br />
 #January 2025
 
+##Electronics: Soldering 
+Our expert Tobi offers an introduction on how to solder hole & SMD components and wires. No prior knowledge or equipment needed. 5th December (3:00 – 4:30 PM)
+
 ##CNC milling: Basics 
 Nicolai teaches you how to use the new machine while building a handy desktop organizer. 14th January (1:00 – 5:00 PM)
 
@@ -61,13 +70,6 @@ Learn about the different tools in our Hardware & Media Studio for different use
 
 ##Laser Cutting: Basics
 David teaches you how to use our laser cutter safely and effective. This introduction workshop is mandatory for you to use our laser cutter. 28th January (3:00 – 5:00 PM)
-
-Electronics: Soldering Our expert Tobi offers an introduction on how to solder hole & SMD components and wires. No prior knowledge or equipment needed.
-•	14th November (2:00 – 3:30 PM)
-•	5th December (3:00 – 4:30 PM)
-
-Electronics: Advanced Soldering Learn how to solder SMT components with various techniques. We expect you to know basic soldering skills to attend this workshop.
-•	21st November (2:00 – 4:00 PM)
 
 Smart Plants In our next iteration of the smart plants workshop we use ESP and a sensor to measure the plant’s water level and install a pump that waters the plant when needed. Bring your own plant.
 •	25th November (3:15 – 6:00 PM)
