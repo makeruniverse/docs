@@ -47,11 +47,16 @@ Markus teaches you cutting-edge prompting techniques for text to image generatio
 ##7th November: Laser Cutting Basics
 David teaches you how to use our laser cutter safely and effective. This introduction workshop is mandatory for you to use our laser cutter. (1:00 – 3:00 PM)
 
+##8th November: Co-Creative Human-AI Innovation
+We learn ways to use AI tools during the idea generation phase in a project. (9:30 – 12:15 AM)
+
 ##12th November: Smart Neon Sign with WLED
 Nicolai guides you in designing and building a custom neon sign, controllable via the WLED app. You will also design and print the sign holder. (1:00 – 5:00 PM)
 
 ##14th November: Electronics Soldering
 Our expert Tobi offers an introduction on how to solder hole & SMD components and wires. No prior knowledge or equipment needed. (2:00 – 3:30 PM)
+
+##18th November: Conducting user tests (German) We will learn how to conduct and analyze a user test by having a live demo, and the reflect on setup. (1:30 – 4:00 PM)
 
 ##19th November: Prototyping Tour
 Learn about the different tools in our Hardware & Media Studio for different use cases. This is not a workshop, but an inspirational tour. (2:00 – 3:00 PM)
@@ -68,11 +73,17 @@ In our next iteration of the smart plants workshop we use ESP and a sensor to me
 ##26th November: Mini-Me 
 Led by Nicolai, you will scan yourself and create a personalized 3D model. The designs are refined with 3D sculpting software and produced using a 3D printer. (1:00 – 5:00 PM)
 
+##27th November: User Story Mapping (German) 
+Guided by Agile Coach Markus Güntert, we will learn how to break down feature ideas into user stories along the customer journey, so that development can be prioritized. (10:00 – 6:00 PM)
+
 ##28th November 3D Printing
 Get to know the basics of 3d printing with our expert David. We will cover the software, the printers, and the materials you need to make your first 3d print. (3:30 – 5:00 PM)
 
 <br />
 December 2024
+
+##2nd December: Roles & Team Chemistry (German)
+Markus Güntert will teach you about different roles in real software development teams in the industry. Explore your own profile and jointly define roles & responsibilities for your project team. (10:00 – 6:00 PM)
 
 ##3rd December: Laser Cutting Basics
 David teaches you how to use our laser cutter safely and effective. This introduction workshop is mandatory for you to use our laser cutter. (3:00 – 5:00 PM)
@@ -118,34 +129,3 @@ Get to know our new sewing machine and the possibility to digitally design stitc
 
 ##11th February: Professional portrait photography
 Markus guides you in shooting professional portraits in our photo studio and how to edit them in Adobe photoshop with AI. (1:00 – 2:00 PM)
-
-
-
-
-
-
-
-Co-Creative Human-AI Innovation (English) We learn ways to use AI tools during the idea generation phase in a project.
-•	8th November (9:30 – 12:15 AM)
-
-Conducting user tests (German) We will learn how to conduct and analyze a user test by having a live demo, and the reflect on setup.
-•	18th November (1:30 – 4:00 PM)
-
-User Story Mapping (German) Guided by Agile Coach Markus Güntert, we will learn how to break down feature ideas into user stories along the customer journey, so that development can be prioritized.
-•	27th November (10:00 – 6:00 PM)
-
-Roles & Team Chemistry (German) Markus Güntert will teach you about different roles in real software development teams in the industry. Explore your own profile and jointly define roles & responsibilities for your project team.
-
-•	2nd December (10:00 – 6:00 PM)
-
-
-
-##Textile: Sewing machine 
-
-Get to know our new sewing machine and the possibility to digitally design stitch patterns. 8th October (4:00 – 5:00 PM)
-
-![Textile: Sewing Machine](<../mediaassets/thumbnails/textile sewing machine.jpg>)
-
-[Sign up here](https://confluence.hpi.de/plugins/easyevents/event-hub.action#/eventhub/b658d0ce-b8e6-4e25-a5c1-4c98aaceaa29/1)
-
-##More workshops
