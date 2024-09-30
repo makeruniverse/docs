@@ -32,11 +32,17 @@ Nicolai guides you in designing and building a custom neon sign, controllable vi
 ##14th November: Electronics Soldering
 Our expert Tobi offers an introduction on how to solder hole & SMD components and wires. No prior knowledge or equipment needed. (2:00 – 3:30 PM)
 
+##19th November: Prototyping Tour
+Learn about the different tools in our Hardware & Media Studio for different use cases. This is not a workshop, but an inspirational tour. (2:00 – 3:00 PM)
+
 ##21st November: Electronics Advanced Soldering 
 Learn how to solder SMT components with various techniques. We expect you to know basic soldering skills to attend this workshop. (2:00 – 4:00 PM)
 
-##19th November: Prototyping Tour
-Learn about the different tools in our Hardware & Media Studio for different use cases. This is not a workshop, but an inspirational tour. (2:00 – 3:00 PM)
+##25th November: Smart Plants
+In our next iteration of the smart plants workshop we use ESP and a sensor to measure the plant’s water level and install a pump that waters the plant when needed. Bring your own plant. (3:15 – 6:00 PM)
+
+##26th November: Mini-Me 
+Led by Nicolai, you will scan yourself and create a personalized 3D model. The designs are refined with 3D sculpting software and produced using a 3D printer. (1:00 – 5:00 PM)
 
 ##28th November 3D Printing
 Get to know the basics of 3d printing with our expert David. We will cover the software, the printers, and the materials you need to make your first 3d print. (3:30 – 5:00 PM)
@@ -62,20 +68,16 @@ Learn about the different tools in our Hardware & Media Studio for different use
 ##5th December: Electronics Soldering 
 Our expert Tobi offers an introduction on how to solder hole & SMD components and wires. No prior knowledge or equipment needed. (3:00 – 4:30 PM)
 
-##CNC milling: Basics 
-Nicolai teaches you how to use the new machine while building a handy desktop organizer. 14th January (1:00 – 5:00 PM)
+##14th January: CNC milling 
+Nicolai teaches you how to use the new machine while building a handy desktop organizer. (1:00 – 5:00 PM)
 
-##Prototyping Tour
-Learn about the different tools in our Hardware & Media Studio for different use cases. This is not a workshop, but an inspirational tour. 21st January (2:00 – 3:00 PM)
+##21st January: Prototyping Tour
+Learn about the different tools in our Hardware & Media Studio for different use cases. This is not a workshop, but an inspirational tour. (2:00 – 3:00 PM)
 
-##Laser Cutting: Basics
-David teaches you how to use our laser cutter safely and effective. This introduction workshop is mandatory for you to use our laser cutter. 28th January (3:00 – 5:00 PM)
+##28th January: Laser Cutting Basics
+David teaches you how to use our laser cutter safely and effective. This introduction workshop is mandatory for you to use our laser cutter. (3:00 – 5:00 PM)
 
-Smart Plants In our next iteration of the smart plants workshop we use ESP and a sensor to measure the plant’s water level and install a pump that waters the plant when needed. Bring your own plant.
-•	25th November (3:15 – 6:00 PM)
 
-Mini-Me Led by Nicolai, you will scan yourself and create a personalized 3D model. The designs are refined with 3D sculpting software and produced using a 3D printer.
-•	 26th November (1:00 – 5:00 PM)
 
 Textile: Sewing machine Get to know our new sewing machine and the possibility to digitally design stitch patterns.
 •	4th February (4:00 – 5:00 PM)
