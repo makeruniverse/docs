@@ -5,39 +5,36 @@ Registrations are possible a few days prior to the event via Slack.
 **October 2024**
 
 ##Resin Printing
-Bring your own model Resin printing is a high-quality, high-demand version of 3d printing. Bring your own digital model and get support.
-•	10th October (4:00 – 6:00 PM)
+Bring your own model Resin printing is a high-quality, high-demand version of 3d printing. Bring your own digital model and get support. 10th October (4:00 – 6:00 PM)
 
 ##Textile: Vinyl cuts
-David introduces you to the new Vinyl Plotter. Feel free to bring your own design and get support.
-•	17th October (10:00 – 12:00 AM)
+David introduces you to the new Vinyl Plotter. Feel free to bring your own design and get support. 17th October (10:00 – 12:00 AM)
 
 ##Textile: Vinyl cuts
-David introduces you to the new Vinyl Plotter. Feel free to bring your own design and get support.
-•	22nd October (1:00 – 3:00 PM)
+David introduces you to the new Vinyl Plotter. Feel free to bring your own design and get support. 22nd October (1:00 – 3:00 PM)
 
 ##3D printing: Basics
-Get to know the basics of 3d printing with our expert David. We will cover the software, the printers, and the materials you need to make your first 3d print.
-•	24th October (1:00 – 2:30 PM)
+Get to know the basics of 3d printing with our expert David. We will cover the software, the printers, and the materials you need to make your first 3d print. 24th October (1:00 – 2:30 PM)
 
 **November 2024**
 
 ##Prototyping Tour
 
-Learn about the different tools in our Hardware & Media Studio for different use cases. This is not a workshop, but an inspirational tour.
-•	19th November (2:00 – 3:00 PM)
+Learn about the different tools in our Hardware & Media Studio for different use cases. This is not a workshop, but an inspirational tour. 19th November (2:00 – 3:00 PM)
 
 
-
+**December 2024**
 
 ##Prototyping Tour
 
-Learn about the different tools in our Hardware & Media Studio for different use cases. This is not a workshop, but an inspirational tour.
-•	19th November (2:00 – 3:00 PM)
-•	17th December (3:30 – 4:30 PM)
-•	21st January (2:00 – 3:00 PM)
+Learn about the different tools in our Hardware & Media Studio for different use cases. This is not a workshop, but an inspirational tour. 17th December (3:30 – 4:30 PM)
 
 
+**January 2025**
+
+##Prototyping Tour
+
+Learn about the different tools in our Hardware & Media Studio for different use cases. This is not a workshop, but an inspirational tour. 21st January (2:00 – 3:00 PM)
 
 ##3D printing: Basics
 
