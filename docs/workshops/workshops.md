@@ -1,7 +1,8 @@
 Workshops
 
-Registrations are possible a few days prior to the event via Slack.
+Registrations are possible a few days prior to the event via Slack. 
 
+<br />
 #October 2024
 
 ##Resin Printing
@@ -16,48 +17,50 @@ David introduces you to the new Vinyl Plotter. Feel free to bring your own desig
 ##3D printing: Basics
 Get to know the basics of 3d printing with our expert David. We will cover the software, the printers, and the materials you need to make your first 3d print. 24th October (1:00 – 2:30 PM)
 
-**November 2024**
+<br />
+#November 2024
+
+##CNC milling: Basics 
+Nicolai teaches you how to use the new machine while building a handy desktop organizer. 5th November (1:00 – 5:00 PM)
+
+##Laser Cutting: Basics
+David teaches you how to use our laser cutter safely and effective. This introduction workshop is mandatory for you to use our laser cutter. 7th November (1:00 – 3:00 PM)
+
+##Smart neon sign with WLED
+Nicolai guides you in designing and building a custom neon sign, controllable via the WLED app. You will also design and print the sign holder. 12th November (1:00 – 5:00 PM)
 
 ##Prototyping Tour
-
 Learn about the different tools in our Hardware & Media Studio for different use cases. This is not a workshop, but an inspirational tour. 19th November (2:00 – 3:00 PM)
 
 ##3D printing: Basics
 Get to know the basics of 3d printing with our expert David. We will cover the software, the printers, and the materials you need to make your first 3d print. 28th November (3:30 – 5:00 PM)
 
-**December 2024**
+<br />
+#December 2024
+
+##Laser Cutting: Basics
+David teaches you how to use our laser cutter safely and effective. This introduction workshop is mandatory for you to use our laser cutter. 3rd December (3:00 – 5:00 PM)
 
 ##3D printing: Basics
 Get to know the basics of 3d printing with our expert David. We will cover the software, the printers, and the materials you need to make your first 3d print. 10th December (10:30 – 12:00 AM)
 
+##Laser Cutting: Basics
+David teaches you how to use our laser cutter safely and effective. This introduction workshop is mandatory for you to use our laser cutter. 12th December (1:00 – 3:00 PM)
+
 ##Prototyping Tour
 Learn about the different tools in our Hardware & Media Studio for different use cases. This is not a workshop, but an inspirational tour. 17th December (3:30 – 4:30 PM)
 
-**January 2025**
+<br />
+#January 2025
+
+##CNC milling: Basics 
+Nicolai teaches you how to use the new machine while building a handy desktop organizer. 14th January (1:00 – 5:00 PM)
 
 ##Prototyping Tour
 Learn about the different tools in our Hardware & Media Studio for different use cases. This is not a workshop, but an inspirational tour. 21st January (2:00 – 3:00 PM)
 
-
-
-Registration not open yet
-
-##CNC milling: Basics 
-
-Nicolai teaches you how to use the new machine while building a handy desktop organizer.
-•	5th November (1:00 – 5:00 PM)
-•	14th January (1:00 – 5:00 PM)
-
-Registration not open yet
-
-Laser cutting: Basics David teaches you how to use our laser cutter safely and effective. This introduction workshop is mandatory for you to use our laser cutter.
-•	7th November (1:00 – 3:00 PM)
-•	3rd December (3:00 – 5:00 PM)
-•	12th December (1:00 – 3:00 PM)
-•	28th January (3:00 – 5:00 PM)
-
-Smart neon sign with WLED Nicolai guides you in designing and building a custom neon sign, controllable via the WLED app. You will also design and print the sign holder.
-•	12th November (1:00 – 5:00 PM)
+##Laser Cutting: Basics
+David teaches you how to use our laser cutter safely and effective. This introduction workshop is mandatory for you to use our laser cutter. 28th January (3:00 – 5:00 PM)
 
 Electronics: Soldering Our expert Tobi offers an introduction on how to solder hole & SMD components and wires. No prior knowledge or equipment needed.
 •	14th November (2:00 – 3:30 PM)
