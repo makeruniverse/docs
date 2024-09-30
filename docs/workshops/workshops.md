@@ -2,20 +2,18 @@ Workshops
 
 Registrations are possible a few days prior to the event via Slack. 
 
-<br />
-#October 2024
 
-##Resin Printing
-Bring your own model Resin printing is a high-quality, high-demand version of 3d printing. Bring your own digital model and get support. 10th October (4:00 – 6:00 PM)
+##10th October: Resin Printing
+Bring your own model Resin printing is a high-quality, high-demand version of 3d printing. Bring your own digital model and get support. (4:00 – 6:00 PM)
 
-##Textile: Vinyl cuts
-David introduces you to the new Vinyl Plotter. Feel free to bring your own design and get support. 17th October (10:00 – 12:00 AM)
+##17th October: Textile Vinyl cuts
+David introduces you to the new Vinyl Plotter. Feel free to bring your own design and get support. (10:00 – 12:00 AM)
 
-##Textile: Vinyl cuts
-David introduces you to the new Vinyl Plotter. Feel free to bring your own design and get support. 22nd October (1:00 – 3:00 PM)
+##22nd October: Textile Vinyl cuts 2
+David introduces you to the new Vinyl Plotter. Feel free to bring your own design and get support. (1:00 – 3:00 PM)
 
-##3D printing: Basics
-Get to know the basics of 3d printing with our expert David. We will cover the software, the printers, and the materials you need to make your first 3d print. 24th October (1:00 – 2:30 PM)
+##24th October: 3D printing Basics
+Get to know the basics of 3d printing with our expert David. We will cover the software, the printers, and the materials you need to make your first 3d print. (1:00 – 2:30 PM)
 
 <br />
 #November 2024
