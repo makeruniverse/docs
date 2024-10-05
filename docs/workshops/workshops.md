@@ -114,6 +114,9 @@ Markus teaches you cutting-edge prompting techniques for text to image generatio
 ##14th January: CNC milling 
 Nicolai teaches you how to use the new machine while building a handy desktop organizer. (1:00 – 5:00 PM)
 
+##16th January: Vocal Recording
+Björn covers the basics of microphone techniques, how to achieve quality voice recordings, and how to enhance them using AI post-processing. (3:15 – 4:15 PM)
+
 ##21st January: Prototyping Tour
 Learn about the different tools in our Hardware & Media Studio for different use cases. This is not a workshop, but an inspirational tour. (2:00 – 3:00 PM)
 
