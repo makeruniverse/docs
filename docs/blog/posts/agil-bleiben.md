@@ -7,8 +7,6 @@ authors:
     - Holger
 ---
 
-Wenn eine Entscheidung Agilität kostet
-
 Häufig reicht eine einzige Entscheidung, um Agilität einzubüßen.
 
 In unserem Bachelor-Projekt „Smart Clothing“ entwickeln zwölf Studierende innovative Ideen und setzen sie in Prototypen um.
