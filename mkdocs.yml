@@ -112,8 +112,10 @@ nav:
     - ./studios/hardware-studio.md
   - Media Studio:
     - ./studios/media-studio.md
-  - Teams Studio:
-    - ./studios/teams-studio.md
+  - Project Studio:
+    - ./studios/project-studio.md
+  - UX Studio:
+    - ./studios/ux-studio.md
   - Staff:
     - ./staff/staff.md
   - Workshops:
