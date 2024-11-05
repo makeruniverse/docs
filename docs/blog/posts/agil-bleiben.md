@@ -15,7 +15,7 @@ In unserem Bachelor-Projekt zum Thema „Smart Clothing“ arbeiten zwölf Studi
 
 In einem der ersten Meetings kam der Vorschlag einer betreuenden Lehrkraft, die Projektarbeit mit einer Studie zu flankieren. Die Idee klang zunächst gut. Mehr Testergebnisse könnten die Projektarbeit gut ergänzen.  Doch auf den zweiten Blick wirkte die Idee wie ein Stolperstein für das Projekt: Um eine Studie ordnungsgemäß durchzuführen, hätte das Studiendesign bereits drei Monate im Voraus feststehen müssen. Der nötige Ethikantrag hätte alle weiteren Anpassungen blockiert.
 
-Stattdessen hat das Team sich entschieden, informelle Methoden wie Nutzerinterviews einzusetzen, um schneller Feedback zu sammeln und flexibel zu iterieren.
+Stattdessen haben sie sich entschieden, mit schnelleren Methoden wie spontanen Nutzerinterviews Feedback zu sammeln und flexibel zu iterieren.
 
 Agilität bedeutet, bewusst Entscheidungen aufzuschieben, um Freiraum für Anpassungen zu lassen. Oft blockieren uns schon kleine, verfrühte Festlegungen.
 
