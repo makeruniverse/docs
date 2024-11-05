@@ -19,6 +19,5 @@ Stattdessen hat das Team sich entschieden, informelle Methoden wie Nutzerintervi
 
 Agilität bedeutet, bewusst Entscheidungen aufzuschieben, um Freiraum für Anpassungen zu lassen. Oft blockieren uns schon kleine, verfrühte Festlegungen.
 
-- hr
 
 Danke an Nikolas Rieger für sein Feedback zum Draft.
