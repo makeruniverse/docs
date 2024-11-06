@@ -7,9 +7,7 @@ authors:
     - Holger
 ---
 
-Die Suche nach den Early Adopters
-
-„Early Adopters sind mehr als erste Nutzer – sie inspirieren und formen Innovationen.“
+Early Adopters sind mehr als erste Nutzer – sie inspirieren und formen Innovationen.
 
 Airbnb entstand aus einer fixen Idee. Dem Team war nicht sofort klar, für wen Airbnb die richtige Lösung sein würde. Die erste Gruppe von Nutzern waren Konferenzbesucher. Diese Reisenden suchten nach einer Unterkunft in direkter Nähe zur Veranstaltung, da die guten Hotels ausgebucht waren. Ebenso wichtig war eine zweite Gruppe: Personen mit Wohnungen in San Francisco. Sie hatten ein geringes Einkommen und suchten eine flexible Möglichkeit, ihre Miete zu bezahlen. Diese Hosts erweiterten das Angebot der Plattform. Sie gaben den Gründern tiefe Einblicke in die tatsächlichen Bedürfnisse und Herausforderungen der Nutzer. Beide Gruppen trugen durch ihre Offenheit und ihr frühes Feedback entscheidend zur Entwicklung von Airbnb bei (1).
 
