@@ -7,7 +7,7 @@ authors:
     - Holger
 ---
 
-3 Lektionen über den Fokus im Projekt „Smart Clothing“
+Fokus im Projekt „Smart Clothing“: 3 Erkenntnisse
 
 1. Kein Fokus: keine Energie
 
