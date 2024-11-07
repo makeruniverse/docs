@@ -2,7 +2,7 @@
 draft: false
 date: 2024-11-01
 categories:
-    - observations
+    - teamwork
 authors:
     - Holger
 ---
@@ -19,5 +19,4 @@ Stattdessen haben sie sich entschieden, mit schnelleren Methoden wie spontanen N
 
 Agilität bedeutet, bewusst Entscheidungen aufzuschieben, um Freiraum für Anpassungen zu lassen. Oft blockieren uns schon kleine, verfrühte Festlegungen.
 
-
-Danke an Nikolas Rieger für sein Feedback zum Draft.
+(Danke an Nikolas Rieger für sein Feedback zum Draft.)

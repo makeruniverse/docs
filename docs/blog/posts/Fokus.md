@@ -2,12 +2,12 @@
 draft: false
 date: 2024-11-01
 categories:
-    - observations
+    - teamwork
 authors:
     - Holger
 ---
 
-Fokus im Projekt „Smart Clothing“: 3 Erkenntnisse
+Fokus: 3 Erkenntnisse
 
 1. Kein Fokus: keine Energie
 
