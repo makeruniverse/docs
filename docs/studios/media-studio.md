@@ -2,6 +2,24 @@ A Media Studio to generate media content
 
 ![Media Studio](../mediaassets/thumbnails/media-studio.jpg)
 
+## AI Applications
+
+### Image Generation
+
+#### Stable Diffusion
+
+[Stable Diffusion Basics & Advanced Prompting PDF](../mediaassets/PDF/Stable Diffusion Basics & Advanced Prompting_05-large.pdf)
+
+#### FLUX
+
+#### Midjourney
+
+### Video Generation
+
+### Audio Generation
+
+### Text Generation
+
 ## Retouching in Photoshop with Ai
 
 Learn how to use photopshop with AI to edit your media content. <br />
@@ -29,6 +47,14 @@ Learn how to setup our teleprompter and record yourself. <br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SUCGFXvN598?si=tZVTTIQJQutmqaBT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Product Photography
+
+Setup & Tips for your Product Photography:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GYXNCSaKXWg?si=A41xA9ULGjxjhPW3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Learn how to edit your product photos:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ch4JGX3YgK0?si=ZzOiaKKXXVav6_g2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Equipment
 
