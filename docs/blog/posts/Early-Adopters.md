@@ -2,7 +2,7 @@
 draft: false
 date: 2024-11-01
 categories:
-    - observations
+    - teamwork
 authors:
     - Holger
 ---

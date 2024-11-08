@@ -11,6 +11,10 @@ Unveränderliche Lehre
 
 Lectio. Disputatio. Repetitio. Glossa. Collegia.
 
-Schon interessant, wie die gleichen Eckpfeiler der akademischen Lehre, die im 11. Jahrhundert in Bologna geprägt wurden, sich 200 Jahre später in Cambridge durchsetzten – und heute, 700 Jahre danach, immer noch als Maßstab gelten.
+Das waren Frameworks der akademischen Lehre im 11. Jahrhundert in Bologna. Und das waren sie auch noch 200 Jahre später in Cambridge. Und, surprise: sie sind es immer noch, 700 Jahre später.
 
-Aber sind diese alten Formate wirklich so stark? Liegt ihr Fortbestehen am "Lindy-Effekt", dem Prinzip, dass sich Dinge, die lange bestehen, weiterhin bewähren? Oder fehlt uns die Fantasie, neue Kategorien zu entwickeln, trotz der Durchbrüche mit AI?
+Warum? 
+
+ Ist das dem "Lindy-Effekt" geschuldet? Dem Prinzip, dass sich alle Ideen, die lange bestehen, auch weiterhin bewähren werden? 
+ 
+ Oder fehlt uns der Mut und die Fantasie, neue Formen der Lehre auszuprobieren? Und wäre das nicht eines der Felder, in den Europa noch Vorreiter sein kann?
