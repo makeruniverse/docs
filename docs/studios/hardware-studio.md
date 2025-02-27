@@ -134,6 +134,10 @@ The workstations in our Media Studio and our Hardware Studio offer access to Orc
 
 ## Laser Cutter
 
+### How to Use the Laser Cutter
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jb2Sp960G6Y?si=Wp_ZsHUosVJCcuUp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 The Laser Cutter Workstation is located in the small Hardware Studio next to the Trotec Laser Cutter.
 
 [Laser Cutting Intro Slides](/docs/mediaassets/templates/laser-cutting-intro.pdf)
