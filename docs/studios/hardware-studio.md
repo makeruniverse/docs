@@ -120,6 +120,18 @@ The workstations in our Media Studio and our Hardware Studio offer access to Orc
 
 ## Textile Workstation
 
+### Sewing Station Part 1 / Fabric Basics & Preparation
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IbTu8bqhhN4?si=fCGSHkbb6hh5jlVY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Sewing Station Part 2 / Threading the machine
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TaYJzNtdgf4?si=7uJzizazBxWlBbmZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Sewing Station Part 3 // Introduction to Sewing
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lHvPy24lTf4?si=4-6iz1xlMLvrCKwu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Laser Cutter
 
 The Laser Cutter Workstation is located in the small Hardware Studio next to the Trotec Laser Cutter.
