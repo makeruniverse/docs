@@ -116,9 +116,5 @@ nav:
     - ./studios/project-studio.md
   - UX Studio:
     - ./studios/ux-studio.md
-  - Staff:
-    - ./staff/staff.md
-  - Workshops:
-    - ./workshops/workshops.md
-  - Blog:
-    - ./blog/index.md
+  - Learning Catalogue:
+    - ./catalogue/catalogue.md

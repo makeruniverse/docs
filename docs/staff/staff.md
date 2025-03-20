@@ -1,1 +1,0 @@
-Please send your requests via Slack @contact-our-team
