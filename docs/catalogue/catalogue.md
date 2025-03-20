@@ -4,7 +4,6 @@
 ## From the Archives
 
 ### Learning Catalogue 2 (Winter Semester 2024/25)
-<br />
 
 HARDWARE WORKSHOPS
 Resin printing: Bring your own model Resin printing is a high-quality, high-demand version of 3d printing. Bring your own digital model and get support.
@@ -102,8 +101,6 @@ Roles & Team Chemistry (German) Markus Güntert will teach you about different r
 
 
 ### Learning Catalogue 1 (Summer Semester 2024)
-<br />
-
  
 OPEN SESSIONS
 No presentations. Only hands-on-experiences.
