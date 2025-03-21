@@ -1,9 +1,9 @@
-## Learning Catalogue 3 (Summer Semester 2025)
+## Maker Catalogue 3 (Summer Semester 2025)
 <br />
 
 ## From the Archives
 
-### Learning Catalogue 2 (Winter Semester 2024/25)
+### Maker Catalogue 2 (Winter Semester 2024/25)
 
 HARDWARE WORKSHOPS
 Resin printing: Bring your own model Resin printing is a high-quality, high-demand version of 3d printing. Bring your own digital model and get support.
@@ -100,7 +100,7 @@ Roles & Team Chemistry (German) Markus Güntert will teach you about different r
 •	2nd December (10:00 – 6:00 PM)
 
 
-### Learning Catalogue 1 (Summer Semester 2024)
+### Maker Catalogue 1 (Summer Semester 2024)
  
 OPEN SESSIONS
 No presentations. Only hands-on-experiences.
