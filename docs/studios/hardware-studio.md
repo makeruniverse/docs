@@ -2,6 +2,9 @@ A Hardware Studio to shape physical objects
 
 ![Hardware Studio](../mediaassets/thumbnails/hardware-studio.jpg)
 
+!!! info end "Access to special machines"
+    Access to some of our machines in the Hardware Studio is managed over [Fabman](https://fabman.io) (e.g. the laser cutter). Upon completion of a training (clicking on the button below the videos), we will automatically create your Fabman account in our Maker Universe. You will receive an email with a link to set your password and log in to Fabman. After that, you are ready to go and use our machines. To turn on the machines, you will need to use your smartphone and scan the QR code on the Fabman bridge (a little black box next to each machine). If you have further questions feel free to contact us!
+
 ## Poster Prints
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OtVmBPOy3QA?si=bvUwEyUOJchU_tIv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -136,8 +139,73 @@ The workstations in our Media Studio and our Hardware Studio offer access to Orc
 
 ### How to Use the Laser Cutter
 
+In this video David will show you how to use our laser cutter. He will explain the basics of the machine, safety precautions, and how to use the software by cutting a simple design.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jb2Sp960G6Y?si=Wp_ZsHUosVJCcuUp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 The Laser Cutter Workstation is located in the small Hardware Studio next to the Trotec Laser Cutter.
 
 [Laser Cutting Intro Slides](/docs/mediaassets/templates/laser-cutting-intro.pdf)
+
+After you have watched the video, you can click the button below to finish the training and gain access to the laser cutter.
+
+<a class="button" href="https://access.maker.hpi.de?training=2740">Finish Training</a>
+
+<!-- Style and Script tags for the button to be disabled until user clicks on the video. -->
+
+<style>
+   .button {
+        padding: 10px 15px;
+        border: none;
+        cursor: pointer;
+        border-radius: 5px;
+        font-size: 16px;
+        background-color: #11639f;
+        color: white !important;
+    } 
+
+    .btn-disabled {
+        background-color:rgb(82, 139, 179);
+        cursor: not-allowed;
+        pointer-events:none;
+    }
+</style>
+
+<script>
+    document.querySelectorAll('.button').forEach(button => {
+        button.setAttribute('disabled', 'disabled');
+        button.classList.add('btn-disabled');
+    });
+
+    function getNextAnchorElement(element) {
+        let nextElement = element.nextElementSibling;
+
+        while (nextElement) {
+            // Check if the next element contains an <a> tag
+            let anchor = nextElement.querySelector('a');
+            if (anchor && anchor.classList.contains('button')) {
+                return anchor;
+            }
+
+            var tagName = nextElement.tagName;
+            if (tagName == 'H1' || tagName == 'H2' || tagName == 'H3' || tagName == 'IFRAME') {
+                return null;
+            }
+
+            nextElement = nextElement.nextElementSibling;
+        }
+
+        return null; // No next <a> element found
+    }
+
+    var monitor = setInterval(function(){
+        var elem = document.activeElement;
+        if(elem && elem.tagName == 'IFRAME'){
+            var btn = getNextAnchorElement(elem);
+            if (btn) {
+                btn.removeAttribute('disabled');
+                btn.classList.remove('btn-disabled');
+            }
+        }
+    }, 100);
+</script>
