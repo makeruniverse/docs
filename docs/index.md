@@ -28,6 +28,3 @@
 Always clean up your workspace when you're done. Put away tools, materials, and coffee cups. Even small messes add up. We cannot clean up after you, and the cleaning team only cleans if all surfaces are cleared.
 - Be Curious: Don’t worry if you’re not an expert. Drop-In Sessions are for learning, observing, or jumping in.
 - Stay Safe: If you’re unsure about how something works, just ask. We’re here to help.
-
-Make ideas real,
-Your Maker Universe Team
