@@ -111,7 +111,7 @@ The workstations in our Media Studio and our Hardware Studio offer access to Orc
 
 ## Electronic Workstation
 
-### Soldering - How to use the Soldering Station
+### How to use the Soldering Station
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mrcoVMDm8TQ?si=wCLOkC2F15g1un5-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
