@@ -2,8 +2,13 @@ A Hardware Studio to shape physical objects
 
 ![Hardware Studio](../mediaassets/thumbnails/hardware-studio.jpg)
 
-!!! info end "Access to special machines"
-    Access to some of our machines in the Hardware Studio is managed over [Fabman](https://fabman.io) (e.g. the laser cutter). Upon completion of a training (clicking on the button below the videos), we will automatically create your Fabman account in our Maker Universe. You will receive an email with a link to set your password and log in to Fabman. After that, you are ready to go and use our machines. To turn on the machines, you will need to use your smartphone and scan the QR code on the Fabman bridge (a little black box next to each machine). If you have further questions feel free to contact us!
+## Access Control - Fabman
+
+![Fabman Bridge](https://shop.fabman.io/cdn/shop/products/V2_squared_530x@2x.jpg?v=1554803596)
+
+Access to some of our machines / tools in the Hardware Studio is managed over [Fabman](https://fabman.io) (e.g. the laser cutter and soldering stations). Upon completion of a training (clicking on the button below the videos), we will automatically create your Fabman account in our Maker Universe. You will receive an email with a link to set your password and log in to Fabman. After that, you are ready to go and use our machines. To turn on the machines, you will need to use your smartphone and scan the QR code on the Fabman bridge (a little black box next to each machine). Alternatively you can now use your HPI key to sign into the bridge! Use the button below to pair your key. If you have further questions feel free to contact us!
+
+<a class="button" href="https://access.maker.hpi.de/keyAssignment">Assign your HPI key to your Fabman Account</a>
 
 ## Poster Prints
 
@@ -153,7 +158,7 @@ The Laser Cutter Workstation is located in the small Hardware Studio next to the
 
 After you have watched the video, you can click the button below to finish the training and gain access to the laser cutter.
 
-<a class="button" href="https://access.maker.hpi.de?training=2740">Finish Training</a>
+<a class="button training-btn" href="https://access.maker.hpi.de?training=2740">Finish Training</a>
 
 <!-- Style and Script tags for the button to be disabled until user clicks on the video. -->
 
@@ -176,7 +181,7 @@ After you have watched the video, you can click the button below to finish the t
 </style>
 
 <script>
-    document.querySelectorAll('.button').forEach(button => {
+    document.querySelectorAll('.training-btn').forEach(button => {
         button.setAttribute('disabled', 'disabled');
         button.classList.add('btn-disabled');
     });
@@ -187,7 +192,7 @@ After you have watched the video, you can click the button below to finish the t
         while (nextElement) {
             // Check if the next element contains an <a> tag
             let anchor = nextElement.querySelector('a');
-            if (anchor && anchor.classList.contains('button')) {
+            if (anchor && anchor.classList.contains('training-btn')) {
                 return anchor;
             }
 
