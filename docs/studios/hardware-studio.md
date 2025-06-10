@@ -2,8 +2,21 @@ A Hardware Studio to shape physical objects
 
 ![Hardware Studio](../mediaassets/thumbnails/hardware-studio.jpg)
 
-!!! info end "Access to special machines"
-    Access to some of our machines in the Hardware Studio is managed over [Fabman](https://fabman.io) (e.g. the laser cutter). Upon completion of a training (clicking on the button below the videos), we will automatically create your Fabman account in our Maker Universe. You will receive an email with a link to set your password and log in to Fabman. After that, you are ready to go and use our machines. To turn on the machines, you will need to use your smartphone and scan the QR code on the Fabman bridge (a little black box next to each machine). If you have further questions feel free to contact us!
+## Access Control - Fabman
+
+![Fabman Bridge](https://shop.fabman.io/cdn/shop/products/V2_squared_530x@2x.jpg?v=1554803596)
+
+Access to some of our machines / tools in the Hardware Studio is managed over [Fabman](https://fabman.io) (e.g. the laser cutter and soldering stations). Upon completion of a training (clicking on the button below the videos), we will automatically create your Fabman account in our Maker Universe. You will receive an email with a link to set your password and log in to Fabman. After that, you are ready to go and use our machines. To turn on the machines, you will need to use your smartphone and scan the QR code on the Fabman bridge (a little black box next to each machine). Alternatively you can now use your HPI key to sign into the bridge! Use the button below to create an account without completing a training yet or pair your key. If you have further questions feel free to contact us!
+
+<a class="button" href="https://access.maker.hpi.de/">Create a Fabman Account</a>
+<a class="button" href="https://access.maker.hpi.de/keyAssignment">Assign your HPI key to your Fabman Account</a>
+
+The following machines / tools require authentication over Fabman:
+
+| Machine / Tool | Mandatory Training |
+|-|-|
+| Laser Cutter | [How to Use the Laser Cutter](#how-to-use-the-laser-cutter) |
+| Soldering Stations | [How to use the Soldering Station](#how-to-use-the-soldering-station) |
 
 ## Poster Prints
 
@@ -19,16 +32,17 @@ Download:
 - MacOS: https://apps.apple.com/de/app/brother-p-touch-editor/id1453365242?mt=12
 - Windows: https://support.brother.com/g/s/es/inst/de/index.htm?c=de&lang=de&navi=off&comple=on&redirect=on
 
-## 3D Printers: Bambu A1 Mini
+## 3D Printers
+### Bambu A1 Mini
 Use Bambu a1 Mini when you print small objects with a single filament.
 
-## 3D Printers: Bambu X1
+### Bambu X1
 Use Bambu X1x when you print large objects of up to 256 x 256 x 265 mm, or objects with up to four different types or filaments.
 
 **Warning**
 The Bambu has a Snakehouse Fan Duct, which is a bit too close to the bed, on the left of the enclosure. If thin/fragile parts are located on the left side of the bed, near to the edge, they might warp due to the fan blowing on it. If that happens disable the AUX Fan and print with open enclosure: [OrcaSlicer AUX Fan Settings](../3D_Printing/img/auxfan-orca.png)
 
-## 3D Printers: Creality K1
+### Creality K1
 Creality K1 has a build volume of 300 x 300 x 300 mm usually one of them is equipped with a 0.4mm nozzle and the other one with a 0.6mm nozzle.
 
 **Print large objects**
@@ -51,7 +65,7 @@ IP right printer (0.4 nozzle) https://172.22.3.249:4408
 2. Select `Settings` and then `Network`. 
 3. Enter the IP Address in your browser. Make sure to append `4408` as port. Example: ![http://172.22.0.254:4408](http://172.22.0.254:4408)
 
-## 3D Printers: Prusa XL
+### Prusa XL
 Use Prusa XL when you print large objects and / or objects with multiple filament types.
 
 To use all features of the Prusa XL we recommend to use [Download: Prusa Slicer](https://www.prusa3d.com/en/page/prusaslicer_424/)
@@ -93,14 +107,16 @@ PW: Freezable-Scoured3-pigment
     https://thangs.com/ <br />
     https://makerworld.com/
 
-## 3D Modelling: Blender
+## 3D Modelling
+
+### Blender
 
 Blender is an open-source 3D modeling, animation, and rendering software. 
 
 You can get access to Blender through our workstations in the Media Studio <br />
 [Free Download](https://www.blender.org/download)<br />
 
-## 3D Modelling: Autodesk Fusion
+### Autodesk Fusion
 
 Parametric CAD software with a powerful CAM module.
 
@@ -114,6 +130,10 @@ The workstations in our Media Studio and our Hardware Studio offer access to Orc
 ### How to use the Soldering Station
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mrcoVMDm8TQ?si=wCLOkC2F15g1un5-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+After you have watched the video, you can click the button below to finish the training and gain access to the soldering stations.
+
+<a class="button training-btn" href="https://access.maker.hpi.de?training=2875">Finish Training</a>
 
 ### Soldering Basics
 
@@ -153,7 +173,7 @@ The Laser Cutter Workstation is located in the small Hardware Studio next to the
 
 After you have watched the video, you can click the button below to finish the training and gain access to the laser cutter.
 
-<a class="button" href="https://access.maker.hpi.de?training=2740">Finish Training</a>
+<a class="button training-btn" href="https://access.maker.hpi.de?training=2740">Finish Training</a>
 
 <!-- Style and Script tags for the button to be disabled until user clicks on the video. -->
 
@@ -176,7 +196,7 @@ After you have watched the video, you can click the button below to finish the t
 </style>
 
 <script>
-    document.querySelectorAll('.button').forEach(button => {
+    document.querySelectorAll('.training-btn').forEach(button => {
         button.setAttribute('disabled', 'disabled');
         button.classList.add('btn-disabled');
     });
@@ -187,7 +207,7 @@ After you have watched the video, you can click the button below to finish the t
         while (nextElement) {
             // Check if the next element contains an <a> tag
             let anchor = nextElement.querySelector('a');
-            if (anchor && anchor.classList.contains('button')) {
+            if (anchor && anchor.classList.contains('training-btn')) {
                 return anchor;
             }
 
