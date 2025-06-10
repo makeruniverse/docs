@@ -6,9 +6,17 @@ A Hardware Studio to shape physical objects
 
 ![Fabman Bridge](https://shop.fabman.io/cdn/shop/products/V2_squared_530x@2x.jpg?v=1554803596)
 
-Access to some of our machines / tools in the Hardware Studio is managed over [Fabman](https://fabman.io) (e.g. the laser cutter and soldering stations). Upon completion of a training (clicking on the button below the videos), we will automatically create your Fabman account in our Maker Universe. You will receive an email with a link to set your password and log in to Fabman. After that, you are ready to go and use our machines. To turn on the machines, you will need to use your smartphone and scan the QR code on the Fabman bridge (a little black box next to each machine). Alternatively you can now use your HPI key to sign into the bridge! Use the button below to pair your key. If you have further questions feel free to contact us!
+Access to some of our machines / tools in the Hardware Studio is managed over [Fabman](https://fabman.io) (e.g. the laser cutter and soldering stations). Upon completion of a training (clicking on the button below the videos), we will automatically create your Fabman account in our Maker Universe. You will receive an email with a link to set your password and log in to Fabman. After that, you are ready to go and use our machines. To turn on the machines, you will need to use your smartphone and scan the QR code on the Fabman bridge (a little black box next to each machine). Alternatively you can now use your HPI key to sign into the bridge! Use the button below to create an account without completing a training yet or pair your key. If you have further questions feel free to contact us!
 
+<a class="button" href="https://access.maker.hpi.de/">Create a Fabman Account</a>
 <a class="button" href="https://access.maker.hpi.de/keyAssignment">Assign your HPI key to your Fabman Account</a>
+
+The following machines / tools require authentication over Fabman:
+
+| Machine / Tool | Mandatory Training |
+|-|-|
+| Laser Cutter | [How to Use the Laser Cutter](#how-to-use-the-laser-cutter) |
+| Soldering Stations | [How to use the Soldering Station](#how-to-use-the-soldering-station) |
 
 ## Poster Prints
 
@@ -122,6 +130,10 @@ The workstations in our Media Studio and our Hardware Studio offer access to Orc
 ### How to use the Soldering Station
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mrcoVMDm8TQ?si=wCLOkC2F15g1un5-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+After you have watched the video, you can click the button below to finish the training and gain access to the soldering stations.
+
+<a class="button training-btn" href="https://access.maker.hpi.de?training=2875">Finish Training</a>
 
 ### Soldering Basics
 
