@@ -24,16 +24,17 @@ Download:
 - MacOS: https://apps.apple.com/de/app/brother-p-touch-editor/id1453365242?mt=12
 - Windows: https://support.brother.com/g/s/es/inst/de/index.htm?c=de&lang=de&navi=off&comple=on&redirect=on
 
-## 3D Printers: Bambu A1 Mini
+## 3D Printers
+### Bambu A1 Mini
 Use Bambu a1 Mini when you print small objects with a single filament.
 
-## 3D Printers: Bambu X1
+### Bambu X1
 Use Bambu X1x when you print large objects of up to 256 x 256 x 265 mm, or objects with up to four different types or filaments.
 
 **Warning**
 The Bambu has a Snakehouse Fan Duct, which is a bit too close to the bed, on the left of the enclosure. If thin/fragile parts are located on the left side of the bed, near to the edge, they might warp due to the fan blowing on it. If that happens disable the AUX Fan and print with open enclosure: [OrcaSlicer AUX Fan Settings](../3D_Printing/img/auxfan-orca.png)
 
-## 3D Printers: Creality K1
+### Creality K1
 Creality K1 has a build volume of 300 x 300 x 300 mm usually one of them is equipped with a 0.4mm nozzle and the other one with a 0.6mm nozzle.
 
 **Print large objects**
@@ -56,7 +57,7 @@ IP right printer (0.4 nozzle) https://172.22.3.249:4408
 2. Select `Settings` and then `Network`. 
 3. Enter the IP Address in your browser. Make sure to append `4408` as port. Example: ![http://172.22.0.254:4408](http://172.22.0.254:4408)
 
-## 3D Printers: Prusa XL
+### Prusa XL
 Use Prusa XL when you print large objects and / or objects with multiple filament types.
 
 To use all features of the Prusa XL we recommend to use [Download: Prusa Slicer](https://www.prusa3d.com/en/page/prusaslicer_424/)
@@ -98,14 +99,16 @@ PW: Freezable-Scoured3-pigment
     https://thangs.com/ <br />
     https://makerworld.com/
 
-## 3D Modelling: Blender
+## 3D Modelling
+
+### Blender
 
 Blender is an open-source 3D modeling, animation, and rendering software. 
 
 You can get access to Blender through our workstations in the Media Studio <br />
 [Free Download](https://www.blender.org/download)<br />
 
-## 3D Modelling: Autodesk Fusion
+### Autodesk Fusion
 
 Parametric CAD software with a powerful CAM module.
 
