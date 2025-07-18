@@ -1,89 +1,58 @@
-.md-typeset h1 {
-  color:var(--md-default-fg-color);
-  font-size:2.3em;
-  font-weight:200;
-  line-height:1.3;
-  letter-spacing:-.01em;
-  margin:0 0 1.25em;
-  text-transform:uppercase;
+body {
+  background-color: #0f0f0f;
 }
 
-.md-typeset h2 {
-  font-weight:700;
-  font-size:1.5em;
-  line-height:1.4;
-  letter-spacing:-.01em;
-  text-indent: .5em;
-  background-image: linear-gradient(to right, rgba(207,6,84,0.3), rgba(17,99,159,0.3));
-  margin:1.6em 0 .64em;
-  padding: 0 0 .2em 0;
+.terminal-prompt::before {
+  content: "▶ ";
+  color: #cc0855;
 }
 
-.md-typeset h3 {
-  font-size:1.2em;
-  font-weight:600;
-  letter-spacing:-.01em;
-  line-height:1.5;
-  text-indent: .5em;
-  margin:1.6em 0 .8em
+.terminal-prompt::after {
+  background: #cc0855;
 }
 
-.md-typeset h2+h3 {
-  margin-top:.8em
+.no-style {
+  text-transform: uppercase;
 }
 
-.md-typeset h4 {
-  font-weight:600;
-  font-size:1.0em;
-  letter-spacing:-.01em;
-  text-indent: 1.5em;
-  margin:1em 0
+a:hover {
+  background-color: #cc0855;
+  color: black;
+  display: inline;
 }
 
-.md-typeset h5,
-.md-typeset h6 {
-  color:var(--md-default-fg-color);
-  font-size:0.9em;
-  font-weight:600;
-  text-indent: 2.5em;
-  margin:1.25em 0
+.terminal-mkdocs-side-nav-item--active {
+  color: #cc0855;
 }
 
-.md-typeset h5 {
-  text-transform:none;
+.terminal h1 {
+  color: #62c4ff;
+  display: block;
+  font-size: 1.3rem;
+  margin: 2rem 0; 
 }
 
-.md-typeset summary {
-  background: none;
-}
-  
-.md-header,
-.md-tabs,
-.md-footer,
-.md-footer-meta {
-  background-image: linear-gradient(to right, #cf0654, #11639f);
+.terminal h2 {
+  color: #62c4ff;
+  display: block;
+  font-size: 1.2rem;
+  margin: 2rem 0; 
 }
 
-/*
-.md-typeset .admonition,
-.md-typeset details {
-  border-image: linear-gradient(to right, #cf0654, #11639f) 10;
-  border-width: .075rem;
-  border-style: solid;
-}
-*/
-  
-[data-md-color-primary="custom-light"] {
-  --md-primary-fg-color: #1a549b;
-  --md-accent-fg-color: #cb0e5d;
-}
-  
-[data-md-color-primary="custom-dark"] {
-  --md-primary-fg-color: #618ec4;
-  --md-accent-fg-color: #da3177;
+.terminal h2::before {
+  content: "▸ ";
+  color: #cc0855;
+  font-size: 1.5rem;
+  margin-right: 0.3em;
 }
 
-img {
-    max-width: 560px !important;
-    height: auto; /* Maintain aspect ratio */
+.terminal h3 {
+  color: #62c4ff;
+}
+
+.terminal h3::before {
+  content: "▸ ";
+  color: #62c4ff;
+  font-size: 1.2rem;
+  margin-right: 0.6rem;
 }

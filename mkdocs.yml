@@ -2,52 +2,10 @@ site_name: Maker Universe
 repo_url: "https://github.com/makeruniverse/docs"
 edit_uri: edit/main/docs/
 theme:
-  name: material
+  name: terminal
   logo: ./mediaassets/logo_white.png
   favicon: ./mediaassets/favicon.ico
-  features:
-    - content.action.edit
-    - content.action.view
-    - content.code.copy
-    - content.tabs.link
-    - content.tooltips
-
-    - search.suggest
-    - search.highlight
-    - search.share
-
-    - navigation.tracking
-    - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.sections
-    # - navigation.expand
-    - navigation.path
-    # - navigation.footer
-    - toc.integrate
-
-  font:
-    text: Open Sans
-
-  palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      toggle:
-        icon: material/lightbulb 
-        name: Switch to dark mode
-      primary: custom-light
-      accent: custom-light
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      toggle:
-        icon: material/lightbulb-outline
-        name: Switch to light mode
-      primary: custom-dark
-      accent: custom-dark
-
-  icon:
-    edit: material/pencil 
-    view: material/eye
-    repo: fontawesome/brands/git-alt
+  palette: sans_dark
 
 extra:
   social:
@@ -72,7 +30,7 @@ extra:
       - reject
 
 copyright: 
-  Copyright &copy; 2024 Maker Universe |
+  Copyright &copy; 2025 Maker Universe |
   <a href="#__consent">&#10140; Change cookie settings</a> |
   <a href="https://makeruniverse.github.io/docs/imprint.html">&#10140; Imprint</a> |
   <a href="https://makeruniverse.github.io/docs/privacy-policy.html">&#10140; Privacy Policy</a>
@@ -83,9 +41,9 @@ extra_css:
 plugins:
   - search
   - glightbox
-  - blog:
-      blog_dir: "./blog/"
-  - offline
+  # - blog:
+  #     blog_dir: "./blog/"
+  # - offline
   - mkdocs-video:
       is_video: True
       video_autoplay: True
@@ -106,15 +64,10 @@ markdown_extensions:
   - md_in_html
 
 nav:
-  - Home:
-    - ./index.md
-  - Hardware Studio:
-    - ./studios/hardware-studio.md
-  - Media Studio:
-    - ./studios/media-studio.md
-  - Project Studio:
-    - ./studios/project-studio.md
-  - UX Studio:
-    - ./studios/ux-studio.md
+  - Studios:
+    - Hardware Studio: './studios/hardware-studio.md'
+    - Media Studio: './studios/media-studio.md'
+    - Project Studio: './studios/project-studio.md'
+    - UX Studio: './studios/ux-studio.md'
   - Maker Catalogue:
-    - ./catalogue/catalogue.md
+    - Maker Catalogue: './catalogue/catalogue.md'
