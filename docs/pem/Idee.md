@@ -6,7 +6,7 @@ _„Play long-term games with long-term people. The best ideas emerge from rich,
 
 # Nähe zum Problem
 
-[[Gründer]] verfolgen Ideen entstehen aus einer persönlichen Nähe zu [Problemen] (Problem.md).
+[[Gründer]] verfolgen Ideen entstehen aus einer persönlichen Nähe zu [Problemen](Problem.md).
 
 ## Sonderfall: Ungewöhnliche Ideen
 
