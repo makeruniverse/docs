@@ -16,7 +16,7 @@ Markus will guide you through advanced prompting techniques for text-to-image ge
 
 ### WS 25-26 AI Video Generation
 
-Markus will show you how to generate video with [[AI ]]and how maintain a consistent style across scenes. Basics of AI image generation are recommended.
+Markus will show you how to generate video with AI and how maintain a consistent style across scenes. Basics of AI image generation are recommended.
 
 • 28th October (3:00 – 5:00 PM)
 • Participants: 5
