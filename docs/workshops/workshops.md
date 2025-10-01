@@ -11,43 +11,43 @@ https://confluence.hpi.de/plugins/easyevents/event-hub.action#/eventhub/c6256233
 
 Markus will guide you through advanced prompting techniques for text-to-image generation. You will learn how to craft effective prompts to produce high-quality results.
 
-• 27th November (3:00 – 4:00 PM)
+• 27th November (3:00 – 4:00 PM)  
 • Participants: 6
 
 ### WS 25-26 AI Video Generation
 
 Markus will show you how to generate video with AI and how maintain a consistent style across scenes. Basics of AI image generation are recommended.
 
-• 28th October (3:00 – 5:00 PM)
+• 28th October (3:00 – 5:00 PM)  
 • Participants: 5
 
 ### WS 25-26 Photo Studio Portrait Photography & AI Retouching
 
 Markus will teach you how to shoot professional portraits in our photo studio. He will also show you how to edit them using Adobe Photoshop and AI tools.
 
-• 24th November (4:00 – 5:00 PM)
+• 24th November (4:00 – 5:00 PM)  
 • Participants: 6
 
 ### WS 25-26 Advanced Prompting
 
 In this workshop, Ivan will introduce you to key prompt engineering techniques and show how to apply them to create and customize your own GPT. It can be used for personal projects or even as the starting point for a business. No prior technical background required, just your laptop and curiosity.
 
-• 20th October (3:30 – 5:00 PM)
+• 20th October (3:30 – 5:00 PM)  
 • Participants: 5
 
-Use Cases:
-• PEM 2025
-• FS - IMPP
+Use Cases:  
+• PEM 2025  
+• FS - IMPP  
 • IMPP
 
 ### WS 25-26 Media Studio Introduction
 
 Markus will give you an overview of the available tools and technologies in the [Media Studio](../studios/media-studio.md). He will explain how to access them and answer your questions in a short Q&A.
 
-• 23rd October
+• 23rd October  
 • Participants: 15
 
-Use Cases:
+Use Cases:  
 • GPT
 
 ## Maker Catalogue 3 (Summer Semester 2025)
