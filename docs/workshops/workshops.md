@@ -11,7 +11,7 @@
 
 ### 3D Modeling with Bambu Slicer
 
-[[David]] will introduce you to the modeling features hidden inside [[Bambu]] Studio. You will learn how to merge and subtract shapes and use SVG files to create complex designs without ever opening a CAD program.
+[David](../team/team.md/#david-bizer) will introduce you to the modeling features hidden inside [[Bambu]] Studio. You will learn how to merge and subtract shapes and use SVG files to create complex designs without ever opening a CAD program.
 
 - Location: [Media Studio](../studios/media-studio.md) & [Hardware Studio](../studios/hardware-studio.md)
 - Date: 30th October (3:30 – 5:00 PM)
@@ -20,7 +20,7 @@
 
 ### 3D Scanning Overview
 
-In this overview, David shows 3d scanning solutions that are available at the Maker Universe, how to use them, and explain which solution is best for which task.
+In this overview, [David](../team/team.md/#david-bizer) shows 3d scanning solutions that are available at the Maker Universe, how to use them, and explain which solution is best for which task.
 
 - Location: [Hardware Studio](../studios/hardware-studio.md)
 - 8th January (3:00 – 4:00 PM)
@@ -150,7 +150,7 @@ In this beginner-friendly workshop, [[Nicolai]] teaches you how to turn simple i
 
 ### Textile Printing Workshop
 
-During this workshop, [[David]] will show you how to create your own graphics using Shaper Trace or vector drawing tools. You will then print them on tote bags. Materials are provided.
+During this workshop, [David](../team/team.md/#david-bizer) will show you how to create your own graphics using Shaper Trace or vector drawing tools. You will then print them on tote bags. Materials are provided.
 
 - Location: [Hardware Studio](../studios/hardware-studio.md)
 - Date: 11th December (4:00 – 5:30 PM)
@@ -159,7 +159,7 @@ During this workshop, [[David]] will show you how to create your own graphics us
 
 ### Textile Printing Workshop (ART Edition)
 
-In collaboration with the Barberini Museum in Potsdam, [[David]] will show you how to create your own art-inspired graphics using Shaper Trace or vector drawing tools. You will then print them on tote bags. Materials are provided.(_workshop in German_)
+In collaboration with the Barberini Museum in Potsdam, [David](../team/team.md/#david-bizer) will show you how to create your own art-inspired graphics using Shaper Trace or vector drawing tools. You will then print them on tote bags. Materials are provided.(_workshop in German_)
 
 - Location: [[Barberini Museum]]
 - 18th December (3:00 – 6:00 PM)
