@@ -1,11 +1,22 @@
-## Test
+## Workshops 2025
 
-[Event](https://confluence.hpi.de/plugins/easyevents/event-hub.action#/eventhub/c6256233-fe1e-474e-bfef-2da7f56e6bb9/1)
+### 3D Modeling with Blender
 
-Alternative:
-https://confluence.hpi.de/plugins/easyevents/event-hub.action#/eventhub/c6256233-fe1e-474e-bfef-2da7f56e6bb9/1
+[[Markus]] will help you get started with Blender and guide you step by step until you finish the session with a printable 3D model. Please bring your own laptop with Blender installed.
 
-## Workshops WS 25/26
+- Location: [[Media Studio]]
+- 11th November (3:00 – 4:00 PM)
+- Participants: 6[[...](www.test.de)]
+-  Registration via [Maker Community](https://hpi-makeruniverse.slack.com/archives/C05FW22LVSR)
+
+### 3D Modeling with Bambu Slicer
+
+[[David]] will introduce you to the modeling features hidden inside [[Bambu]] Studio. You will learn how to merge and subtract shapes and use SVG files to create complex designs without ever opening a CAD program.
+
+- Location: [[Media Studio]] & [[Hardware Studio]]
+- Date: 30th October (3:30 – 5:00 PM)
+- Participants: 6
+- Registration via [Maker Community](https://hpi-makeruniverse.slack.com/archives/C05FW22LVSR)
 
 ### WS 25-26 Advanced Image Prompting with Gen AI
 
