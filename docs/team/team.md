@@ -1,4 +1,4 @@
-# Dr. Holger Rhinow
+## Dr. Holger Rhinow
 Head of Maker Universe
 
 <br />

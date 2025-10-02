@@ -1,5 +1,5 @@
-# Workshops Summer 2025
- 
+## Summer 2025
+
 ## Robotics Community Event
 
 This semester, we’re starting with pizza and a shared mission: exploring what robotics can do in the Maker Universe. Whether you’re into hardware, automation, machine learning, or just curious about the Maker Universe in general — this event is for you. Meet the people behind our robotics activities. The event is hosted by Nikita, Gian, and Holger. Nikita leads the Hardware Studio and brings experience in robotics systems and rapid prototyping. Gian supports the Maker Universe team and students with hands-on knowledge and organization. Holger is the Head of the Maker Universe and supports the development of all robotics-related formats this semester. The event is limited to 25 participants.
