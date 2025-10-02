@@ -26,6 +26,9 @@ HPI Student Tutor
 ### Ivan Tunov
 Tutor
 
+## Frank Freitag
+External Photographer
+
 ## Hardware Studio
 
 ### Nikita Shishelyakin

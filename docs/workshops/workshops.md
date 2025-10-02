@@ -81,7 +81,7 @@ Projects that appyl this tool:
 
 ### Climate Sensor
 
-[Alex](../team/team.md/# will guide you in expanding your Smart Plant Device with a climate sensor. It measures temperature, humidity, and air pressure. You'll also explore what kind of environmental conditions plants need to thrive and how you can monitor them. The workshop is open to all first-year students who have already developed a Smart Plant Device.
+[Alex](../team/team.md/#alexander-kutschera) will guide you in expanding your Smart Plant Device with a climate sensor. It measures temperature, humidity, and air pressure. You'll also explore what kind of environmental conditions plants need to thrive and how you can monitor them. The workshop is open to all first-year students who have already developed a Smart Plant Device.
 
 - Location: [Hardware Studio](../studios/hardware-studio.md)
 - Dates: 
@@ -92,7 +92,7 @@ Projects that appyl this tool:
 
 ### Fusion 360 for Digital Fabrication
 
-[[Nicolai]] will introduce you to the fundamentals of [[Fusion 360]], the digital fabrication powerhouse. You’ll learn how to create precise sketches and 3D models, and how to prepare them for production using the digital fabrication tools available at the Maker Universe. 
+[Nicolai](../team/team.md/#nicolai-hertle) will introduce you to the fundamentals of [[Fusion 360]], the digital fabrication powerhouse. You’ll learn how to create precise sketches and 3D models, and how to prepare them for production using the digital fabrication tools available at the Maker Universe. 
 
 - Location: [Media Studio](../studios/media-studio.md)
 - Dates: 
@@ -103,7 +103,7 @@ Projects that appyl this tool:
 
 ### Laser Cutting Workshop Design & Make
 
-In this beginner-friendly workshop, [[Nicolai]] teaches you how to turn simple ideas into real objects using accessible online design tools and the laser cutter at the Maker Universe. We will design and make personalized keychains and custom boxes.
+In this beginner-friendly workshop, [Nicolai](../team/team.md/#nicolai-hertle) teaches you how to turn simple ideas into real objects using accessible online design tools and the laser cutter at the Maker Universe. We will design and make personalized keychains and custom boxes.
 
 - Location: [Media Studio](../studios/media-studio.md) & [Hardware Studio](../studios/hardware-studio.md)
 - Dates:
@@ -132,7 +132,7 @@ In this beginner-friendly workshop, [[Nicolai]] teaches you how to turn simple i
 
 ### Prototyping Introduction
 
-[[Nicolai]] is offering a Prototyping Tour through the HPI Maker Universe.  We will be showcasing the Hardware and Media Studio, giving you a hands-on look at what’s possible with our tools and machines. These tours are a fantastic opportunity to learn about the wide variety of prototypes.
+[Nicolai](../team/team.md/#nicolai-hertle) is offering a Prototyping Tour through the HPI Maker Universe.  We will be showcasing the Hardware and Media Studio, giving you a hands-on look at what’s possible with our tools and machines. These tours are a fantastic opportunity to learn about the wide variety of prototypes.
 
 - Location: [Hardware Studio](../studios/hardware-studio.md) & [Media Studio](../studios/media-studio.md)
 - Date: 21st October (3:00 – 4:00 PM)
@@ -168,7 +168,7 @@ In collaboration with the Barberini Museum in Potsdam, [David](../team/team.md/#
 
 ### Water Pump
 
-[[Alex]] will show you how to expand your Smart Plant Device with a water pump system. You'll learn how to trigger watering automatically when the soil gets dry. We’ll discuss different types of pumps and dive into how different moisture sensors work. The session is open to all first-year students who have already developed a Smart Plant.
+[Alex](../team/team.md/#alexander-kutschera) will show you how to expand your Smart Plant Device with a water pump system. You'll learn how to trigger watering automatically when the soil gets dry. We’ll discuss different types of pumps and dive into how different moisture sensors work. The session is open to all first-year students who have already developed a Smart Plant.
 
 - Location: [Hardware Studio](../studios/hardware-studio.md)
 - Dates:
