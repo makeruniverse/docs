@@ -36,7 +36,7 @@ In this overview, David shows 3d scanning solutions that are available at the Ma
 
 ## Advanced Prompting
 
-n this workshop, [[Ivan]] will introduce you to key prompt engineering techniques and show how to apply them to create and customize your own [[GPT]]. It can be used for personal projects or even as the starting point for a business. No prior technical background required, just your laptop and curiosity.
+In this workshop, [[Ivan]] will introduce you to key prompt engineering techniques and show how to apply them to create and customize your own [[GPT]]. It can be used for personal projects or even as the starting point for a business. No prior technical background required, just your laptop and curiosity.
 
 - Location: [Media Studio](../studios/media-studio.md)
 - Date: 20th October (3:30 – 5:00 PM)
@@ -58,7 +58,7 @@ Projects that apply this tool:
 
 ## AI Perspective Change in Arts
 
-[[Markus]] and the team at [[Barberini Museum]] will explore AI as a tool to engage with art. We will walk through an exhibition with an art specialist before generating art-like elements in new ways. _( Workshop in German)_
+[Markus](../team/team.md/#markus-wutzlhofer) and the team at [[Barberini Museum]] will explore AI as a tool to engage with art. We will walk through an exhibition with an art specialist before generating art-like elements in new ways. _( Workshop in German)_
 
 - Location: [[Barberini Museum]]
 - Date: 15th January (3:00 – 6:00 PM)
@@ -70,7 +70,7 @@ Projects that appyl this tool:
 
 ## AI Video Generation
 
-[[Markus]] will show you how to generate video with [[AI ]]and how maintain a consistent style across scenes. Basics of AI image generation are recommended.
+[Markus](../team/team.md/#markus-wutzlhofer) will show you how to generate video with [[AI ]]and how maintain a consistent style across scenes. Basics of AI image generation are recommended.
 
 - Location: [Media Studio](../studios/media-studio.md)
 - Date: 28th October (3:00 – 5:00 PM)
@@ -90,7 +90,7 @@ Projects that appyl this tool:
 
 ## Fusion 360 for Digital Fabrication
 
-[[Nicolai ]]will introduce you to the fundamentals of [[Fusion 360]], the digital fabrication powerhouse. You’ll learn how to create precise sketches and 3D models, and how to prepare them for production using the digital fabrication tools available at the Maker Universe. 
+[[Nicolai]] will introduce you to the fundamentals of [[Fusion 360]], the digital fabrication powerhouse. You’ll learn how to create precise sketches and 3D models, and how to prepare them for production using the digital fabrication tools available at the Maker Universe. 
 
 - Location: [Media Studio](../studios/media-studio.md)
 - Dates: 
@@ -112,7 +112,7 @@ In this beginner-friendly workshop, [[Nicolai]] teaches you how to turn simple i
 
 ## Media Studio Introduction
 
-[[Markus]] will give you an overview of the available tools and technologies in the [[Media Studio]]. He will explain how to access them and answer your questions in a short Q&A.
+[Markus](../team/team.md/#markus-wutzlhofer) will give you an overview of the available tools and technologies in the [[Media Studio]]. He will explain how to access them and answer your questions in a short Q&A.
 
 - Location: [Media Studio](../studios/media-studio.md)
 - Date: 23rd October
@@ -121,7 +121,7 @@ In this beginner-friendly workshop, [[Nicolai]] teaches you how to turn simple i
 
 ## Portrait Photography & AI Retouching
 
-[[Markus]] will teach you how to shoot professional portraits in our photo studio. He will also show you how to edit them using Adobe Photoshop and [[AI]] tools.
+[Markus](../team/team.md/#markus-wutzlhofer) will teach you how to shoot professional portraits in our photo studio. He will also show you how to edit them using Adobe Photoshop and [[AI]] tools.
 
 - Location: [Media Studio](../studios/media-studio.md)
 - Date: 24th November (4:00 – 5:00 PM)
