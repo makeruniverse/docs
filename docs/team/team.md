@@ -3,60 +3,60 @@ Head of Maker Universe
 
 <br />
 
-# Media Studio
+## Media Studio
 
-## Markus Wutzlhofer
+### Markus Wutzlhofer
 Media Studio Lead
 
-## Gabriel Marques de Souza
+### Gabriel Marques de Souza
 Media Editor
 
-## Gian Luca Ehses
+### Gian Luca Ehses
 HPI Student Tutor
 
-## Katharina Posegga
+### Katharina Posegga
 HPI Student Tutor
 
-## Pavel Zherebenkov
+### Pavel Zherebenkov
 HPI Student Tutor
 
-## AsadIdrees Razak
+### AsadIdrees Razak
 HPI Student Tutor
 
-## Ivan Tunov
+### Ivan Tunov
 Tutor
 
 <br />
 
 
-# Hardware Studio
+## Hardware Studio
 
-## Nikita Shishelyakin
+### Nikita Shishelyakin
 Hardware Studio Lead
 
-## David Bizer
+### David Bizer
 External Designer
 
-## Nicolai Hertle
+### Nicolai Hertle
 External Engineer
 
-## Alexander Kutschera
+### Alexander Kutschera
 External Engineer
 
-## Tobias Rosenbusch
+### Tobias Rosenbusch
 External Engineer
 
-## Yannik Dittmar
+### Yannik Dittmar
 HPI Student Tutor
 
 <br />
 
-# UX Studio
+## UX Studio
 
-## Jan Koch
+### Jan Koch
 UX Studio Lead
 
-## Björn Steiner
+### Björn Steiner
 Audio Engineer
 
 
