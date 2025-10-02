@@ -116,7 +116,9 @@ nav:
     - ./studios/project-studio.md
   - UX Studio:
     - ./studios/ux-studio.md
-  - Current Workshops:
+  - Workshops:
     - ./workshops/workshops-winter-25.md
-  - Previous Workshops:
+  - Team:  
+    - ./team/team.md
+  - Archive:
     - ./workshops/previous-workshops.md
