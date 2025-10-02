@@ -1,6 +1,5 @@
 ## Dr. Holger Rhinow
 Head of Maker Universe
-
 <br />
 
 ## Media Studio
@@ -25,7 +24,6 @@ HPI Student Tutor
 
 ### Ivan Tunov
 Tutor
-
 <br />
 
 
@@ -48,7 +46,6 @@ External Engineer
 
 ### Yannik Dittmar
 HPI Student Tutor
-
 <br />
 
 ## UX Studio
