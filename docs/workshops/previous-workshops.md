@@ -145,7 +145,7 @@ In this workshop, you will equip your foam core airplane with GPS and flow senso
 Build your own custom arcade controller using laser-cut wooden parts, high-quality arcade buttons, and a joystick. You will learn how to design, cut, and assemble a fully functional arcade stick case, including wiring buttons, joystick, and controller board — basic soldering skills are required. The workshop is hosted by Sebastian, who designed and tested this workshop to share his passion for gaming hardware.  The workshop is limited to 6 participants who will work in pairs.
 tba
 
-## Workshops Winter 2024
+## Winter 2024
 
 ### Resin printing
 
@@ -260,7 +260,7 @@ Guided by Samuel, we learn ways to use AI tools during the idea generation phase
 Guided by Markus, we will learn how to break down feature ideas into user stories along the customer journey, so that development can be prioritized.
 •	27th November (10:00 – 6:00 PM)
 
-## Workshops Summer 2024
+## Summer 2024
  
 ### Learn how to Solder Electronics
 
