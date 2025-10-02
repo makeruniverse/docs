@@ -13,7 +13,7 @@
 
 [[David]] will introduce you to the modeling features hidden inside [[Bambu]] Studio. You will learn how to merge and subtract shapes and use SVG files to create complex designs without ever opening a CAD program.
 
-- Location: [[Media Studio]] & [[Hardware Studio]]
+- Location: [Media Studio](/docs/studios/media-studio.md) & [[Hardware Studio]]
 - Date: 30th October (3:30 – 5:00 PM)
 - Participants: 6
 - Registration via [Maker Community](https://hpi-makeruniverse.slack.com/archives/C05FW22LVSR)
