@@ -4,7 +4,7 @@
 
 [[Markus]] will help you get started with Blender and guide you step by step until you finish the session with a printable 3D model. Please bring your own laptop with Blender installed.
 
-- Location: [[Media Studio]]
+- Location: [Media Studio](/docs/studios/media-studio.md)
 - 11th November (3:00 – 4:00 PM)
 - Participants: 6
 -  Registration via [Maker Community](https://hpi-makeruniverse.slack.com/archives/C05FW22LVSR)
