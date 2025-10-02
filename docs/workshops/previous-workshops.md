@@ -340,7 +340,7 @@ Markus guides you in crafting your own song or music theme using our recording S
 
 August 13th – August 15th 1:30 – 4:30 PM; Maker Universe Media Studio; House K; K-E.03
 
-## Conducting User Interviews
+### Conducting User Interviews
 
 User Interviews are a great way to explore user needs at first hand. Our design thinking expert Holger will guide you in preparing and witnessing a real user interview for a real project. After the interview, the group will reflect on what worked well and what didn’t. You can register on #maker-community a few days before the event takes place.
 
