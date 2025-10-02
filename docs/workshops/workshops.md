@@ -141,7 +141,7 @@ In this beginner-friendly workshop, [Nicolai](../team/team.md/#nicolai-hertle) t
 
 ### Street & Architecture Photography
 
-[[Frank]], a professional photographer, will show you how to capture the atmosphere through street and architectural photography. The focus will be on composition and visual storytelling. Please bring your own camera or smartphone.
+[Frank](../team/team.md/#frank-freitag), a professional photographer, will show you how to capture the atmosphere through street and architectural photography. The focus will be on composition and visual storytelling. Please bring your own camera or smartphone.
 
 - Location: [Media Studio](../studios/media-studio.md)
 - Date: tba in our [Maker Community](https://hpi-makeruniverse.slack.com/archives/C05FW22LVSR)
