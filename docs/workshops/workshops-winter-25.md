@@ -13,7 +13,7 @@
 
 [[David]] will introduce you to the modeling features hidden inside [[Bambu]] Studio. You will learn how to merge and subtract shapes and use SVG files to create complex designs without ever opening a CAD program.
 
-- Location: [Media Studio](/docs/studios/media-studio.md) & [[Hardware Studio]]
+- Location: [Media Studio](../studios/media-studio.md) & [Hardware Studio](../studios/hardware-studio.md)
 - Date: 30th October (3:30 – 5:00 PM)
 - Participants: 6
 - Registration via [Maker Community](https://hpi-makeruniverse.slack.com/archives/C05FW22LVSR)
@@ -22,16 +22,16 @@
 
 In this overview, David shows 3d scanning solutions that are available at the Maker Universe, how to use them, and explain which solution is best for which task.
 
-- Location: [[Hardware Studio]]
+- Location: [Hardware Studio](../studios/hardware-studio.md)
 - 8th January (3:00 – 4:00 PM)
 - Participants: 10
 - Registration via [Maker Community](https://hpi-makeruniverse.slack.com/archives/C05FW22LVSR)
 
-### WS 25-26 Advanced Image Prompting with Gen AI
+### Advanced Image Prompting with Gen AI
 
 Markus will guide you through advanced prompting techniques for text-to-image generation. You will learn how to craft effective prompts to produce high-quality results.
 
-- Location: [[Media Studio]]
+- Location: [Media Studio](../studios/media-studio.md)
 - Date: 27th November (3:00 – 4:00 PM)
 - Participants: 6
 - Registration via [Maker Community](https://hpi-makeruniverse.slack.com/archives/C05FW22LVSR)
@@ -40,7 +40,7 @@ Markus will guide you through advanced prompting techniques for text-to-image ge
 
 n this workshop, [[Ivan]] will introduce you to key prompt engineering techniques and show how to apply them to create and customize your own [[GPT]]. It can be used for personal projects or even as the starting point for a business. No prior technical background required, just your laptop and curiosity.
 
-- Location: [[Media Studio]]
+- Location: [Media Studio](../studios/media-studio.md)
 - Date: 20th October (3:30 – 5:00 PM)
 - Participants: 5
 - Registration via [Maker Community](https://hpi-makeruniverse.slack.com/archives/C05FW22LVSR)
@@ -53,7 +53,7 @@ Projects that apply this tool:
 
 [[Nikita]] will guide you in applying AI to existing robot arms and developing your own use case for them.
 
-- Location: [[Hardware Studio]] & [[Project Studio]]
+- Location: [Hardware Studio](../studios/hardware-studio.md) & [Project Studio](../studios/project-studio.md)
 - Date: 27th January (2:00 – 6:00 PM)
 - Participants: 4
 - Registration via [Maker Community](https://hpi-makeruniverse.slack.com/archives/C05FW22LVSR)
@@ -74,7 +74,7 @@ Projects that appyl this tool:
 
 [[Markus]] will show you how to generate video with [[AI ]]and how maintain a consistent style across scenes. Basics of AI image generation are recommended.
 
-- Location: [[Media Studio]]
+- Location: [Media Studio](../studios/media-studio.md)
 - Date: 28th October (3:00 – 5:00 PM)
 - Participants: 5
 - Registration via [Maker Community](https://hpi-makeruniverse.slack.com/archives/C05FW22LVSR)
@@ -83,7 +83,7 @@ Projects that appyl this tool:
 
 [[Alex]] will guide you in expanding your Smart Plant Device with a climate sensor. It measures temperature, humidity, and air pressure. You'll also explore what kind of environmental conditions plants need to thrive and how you can monitor them. The workshop is open to all first-year students who have already developed a Smart Plant Device.
 
-- Location: [[Hardware Studio]]
+- Location: [Hardware Studio](../studios/hardware-studio.md)
 - Dates: 
 	- 10th December (3:00 – 6:00 PM)
 	- 21st January (3:00 – 6:00 PM)
@@ -94,7 +94,7 @@ Projects that appyl this tool:
 
 [[Nicolai ]]will introduce you to the fundamentals of [[Fusion 360]], the digital fabrication powerhouse. You’ll learn how to create precise sketches and 3D models, and how to prepare them for production using the digital fabrication tools available at the Maker Universe. 
 
-- Location: [[Media Studio]]
+- Location: [Media Studio](../studios/media-studio.md)
 - Dates: 
 	- 4th November (2:30 – 5:30 PM)
 	- 20th January (2:30 – 5:30 PM)
@@ -105,7 +105,7 @@ Projects that appyl this tool:
 
 In this beginner-friendly workshop, [[Nicolai]] teaches you how to turn simple ideas into real objects using accessible online design tools and the laser cutter at the Maker Universe. We will design and make personalized keychains and custom boxes.
 
-- Location: [[Media Studio]] & [[Hardware Studio]]
+- Location: [Media Studio](../studios/media-studio.md) & [Hardware Studio](../studios/hardware-studio.md)
 - Dates:
 	- 9th December (3:00 – 7:30 PM)
 	- 3rd February (3:00 – 7:30 PM)
@@ -116,7 +116,7 @@ In this beginner-friendly workshop, [[Nicolai]] teaches you how to turn simple i
 
 [[Markus]] will give you an overview of the available tools and technologies in the [[Media Studio]]. He will explain how to access them and answer your questions in a short Q&A.
 
-- Location: [[Media Studio]]
+- Location: [Media Studio](../studios/media-studio.md)
 - Date: 23rd October
 - Participants: 15
 - Registration via [Maker Community](https://hpi-makeruniverse.slack.com/archives/C05FW22LVSR)
@@ -125,7 +125,7 @@ In this beginner-friendly workshop, [[Nicolai]] teaches you how to turn simple i
 
 [[Markus]] will teach you how to shoot professional portraits in our photo studio. He will also show you how to edit them using Adobe Photoshop and [[AI]] tools.
 
-- Location: [[Media Studio]]
+- Location: [Media Studio](../studios/media-studio.md)
 - Date: 24th November (4:00 – 5:00 PM)
 - Participants: 6
 - Registration via [Maker Community](https://hpi-makeruniverse.slack.com/archives/C05FW22LVSR)
@@ -134,7 +134,7 @@ In this beginner-friendly workshop, [[Nicolai]] teaches you how to turn simple i
 
 [[Nicolai]] is offering a Prototyping Tour through the HPI Maker Universe.  We will be showcasing the Hardware and Media Studio, giving you a hands-on look at what’s possible with our tools and machines. These tours are a fantastic opportunity to learn about the wide variety of prototypes.
 
-- Location: [[Hardware Studio]] & [[Media Studio]]
+- Location: [Hardware Studio](../studios/hardware-studio.md) & [Media Studio](../studios/media-studio.md)
 - Date: 21st October (3:00 – 4:00 PM)
 - Participants: 10
 - Registration via [Maker Community](https://hpi-makeruniverse.slack.com/archives/C05FW22LVSR)
@@ -143,7 +143,7 @@ In this beginner-friendly workshop, [[Nicolai]] teaches you how to turn simple i
 
 [[Frank]], a professional photographer, will show you how to capture the atmosphere through street and architectural photography. The focus will be on composition and visual storytelling. Please bring your own camera or smartphone.
 
-- Location: [[Media Studio]]
+- Location: [Media Studio](../studios/media-studio.md)
 - Date: tba in our [Maker Community](https://hpi-makeruniverse.slack.com/archives/C05FW22LVSR)
 - Participants: 8
 - Registration via [Maker Community](https://hpi-makeruniverse.slack.com/archives/C05FW22LVSR)
@@ -152,7 +152,7 @@ In this beginner-friendly workshop, [[Nicolai]] teaches you how to turn simple i
 
 During this workshop, [[David]] will show you how to create your own graphics using Shaper Trace or vector drawing tools. You will then print them on tote bags. Materials are provided.
 
-- Location: [[Hardware Studio]]
+- Location: [Hardware Studio](../studios/hardware-studio.md)
 - Date: 11th December (4:00 – 5:30 PM)
 - Participants: 8
 - Registration via [Maker Community](https://hpi-makeruniverse.slack.com/archives/C05FW22LVSR)
@@ -170,7 +170,7 @@ In collaboration with the Barberini Museum in Potsdam, [[David]] will show you h
 
 [[Alex]] will show you how to expand your Smart Plant Device with a water pump system. You'll learn how to trigger watering automatically when the soil gets dry. We’ll discuss different types of pumps and dive into how different moisture sensors work. The session is open to all first-year students who have already developed a Smart Plant.
 
-- Location: [[Hardware Studio]]
+- Location: [Hardware Studio](../studios/hardware-studio.md)
 - Dates:
 	- 19th November (3:00 – 6:00 PM)
 	- 14th January (3:00 – 6:00 PM)
