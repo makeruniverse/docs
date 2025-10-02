@@ -1,6 +1,6 @@
 ## 3D Modeling with Blender
 
-[Markus](../team/) will help you get started with Blender and guide you step by step until you finish the session with a printable 3D model. Please bring your own laptop with Blender installed.
+[Markus](../team/team.md/#markus-wutzlhofer) will help you get started with Blender and guide you step by step until you finish the session with a printable 3D model. Please bring your own laptop with Blender installed.
 
 - Location: [Media Studio](../studios/media-studio.md)
 - 11th November (3:00 – 4:00 PM)
@@ -27,7 +27,7 @@ In this overview, David shows 3d scanning solutions that are available at the Ma
 
 ## Advanced Image Prompting with Gen AI
 
-Markus will guide you through advanced prompting techniques for text-to-image generation. You will learn how to craft effective prompts to produce high-quality results.
+[Markus](../team/team.md/#markus-wutzlhofer) will guide you through advanced prompting techniques for text-to-image generation. You will learn how to craft effective prompts to produce high-quality results.
 
 - Location: [Media Studio](../studios/media-studio.md)
 - Date: 27th November (3:00 – 4:00 PM)
