@@ -1,7 +1,3 @@
-# Previous Workshops
-
-This is the list of workshops from recent semesters.
-
 # Workshops Summer 2025
  
 ## Robotics Community Event
