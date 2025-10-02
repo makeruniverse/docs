@@ -1,11 +1,11 @@
 ## Summer 2025
 
-## Robotics Community Event
+### Robotics Community Event
 
 This semester, we’re starting with pizza and a shared mission: exploring what robotics can do in the Maker Universe. Whether you’re into hardware, automation, machine learning, or just curious about the Maker Universe in general — this event is for you. Meet the people behind our robotics activities. The event is hosted by Nikita, Gian, and Holger. Nikita leads the Hardware Studio and brings experience in robotics systems and rapid prototyping. Gian supports the Maker Universe team and students with hands-on knowledge and organization. Holger is the Head of the Maker Universe and supports the development of all robotics-related formats this semester. The event is limited to 25 participants.
 15th May (4:00 – 6:00 PM)
  
-## Build a robot arm
+### Build a robot arm
 
 Our hardware team invites you to help us build DIY robot arms. These arms are the foundation for our AI Robotics course this year. This workshop is hosted by our Hardware Studio Lead Nikita, who has previously tested these robot arms with Felix from the HPI AI Services team to kickstart our robotics program. The workshop is limited to 12 participants due to the availability of materials. 
 26th May (2:30 – 5:00 PM)
