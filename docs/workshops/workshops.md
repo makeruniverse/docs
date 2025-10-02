@@ -38,7 +38,7 @@ In this overview, [David](../team/team.md/#david-bizer) shows 3d scanning soluti
 
 ### Advanced Prompting
 
-In this workshop, [[Ivan]] will introduce you to key prompt engineering techniques and show how to apply them to create and customize your own [[GPT]]. It can be used for personal projects or even as the starting point for a business. No prior technical background required, just your laptop and curiosity.
+In this workshop, [Ivan](../team/team.md/#ivan-tunov) will introduce you to key prompt engineering techniques and show how to apply them to create and customize your own [[GPT]]. It can be used for personal projects or even as the starting point for a business. No prior technical background required, just your laptop and curiosity.
 
 - Location: [Media Studio](../studios/media-studio.md)
 - Date: 20th October (3:30 – 5:00 PM)
@@ -51,7 +51,7 @@ Projects that apply this tool:
 
 ### AI & Robotics
 
-[[Nikita]] will guide you in applying AI to existing robot arms and developing your own use case for them.
+[Nikita](../team/team.md/#nikita-shishelyakin) will guide you in applying AI to existing robot arms and developing your own use case for them.
 
 - Location: [Hardware Studio](../studios/hardware-studio.md) & [Project Studio](../studios/project-studio.md)
 - Date: 27th January (2:00 – 6:00 PM)
@@ -81,7 +81,7 @@ Projects that appyl this tool:
 
 ### Climate Sensor
 
-[[Alex]] will guide you in expanding your Smart Plant Device with a climate sensor. It measures temperature, humidity, and air pressure. You'll also explore what kind of environmental conditions plants need to thrive and how you can monitor them. The workshop is open to all first-year students who have already developed a Smart Plant Device.
+[Alex](../team/team.md/# will guide you in expanding your Smart Plant Device with a climate sensor. It measures temperature, humidity, and air pressure. You'll also explore what kind of environmental conditions plants need to thrive and how you can monitor them. The workshop is open to all first-year students who have already developed a Smart Plant Device.
 
 - Location: [Hardware Studio](../studios/hardware-studio.md)
 - Dates: 
