@@ -9,14 +9,23 @@
 }
 
 .md-typeset h2 {
-  font-weight:700;
-  font-size:1.5em;
-  line-height:1.4;
-  letter-spacing:-.01em;
-  text-indent: .5em;
-  background-image: linear-gradient(to right, rgba(207,6,84,0.3), rgba(17,99,159,0.3));
-  margin:1.6em 0 .64em;
+  font-weight: 700;
+  font-size: 1.5em;
+  line-height: 1.4;
+  letter-spacing: -0.01em;
+  text-indent: 0.5em;
+  margin: 1.6em 0 0.64em;
   padding: 0 0 .2em 0;
+  background-image:
+    linear-gradient(to right, rgba(207,6,84,1), rgba(17,99,159,1)),
+    linear-gradient(to right, rgba(207,6,84,0.8), rgba(17,99,159,0.8));
+  background-clip: text, padding-box;
+  -webkit-background-clip: text, padding-box;
+  color: transparent;
+  background-repeat: no-repeat;
+  background-size: 100% 100%, 100% 2px;
+  background-position: 0 0, 0 100%;
+  border-bottom: 2px solid transparent;
 }
 
 .md-typeset h3 {
@@ -85,5 +94,5 @@
 
 img {
     max-width: 560px !important;
-    height: auto; /* Maintain aspect ratio */
+    height: auto;
 }
