@@ -1,6 +1,4 @@
-## Workshops Winter 2025
-
-### 3D Modeling with Blender
+##3D Modeling with Blender
 
 [Markus](../team/) will help you get started with Blender and guide you step by step until you finish the session with a printable 3D model. Please bring your own laptop with Blender installed.
 
