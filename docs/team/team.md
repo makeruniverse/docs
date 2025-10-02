@@ -1,17 +1,12 @@
 ## Dr. Holger Rhinow
 Head of Maker Universe
 
+<br />
+
+# Media Studio
+
 ## Markus Wutzlhofer
 Media Studio Lead
-
-## Nikita Shishelyakin
-Hardware Studio Lead
-
-## Jan Koch
-UX Studio Lead
-
-## Björn Steiner
-Audio Engineer
 
 ## Gabriel Marques de Souza
 Media Editor
@@ -28,11 +23,16 @@ HPI Student Tutor
 ## AsadIdrees Razak
 HPI Student Tutor
 
-## Yannik Dittmar
-HPI Student Tutor
-
 ## Ivan Tunov
 Tutor
+
+<br />
+
+
+# Hardware Studio
+
+## Nikita Shishelyakin
+Hardware Studio Lead
 
 ## David Bizer
 External Designer
@@ -45,3 +45,22 @@ External Engineer
 
 ## Tobias Rosenbusch
 External Engineer
+
+## Yannik Dittmar
+HPI Student Tutor
+
+<br />
+
+# UX Studio
+
+## Jan Koch
+UX Studio Lead
+
+## Björn Steiner
+Audio Engineer
+
+
+
+
+
+
