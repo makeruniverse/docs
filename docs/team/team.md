@@ -26,7 +26,7 @@ HPI Student Tutor
 ### Ivan Tunov
 Tutor
 
-## Frank Freitag
+### Frank Freitag
 External Photographer
 
 ## Hardware Studio
