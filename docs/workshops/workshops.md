@@ -168,7 +168,7 @@ In collaboration with the Barberini Museum in Potsdam, [David](../team/team.md/#
 
 ### Water Pump
 
-[Alex](../team/team.md/#alexander-kutschera) will show you how to expand your Smart Plant Device with a water pump system. You'll learn how to trigger watering automatically when the soil gets dry. We’ll discuss different types of pumps and dive into how different moisture sensors work. The session is open to all first-year students who have already developed a Smart Plant.
+[Alex](../team/team.md/#alexander-kutschera) will show you how to expand your Smart Plant Device with a water pump system. You'll learn how to trigger watering automatically when the soil gets dry. We’ll discuss different types of pumps and dive into how different moisture sensors work. The session is open to all first-year students who have already developed a Smart Plant Device.
 
 - Location: [Hardware Studio](../studios/hardware-studio.md)
 - Dates:
