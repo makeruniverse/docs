@@ -1,0 +1,109 @@
+.md-typeset h1 {
+  color:var(--md-default-fg-color);
+  font-size:2.3em;
+  font-weight:700;
+  line-height:1.3;
+  text-indent: 0.5em;
+  margin: 1.6em 0 0.64em;
+  padding: 0;
+  background-image:
+    linear-gradient(to right, rgba(207,6,84,1), rgba(17,99,159,1)),
+    linear-gradient(to right, rgba(207,6,84,0.8), rgba(17,99,159,0.8));
+  background-clip: text, padding-box;
+  -webkit-background-clip: text, padding-box;
+  color: transparent;
+  background-repeat: no-repeat;
+  background-size: 100% 100%, 100% 2px;
+  background-position: 0 0, 0 100%;
+  border-bottom: 2px solid transparent;
+  text-transform:uppercase;
+}
+
+.md-typeset h2 {
+  font-weight: 700;
+  font-size: 1.5em;
+  line-height: 1.4;
+  letter-spacing: -0.01em;
+  text-indent: 0.5em;
+  margin: 1.6em 0 0.64em;
+  padding: 0;
+  background-image:
+    linear-gradient(to right, rgba(207,6,84,1), rgba(17,99,159,1)),
+    linear-gradient(to right, rgba(207,6,84,0.8), rgba(17,99,159,0.8));
+  background-clip: text, padding-box;
+  -webkit-background-clip: text, padding-box;
+  color: transparent;
+  background-repeat: no-repeat;
+  background-size: 100% 100%, 100% 2px;
+  background-position: 0 0, 0 100%;
+  border-bottom: 2px solid transparent;
+}
+
+.md-typeset h3 {
+  font-size:1.2em;
+  font-weight:600;
+  letter-spacing:-.01em;
+  line-height:1.5;
+  text-indent: .8em;
+  margin:1.6em 0 .8em;
+}
+
+.md-typeset h2+h3 {
+  margin-top:.8em;
+}
+
+.md-typeset h4 {
+  font-weight:600;
+  font-size:1.0em;
+  letter-spacing:-.01em;
+  text-indent: 1.5em;
+  margin:1em 0;
+}
+
+.md-typeset h5,
+.md-typeset h6 {
+  color:var(--md-default-fg-color);
+  font-size:0.9em;
+  font-weight:600;
+  text-indent: 2.5em;
+  margin:1.25em 0
+}
+
+.md-typeset h5 {
+  text-transform:none;
+}
+
+.md-typeset summary {
+  background: none;
+}
+  
+.md-header,
+.md-tabs,
+.md-footer,
+.md-footer-meta {
+  background-image: linear-gradient(to right, #cf0654, #11639f);
+}
+
+/*
+.md-typeset .admonition,
+.md-typeset details {
+  border-image: linear-gradient(to right, #cf0654, #11639f) 10;
+  border-width: .075rem;
+  border-style: solid;
+}
+*/
+  
+[data-md-color-primary="custom-light"] {
+  --md-primary-fg-color: #1a549b;
+  --md-accent-fg-color: #cb0e5d;
+}
+  
+[data-md-color-primary="custom-dark"] {
+  --md-primary-fg-color: #618ec4;
+  --md-accent-fg-color: #da3177;
+}
+
+img {
+    max-width: 560px !important;
+    height: auto;
+}
