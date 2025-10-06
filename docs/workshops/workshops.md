@@ -11,7 +11,7 @@
 
 ### 3D Modeling with Bambu Slicer
 
-[David](../team/team.md/#david-bizer) will introduce you to the modeling features hidden inside [[Bambu]] Studio. You will learn how to merge and subtract shapes and use SVG files to create complex designs without ever opening a CAD program.
+[David](../team/team.md/#david-bizer) will introduce you to the modeling features hidden inside [Bambu](../studios/hardware-studio.md/#bambu-x1) Studio. You will learn how to merge and subtract shapes and use SVG files to create complex designs without ever opening a CAD program.
 
 - Location: [Media Studio](../studios/media-studio.md) & [Hardware Studio](../studios/hardware-studio.md)
 - Date: 30th October (3:30 – 5:00 PM)
@@ -72,7 +72,7 @@ Projects that appyl this tool:
 
 ### AI Video Generation
 
-[Markus](../team/team.md/#markus-wutzlhofer) will show you how to generate video with [[AI ]]and how maintain a consistent style across scenes. Basics of AI image generation are recommended.
+[Markus](../team/team.md/#markus-wutzlhofer) will show you how to generate video with [[AI]] and how maintain a consistent style across scenes. Basics of AI image generation are recommended.
 
 - Location: [Media Studio](../studios/media-studio.md)
 - Date: 28th October (3:00 – 5:00 PM)
