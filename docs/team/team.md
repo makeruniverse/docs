@@ -56,9 +56,3 @@ UX Studio Lead
 
 ### Björn Steiner
 Audio Engineer
-
-
-
-
-
-
