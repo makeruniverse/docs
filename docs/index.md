@@ -9,7 +9,7 @@
 - Tool Access: Before using any tools or machines, please watch the tutorial videos, agree to the terms of usage, and confirm your understanding of safety rules on the tablet next to each machine.
 - Student ID Activation: For safety-critical machines (like the laser cutter or soldering station), your student ID will unlock access after completing the steps above.
 
-###[Workshops](./catalogue/catalogue.md): Join, Show Up, Give Back
+###[Workshops](./workshops/workshops.md): Join, Show Up, Give Back
 - Registration Opens One Week Before: All workshops are announced in the #maker-community channel on Slack. Sign-ups open exactly one week before each workshop.
 - Can’t Make It? Please Cancel: If you are on the list but cannot attend, it’s highly important that you cancel your spot via Confluence. If you don’t, no one from the waiting list can join—which is not only bad for us, but especially unfair to fellow students.
 - Feedback Is Required: After each workshop, we ask one simple feedback question. It’s quick, but crucial. Think of it as your participation fee—your feedback helps us keep improving!
