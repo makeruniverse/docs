@@ -122,3 +122,5 @@ nav:
     - ./team/team.md
   - Archive:
     - ./workshops/previous-workshops.md
+  - Kursinhalte:
+    - ./kursinhalte/posts/index.md

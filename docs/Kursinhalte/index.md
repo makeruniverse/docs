@@ -1,4 +1,3 @@
-Projektentwicklung und Teammanagement
+Inhalte zum Kurs Projektentwicklung und Teammanagement (2025/2026)
 
-[Modul 1: Projekte, Teams, Entscheidungen](../Kursinhalte/posts/Modul%201:%20Projekte-Teams-Entscheidungen)
-Modul 2: Probleme, Iterationen, Nutzerzentrierung
+[Fallstudie Japan](../Kursinhalte/posts/Fallstudie-Japan.md)
