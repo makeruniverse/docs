@@ -83,10 +83,6 @@ Die Gründe für das Scheitern sind vielfältig und beruhen auf falschen oder un
 
 Seid ihr Teil eines Projektteams, dann geht es um eure Lebenszeit. Nicht um die Lebenszeit des Managers, der sich bereits schon neuen Themen zuwendet, während ihr noch versucht das Projekt zu verstehen. Ihr selbst solltet ein Interesse daran haben, dass ihr eure Zeit nicht unter falschen Voraussetzungen vergeudet.
 
-# Fallstudie
-
-Das Teams arbeiten an der [[FS - IMPP]]. 
-
 # Anforderungsanalyse
 
 Anforderungen können vielfältig auf das Projektteam einwirken, formell durch Projektpläne oder Anforderungsdokumente im Rahmen eines [[Requirement Engineering]] Prozesses, aber auch informell durch Präferenzen und Bedürfnisse einzelner Stakeholder.
@@ -95,11 +91,6 @@ Es ist wichtig zu verstehen, dass das Projektteam letztlich Ownership über säm
 
 Nutzt hierfür als Framework die [[Anforderungsanalyse]].
 
-# Zwischenstand
-
-Fragen an ausgewählte Projektmanager:
-Q: _Welche Entscheidungsprämissen scheinen bereits im Projekt angelegt?_
-
 # Projektplan
 
 Der [[Projektplan]] hilft uns dabei, unterschiedliche Erwartungen an das Projekt zu externalisieren. 
@@ -107,9 +98,3 @@ Der [[Projektplan]] hilft uns dabei, unterschiedliche Erwartungen an das Projekt
 Er manifestiert formale [[Entscheidungsprämisse]]n: Er kann den Charakter eines vorläufigen Vorschlags haben, oder auch unverhandelbare Vorgaben beinhalten.
 
 Nutzt hierfür als Framework den [[Projektplan]].
-
-# Entscheidungsrunde
-
-Q: _Welche Entscheidung gebt ihr dem IMPP?_
-
-Q: _Welche Einschränkungen sind euch wichtig?_
