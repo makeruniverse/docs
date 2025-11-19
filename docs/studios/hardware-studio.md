@@ -1,15 +1,17 @@
 A Hardware Studio to shape physical objects
 
-![Hardware Studio](../mediaassets/thumbnails/hardware-studio.jpg)
+<img src="../mediaassets/thumbnails/hardware-studio.jpg" alt="Hardware Studio" class="large-image"/>
 
 ## Access Control - Fabman
 
-![Fabman Bridge](https://shop.fabman.io/cdn/shop/products/V2_squared_530x@2x.jpg?v=1554803596)
+<img src="https://shop.fabman.io/cdn/shop/products/V2_squared_530x@2x.jpg?v=1554803596" alt="Fabman Bridge" class="large-image"/>
 
 Access to some of our machines / tools in the Hardware Studio is managed over [Fabman](https://fabman.io) (e.g. the laser cutter and soldering stations). Upon completion of a training (clicking on the button below the videos), we will automatically create your Fabman account in our Maker Universe. You will receive an email with a link to set your password and log in to Fabman. After that, you are ready to go and use our machines. To turn on the machines, you will need to use your smartphone and scan the QR code on the Fabman bridge (a little black box next to each machine). Alternatively you can now use your HPI key to sign into the bridge! Use the button below to create an account without completing a training yet or pair your key. If you have further questions feel free to contact us!
 
-<a class="button" href="https://access.maker.hpi.de/">Create a Fabman Account</a>
-<a class="button" href="https://access.maker.hpi.de/keyAssignment">Assign your HPI key to your Fabman Account</a>
+<div style="display:flex; gap:10px; flex-wrap:wrap;">
+    <a class="button" href="https://access.maker.hpi.de/" target="_blank">Create a Fabman Account</a>
+    <a class="button" href="https://access.maker.hpi.de/keyAssignment" target="_blank">Assign your HPI key to your Fabman Account</a>
+</div>
 
 The following machines / tools require authentication over Fabman:
 
@@ -22,6 +24,11 @@ The following machines / tools require authentication over Fabman:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OtVmBPOy3QA?si=bvUwEyUOJchU_tIv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+The Plotter requires you to have a Fabman account in order to use it. Please make sure to create one using the button below.
+Using your smartphone, or by assigning you HPI key to your Fabman account, you will be able to power on the plotter.
+
+<a class="button" href="https://access.maker.hpi.de/" target="_blank">Create a Fabman Account</a>
+
 ## Label Printer: QL-820NWBc
 
 This QL-820NWBc can print up to 62mm in width. If wider: You might change the orientation of the label in the software to fit the label on the printer.
@@ -29,8 +36,9 @@ This QL-820NWBc can print up to 62mm in width. If wider: You might change the or
 You can use the printer via Wi-Fi (hpi-studios) and via USB. You can find the software on our Modeler Workstation.
 
 Download:
-- MacOS: https://apps.apple.com/de/app/brother-p-touch-editor/id1453365242?mt=12
-- Windows: https://support.brother.com/g/s/es/inst/de/index.htm?c=de&lang=de&navi=off&comple=on&redirect=on
+
+- [MacOS](https://apps.apple.com/de/app/brother-p-touch-editor/id1453365242?mt=12)
+- [Windows](https://support.brother.com/g/s/es/inst/de/index.htm?c=de&lang=de&navi=off&comple=on&redirect=on)
 
 ## 3D Printers
 ### Bambu A1 Mini
@@ -41,29 +49,6 @@ Use Bambu X1x when you print large objects of up to 256 x 256 x 265 mm, or objec
 
 **Warning**
 The Bambu has a Snakehouse Fan Duct, which is a bit too close to the bed, on the left of the enclosure. If thin/fragile parts are located on the left side of the bed, near to the edge, they might warp due to the fan blowing on it. If that happens disable the AUX Fan and print with open enclosure: [OrcaSlicer AUX Fan Settings](../3D_Printing/img/auxfan-orca.png)
-
-### Creality K1
-Creality K1 has a build volume of 300 x 300 x 300 mm usually one of them is equipped with a 0.4mm nozzle and the other one with a 0.6mm nozzle.
-
-**Print large objects**
-The Creality printers use Klipper firmware [Official Documentation] (https://www.klipper3d.org/Overview.html)
-
-**Access via Laptop**
-You can access both printers via webinterface.
-IP left printer (0.8 nozzle): https://172.22.0.254:4408 
-IP right printer (0.4 nozzle) https://172.22.3.249:4408
-
-**Connect OrcaSlicer to Creatly K1**
-1. Go to the printer menu and selecting `Settings` and then `Network`.
-2. Make sure your PC is connected to `hpi_studio` WiFi.
-3. Enter the IP Address like shown in the image above and click `Test`. 
-4. If the test is successful you can click `Connect` and start printing.
-5. After slicing you can click `Print` to start printing.
-
-**Creality K1 Web Interface**
-1. Make sure your PS is connected to `hpi_studio` WiFi.
-2. Select `Settings` and then `Network`. 
-3. Enter the IP Address in your browser. Make sure to append `4408` as port. Example: ![http://172.22.0.254:4408](http://172.22.0.254:4408)
 
 ### Prusa XL
 Use Prusa XL when you print large objects and / or objects with multiple filament types.
@@ -178,7 +163,12 @@ After you have watched the video, you can click the button below to finish the t
 <!-- Style and Script tags for the button to be disabled until user clicks on the video. -->
 
 <style>
-   .button {
+    .large-image {
+        max-width: 200px;
+        width: 100%;
+    }
+
+    .button {
         padding: 10px 15px;
         border: none;
         cursor: pointer;
