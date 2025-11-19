@@ -9,8 +9,8 @@ A Hardware Studio to shape physical objects
 Access to some of our machines / tools in the Hardware Studio is managed over [Fabman](https://fabman.io) (e.g. the laser cutter and soldering stations). Upon completion of a training (clicking on the button below the videos), we will automatically create your Fabman account in our Maker Universe. You will receive an email with a link to set your password and log in to Fabman. After that, you are ready to go and use our machines. To turn on the machines, you will need to use your smartphone and scan the QR code on the Fabman bridge (a little black box next to each machine). Alternatively you can now use your HPI key to sign into the bridge! Use the button below to create an account without completing a training yet or pair your key. If you have further questions feel free to contact us!
 
 <div style="display:flex; gap:10px; flex-wrap:wrap;">
-    <a class="button" href="https://access.maker.hpi.de/">Create a Fabman Account</a>
-    <a class="button" href="https://access.maker.hpi.de/keyAssignment">Assign your HPI key to your Fabman Account</a>
+    <a class="button" href="https://access.maker.hpi.de/" target="_blank">Create a Fabman Account</a>
+    <a class="button" href="https://access.maker.hpi.de/keyAssignment" target="_blank">Assign your HPI key to your Fabman Account</a>
 </div>
 
 The following machines / tools require authentication over Fabman:
@@ -23,6 +23,11 @@ The following machines / tools require authentication over Fabman:
 ## Poster Prints
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OtVmBPOy3QA?si=bvUwEyUOJchU_tIv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+The Plotter requires you to have a Fabman account in order to use it. Please make sure to create one using the button below.
+Using your smartphone, or by assigning you HPI key to your Fabman account, you will be able to power on the plotter.
+
+<a class="button" href="https://access.maker.hpi.de/" target="_blank">Create a Fabman Account</a>
 
 ## Label Printer: QL-820NWBc
 
