@@ -45,29 +45,6 @@ Use Bambu X1x when you print large objects of up to 256 x 256 x 265 mm, or objec
 **Warning**
 The Bambu has a Snakehouse Fan Duct, which is a bit too close to the bed, on the left of the enclosure. If thin/fragile parts are located on the left side of the bed, near to the edge, they might warp due to the fan blowing on it. If that happens disable the AUX Fan and print with open enclosure: [OrcaSlicer AUX Fan Settings](../3D_Printing/img/auxfan-orca.png)
 
-### Creality K1
-Creality K1 has a build volume of 300 x 300 x 300 mm usually one of them is equipped with a 0.4mm nozzle and the other one with a 0.6mm nozzle.
-
-**Print large objects**
-The Creality printers use Klipper firmware [Official Documentation] (https://www.klipper3d.org/Overview.html)
-
-**Access via Laptop**
-You can access both printers via webinterface.
-IP left printer (0.8 nozzle): https://172.22.0.254:4408 
-IP right printer (0.4 nozzle) https://172.22.3.249:4408
-
-**Connect OrcaSlicer to Creatly K1**
-1. Go to the printer menu and selecting `Settings` and then `Network`.
-2. Make sure your PC is connected to `hpi_studio` WiFi.
-3. Enter the IP Address like shown in the image above and click `Test`. 
-4. If the test is successful you can click `Connect` and start printing.
-5. After slicing you can click `Print` to start printing.
-
-**Creality K1 Web Interface**
-1. Make sure your PS is connected to `hpi_studio` WiFi.
-2. Select `Settings` and then `Network`. 
-3. Enter the IP Address in your browser. Make sure to append `4408` as port. Example: ![http://172.22.0.254:4408](http://172.22.0.254:4408)
-
 ### Prusa XL
 Use Prusa XL when you print large objects and / or objects with multiple filament types.
 
