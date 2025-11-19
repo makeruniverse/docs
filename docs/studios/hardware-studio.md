@@ -1,15 +1,17 @@
 A Hardware Studio to shape physical objects
 
-![Hardware Studio](../mediaassets/thumbnails/hardware-studio.jpg)
+<img src="../mediaassets/thumbnails/hardware-studio.jpg" alt="Hardware Studio" class="large-image"/>
 
 ## Access Control - Fabman
 
-![Fabman Bridge](https://shop.fabman.io/cdn/shop/products/V2_squared_530x@2x.jpg?v=1554803596)
+<img src="https://shop.fabman.io/cdn/shop/products/V2_squared_530x@2x.jpg?v=1554803596" alt="Fabman Bridge" class="large-image"/>
 
 Access to some of our machines / tools in the Hardware Studio is managed over [Fabman](https://fabman.io) (e.g. the laser cutter and soldering stations). Upon completion of a training (clicking on the button below the videos), we will automatically create your Fabman account in our Maker Universe. You will receive an email with a link to set your password and log in to Fabman. After that, you are ready to go and use our machines. To turn on the machines, you will need to use your smartphone and scan the QR code on the Fabman bridge (a little black box next to each machine). Alternatively you can now use your HPI key to sign into the bridge! Use the button below to create an account without completing a training yet or pair your key. If you have further questions feel free to contact us!
 
-<a class="button" href="https://access.maker.hpi.de/">Create a Fabman Account</a>
-<a class="button" href="https://access.maker.hpi.de/keyAssignment">Assign your HPI key to your Fabman Account</a>
+<div style="display:flex; gap:10px; flex-wrap:wrap;">
+    <a class="button" href="https://access.maker.hpi.de/">Create a Fabman Account</a>
+    <a class="button" href="https://access.maker.hpi.de/keyAssignment">Assign your HPI key to your Fabman Account</a>
+</div>
 
 The following machines / tools require authentication over Fabman:
 
@@ -29,8 +31,9 @@ This QL-820NWBc can print up to 62mm in width. If wider: You might change the or
 You can use the printer via Wi-Fi (hpi-studios) and via USB. You can find the software on our Modeler Workstation.
 
 Download:
-- MacOS: https://apps.apple.com/de/app/brother-p-touch-editor/id1453365242?mt=12
-- Windows: https://support.brother.com/g/s/es/inst/de/index.htm?c=de&lang=de&navi=off&comple=on&redirect=on
+
+- [MacOS](https://apps.apple.com/de/app/brother-p-touch-editor/id1453365242?mt=12)
+- [Windows](https://support.brother.com/g/s/es/inst/de/index.htm?c=de&lang=de&navi=off&comple=on&redirect=on)
 
 ## 3D Printers
 ### Bambu A1 Mini
@@ -178,7 +181,12 @@ After you have watched the video, you can click the button below to finish the t
 <!-- Style and Script tags for the button to be disabled until user clicks on the video. -->
 
 <style>
-   .button {
+    .large-image {
+        max-width: 200px;
+        width: 100%;
+    }
+
+    .button {
         padding: 10px 15px;
         border: none;
         cursor: pointer;
