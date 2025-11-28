@@ -1,3 +1,6 @@
+<!-- Workshop Calendar Container DO NOT REMOVE -->
+<div id="calendar-wrapper" style="max-width: 900px; margin: 40px auto;"></div>
+
 ## Winter 2025
 
 ### 3D Modeling with Blender
@@ -176,3 +179,176 @@ In collaboration with the Barberini Museum in Potsdam, [David](../team/team.md/#
 	- 14th January (3:00 – 6:00 PM)
 - Participants: 10
 - Registration via [Maker Community](https://hpi-makeruniverse.slack.com/archives/C05FW22LVSR)
+
+<!-- Workshop Calendar -->
+
+<script src="https://cdn.jsdelivr.net/npm/ical.js@1.5.0/build/ical.min.js"></script>
+
+<script>
+const ICS_URL = "https://access.maker.hpi.de/public/workshopCalendar";
+
+async function loadICSEvents() {
+  const txt = await fetch(ICS_URL).then(r => r.text());
+  const jcal = ICAL.parse(txt);
+  const comp = new ICAL.Component(jcal);
+  const vevents = comp.getAllSubcomponents('vevent');
+
+  return vevents.map(v => {
+    const e = new ICAL.Event(v);
+    const isAllDay = e.startDate.isDate;
+
+    return {
+      title: e.summary,
+      start: e.startDate.toJSDate(),
+      end: e.endDate.toJSDate(),
+      allDay: isAllDay,
+      extendedProps: {
+        description: e.description,
+        location: e.location
+      }
+    };
+  });
+}
+
+document.addEventListener("DOMContentLoaded", async () => {
+  const wrapper = document.getElementById('calendar-wrapper');
+  const shadow = wrapper.attachShadow({ mode: 'open' });
+
+  const container = document.createElement('div');
+  container.id = 'calendar';
+  shadow.appendChild(container);
+
+  const modal = document.createElement('div');
+  modal.id = 'event-modal';
+  modal.innerHTML = `
+    <div id="event-modal-bg"></div>
+    <div id="event-modal-content">
+      <button id="event-modal-close">&times;</button>
+      <h2 id="modal-title"></h2>
+      <p style="margin-bottom: 0"><strong>Start:</strong> <span id="modal-start"></span></p>
+      <p style="margin-top: 0"><strong>End:</strong> <span id="modal-end"></span></p>
+      <p><strong>Location:</strong> <span id="modal-location"></span></p>
+      <p id="modal-description"></p>
+    </div>
+  `;
+  shadow.appendChild(modal);
+
+  const style = document.createElement('style');
+  style.textContent = `
+    .fc-header-toolbar {
+      flex-wrap: wrap;
+    }
+
+    #event-modal {
+      position: fixed;
+      top:0; left:0; width:100%; height:100%;
+      display:none;
+      justify-content:center;
+      align-items:center;
+      z-index:1000;
+      color: white;
+    }
+    #event-modal-bg {
+      position:absolute;
+      top:0; left:0; width:100%; height:100%;
+      background: rgba(0,0,0,0.5);
+    }
+    #event-modal-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 10px;
+    }
+    #modal-title {
+      margin: 0;
+      margin-right: 30px;
+      line-wrap: auto;
+      word-break: break-word;
+      font-size: 1.5rem;
+    }
+    #event-modal-content {
+      position: relative;
+      background: hsla(255, 15%, 14%, 1);
+      padding: 20px;
+      border-radius: 8px;
+      max-width: 400px;
+      width: 90%;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+    }
+    #event-modal-close {
+      position: absolute;
+      top: 5px; right: 10px;
+      border: none;
+      background: transparent;
+      font-size: 1.5rem;
+      cursor: pointer;
+      color: white;
+    }
+  `;
+  shadow.appendChild(style);
+
+  // Inject FullCalendar JS
+  const script = document.createElement('script');
+  script.src = "https://cdn.jsdelivr.net/npm/fullcalendar@6.1.19/index.global.min.js";
+  shadow.appendChild(script);
+
+  script.onload = async () => {
+    const events = await loadICSEvents();
+
+    const isMobile = window.innerWidth < 768;
+    const headerToolbar = {
+      left: 'prev,next today',
+      center: 'title',
+      right: isMobile ? 'timeGridDay,listWeek' : 'dayGridMonth,timeGridWeek,timeGridDay,listWeek'
+    };
+    const initialView = isMobile ? 'timeGridDay' : 'dayGridMonth';
+
+    const calendar = new FullCalendar.Calendar(container, {
+      initialView: initialView,
+      headerToolbar: headerToolbar,
+      events: events,
+
+      // Click day -> switch to day view
+      dateClick: function(info) {
+        calendar.changeView('timeGridDay', info.dateStr);
+      },
+
+      // Click event -> show modal
+      eventClick: function(info) {
+        shadow.getElementById('modal-title').textContent = info.event.title;
+        const start = info.event.start;
+        const end = info.event.end;
+        let description = info.event.extendedProps.description || '';
+        // Remove trailing newline characters from description
+        description = description.replace(/\n+$/g, '');
+
+        shadow.getElementById('modal-start').textContent = start.toLocaleString();
+        shadow.getElementById('modal-end').textContent = end ? end.toLocaleString() : '';
+        shadow.getElementById('modal-location').textContent = info.event.extendedProps.location || '-';
+        shadow.getElementById('modal-description').innerHTML = description.replace(/\n/g, '<br>') || '';
+        shadow.getElementById('event-modal').style.display = 'flex';
+      },
+
+      eventTimeFormat: { 
+        hour: '2-digit',
+        minute: '2-digit',
+        hour12: false
+      }
+    });
+
+    calendar.render();
+
+    window.addEventListener('resize', () => {
+    const mobile = window.innerWidth < 768;
+      if (mobile && calendar.view.type !== 'timeGridDay') {
+        calendar.changeView('timeGridDay');
+      }
+    });
+
+    // Close modal when clicking background or close button
+    const modalEl = shadow.getElementById('event-modal');
+    shadow.getElementById('event-modal-bg').addEventListener('click', () => modalEl.style.display = 'none');
+    shadow.getElementById('event-modal-close').addEventListener('click', () => modalEl.style.display = 'none');
+  };
+});
+</script>
