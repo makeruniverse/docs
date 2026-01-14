@@ -111,9 +111,8 @@ David who's here on Thursdays is an expert and will help you to get started.
 The EinStar is a structured light scanner with 0.1 mm resolution. 
 It's good for portrait and object scans but requires a power outlet and isn't fully self-sufficient
 
-??? "manual & software"
-[manual](https://support.einstar.com/support/solutions/articles/60000800205-einstar-user-manual)
-[software](https://support.einstar.com/support/solutions/articles/60000800205-einstar-user-manual](https://docs.shining3d.com/exstar/1.0.6/en-us/install/)
+[manual](https://support.einstar.com/support/solutions/articles/60000800205-einstar-user-manual)<br>
+[software](https://docs.shining3d.com/exstar/1.0.6/en-us/install/)
 Login Software - User: makeruniverse@hpi.de PW: Maker2025! 
 
 ### 3dMakerpro Seal
