@@ -112,9 +112,8 @@ The EinStar is a structured light scanner with 0.1 mm resolution.
 It's good for portrait and object scans but requires a power outlet and isn't fully self-sufficient
 
 ??? "manual & software"
-
 [manual](https://support.einstar.com/support/solutions/articles/60000800205-einstar-user-manual)
-[software]([https://support.einstar.com/support/solutions/articles/60000800205-einstar-user-manual](https://docs.shining3d.com/exstar/1.0.6/en-us/install/)
+[software](https://support.einstar.com/support/solutions/articles/60000800205-einstar-user-manual](https://docs.shining3d.com/exstar/1.0.6/en-us/install/)
 Login Software - User: makeruniverse@hpi.de PW: Maker2025! 
 
 ### 3dMakerpro Seal
@@ -127,27 +126,16 @@ We also have a turnatable for automated scans of small objects.
 
 ### recommended smartphone apps
 
-**Scaniverse** free app for photogrammetry & gaussian splat scan [link](https://scaniverse.com/)
-**reality scan** free app for photogrammetry scan [link](https://www.realityscan.com/de)
-**Luma AI** free app for NeRF scans (neural radiance fields) [link](https://lumalabs.ai)
-**polycam** best paid app with many features [link](https://poly.cam)
+**Scaniverse** free app for photogrammetry & gaussian splat scan [link](https://scaniverse.com/)<br>
+**reality scan** free app for photogrammetry scan [link](https://www.realityscan.com/de)<br>
+**Luma AI** free app for NeRF scans (neural radiance fields) [link](https://lumalabs.ai)<br>
+**polycam** best paid app with many features [link](https://poly.cam)<br>
 
 ### desktop apps
 
 open source phtogrammetry solution for Windows & linux [link](https://alicevision.org/view/meshroom.html)
 
-### Blender
 
-Blender is an open-source 3D modeling, animation, and rendering software. 
-
-You can get access to Blender through our workstations in the Media Studio <br />
-[Free Download](https://www.blender.org/download)<br />
-
-### Autodesk Fusion
-
-Parametric CAD software with a powerful CAM module.
-
-Full version free to use with educational autodesk account.
 
 ## 3D Printing Software: Orca Slicer
 The workstations in our Media Studio and our Hardware Studio offer access to Orca Slicer. Orca Slicer is your best option to prepare 3D prints.
