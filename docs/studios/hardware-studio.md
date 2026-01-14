@@ -47,9 +47,6 @@ Use Bambu a1 Mini when you print small objects with a single filament.
 ### Bambu X1
 Use Bambu X1x when you print large objects of up to 256 x 256 x 265 mm, or objects with up to four different types or filaments.
 
-**Warning**
-The Bambu has a Snakehouse Fan Duct, which is a bit too close to the bed, on the left of the enclosure. If thin/fragile parts are located on the left side of the bed, near to the edge, they might warp due to the fan blowing on it. If that happens disable the AUX Fan and print with open enclosure: [OrcaSlicer AUX Fan Settings](../3D_Printing/img/auxfan-orca.png)
-
 ### Prusa XL
 Use Prusa XL when you print large objects and / or objects with multiple filament types.
 
@@ -80,10 +77,6 @@ we have a profile for Prusa XL here:
 
     Install with brew: `brew install orcaslicer`
     AUR: `orca-slicer`
-The easiest way to use the printers is sending files remotely. Upon installation you will be asked if you want to install the network plugin. We recommend to do this. The login credentials are:
-
-User: makeruniverse@hpi.de
-PW: Freezable-Scoured3-pigment
 
 ??? "3D Print Online Ressources"
 
@@ -93,6 +86,55 @@ PW: Freezable-Scoured3-pigment
     https://makerworld.com/
 
 ## 3D Modelling
+
+### Blender
+
+Blender is an open-source 3D modeling, animation, and rendering software. 
+
+You can get access to Blender through our workstations in the Media Studio <br />
+[Free Download](https://www.blender.org/download)<br />
+
+### Autodesk Fusion
+
+Parametric CAD software with a powerful CAM module.
+Full version free to use with educational autodesk account.
+
+### Rhinoceros 3d
+
+Is a great extendable solution with fair student pricing and 3 months trial.
+David who's here on Thursdays is an expert and will help you to get started. 
+
+## 3D Scanning
+
+### Shining3d Einstar
+
+The EinStar is a structured light scanner with 0.1 mm resolution. 
+It's good for portrait and object scans but requires a power outlet and isn't fully self-sufficient
+
+??? "manual & software"
+
+[manual](https://support.einstar.com/support/solutions/articles/60000800205-einstar-user-manual)
+[software]([https://support.einstar.com/support/solutions/articles/60000800205-einstar-user-manual](https://docs.shining3d.com/exstar/1.0.6/en-us/install/)
+Login Software - User: makeruniverse@hpi.de PW: Maker2025! 
+
+### 3dMakerpro Seal
+
+The Seal is a structured light scanner with a resolution of 0.01 mm, it works well for objects up to 300 mm.
+We have the smart grip addon which can be used in combination with a smartphone to enable mobile scanning (e.g. our iPhone 14 pro)
+We also have a turnatable for automated scans of small objects.
+
+[software & manual](https://forum.jimumeta.com/home/help/support/product/4f5a539fb98540b28f7c6baf1e2fcb78.html)
+
+### recommended smartphone apps
+
+**Scaniverse** free app for photogrammetry & gaussian splat scan [link](https://scaniverse.com/)
+**reality scan** free app for photogrammetry scan [link](https://www.realityscan.com/de)
+**Luma AI** free app for NeRF scans (neural radiance fields) [link](https://lumalabs.ai)
+**polycam** best paid app with many features [link](https://poly.cam)
+
+### desktop apps
+
+open source phtogrammetry solution for Windows & linux [link](https://alicevision.org/view/meshroom.html)
 
 ### Blender
 
