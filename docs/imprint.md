@@ -9,7 +9,7 @@ Website: www.hpi.de / maker.hpi.de
 
 **Authorized Representative Managing Directors:**<br />
 Prof. Dr. Tobias Friedrich<br />
-Klaus Grünfelder<br />
+Dr. Henrik Haenecke<br />
 
 **Registry Office: Potsdam District Court**<br />
 Register Number: HRB 12184<br />
