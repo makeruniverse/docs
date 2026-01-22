@@ -121,7 +121,7 @@ The Seal is a structured light scanner with a resolution of 0.01 mm, it works we
 We have the smart grip addon which can be used in combination with a smartphone to enable mobile scanning (e.g. our iPhone 14 pro)
 We also have a turnatable for automated scans of small objects.
 
-[software & manual](https://forum.jimumeta.com/home/help/support/product/4f5a539fb98540b28f7c6baf1e2fcb78.html)
+[software & manual](https://forum.jimumeta.com/home/help/download.html)
 
 1.) Download **JMStudio** for Mac or Windows, or use one of the PCs in the Media Studio.
 2.) Import the **calibration file** (File > Import Calib) – choose **network download** and enter this serial: **JMS2003841**.
