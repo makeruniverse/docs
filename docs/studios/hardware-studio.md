@@ -123,9 +123,9 @@ We also have a turnatable for automated scans of small objects.
 
 [software & manual](https://forum.jimumeta.com/home/help/download.html)
 
-1.) Download **JMStudio** for Mac or Windows, or use one of the PCs in the Media Studio.
-2.) Import the **calibration file** (File > Import Calib) – choose **network download** and enter this serial: **JMS2003841**.
-3.) Optionally, scan without a computer using the **Smart Grip** with JMStudio Mobile App (iOS/Android, download from the link above).
+1.) Download **JMStudio** for Mac or Windows, or use one of the PCs in the Media Studio.<br />
+2.) Import the **calibration file** (File > Import Calib) – choose **network download** and enter this serial: **JMS2003841**.<br />
+3.) Optionally, scan without a computer using the **Smart Grip** with JMStudio Mobile App (iOS/Android, download from the link above).<br />
 4.) To access scanned data on JMStudio desktop: File > Import from Device, then scan the QR code with the mobile app (both devices must be on the same WiFi network).
 
 
