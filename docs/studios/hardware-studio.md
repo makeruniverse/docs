@@ -13,12 +13,19 @@ Access to some of our machines / tools in the Hardware Studio is managed over [F
     <a class="button" href="https://access.maker.hpi.de/keyAssignment" target="_blank">Assign your HPI key to your Fabman Account</a>
 </div>
 
-The following machines / tools require authentication over Fabman:
+**The following machines / tools require authentication over Fabman:**
 
 | Machine / Tool | Mandatory Training |
 |-|-|
 | Laser Cutter | [How to Use the Laser Cutter](#how-to-use-the-laser-cutter) |
 | Soldering Stations | [How to use the Soldering Station](#how-to-use-the-soldering-station) |
+| Plotter | (No training required) |
+| Textile Station | (No training required) |
+
+**Workshops and Fabman:**
+
+To attend a workshop, you will need a Fabman account, as it is required to log in at the Workshop Terminal located in the entry area. Access is available from 30 minutes before until 30 minutes after the scheduled workshop time. If you have any questions, feel free to reach out to our team, we are happy to help!
+
 
 ## Poster Prints
 
@@ -167,6 +174,11 @@ After you have watched the video, you can click the button below to finish the t
 ### Materials
 
 ## Textile Workstation
+
+The Textile Workstation requires you to have a Fabman account in order to use it. Please make sure to create one using the button below.
+Using your smartphone, or by assigning you HPI key to your Fabman account, you will be able to power on the workstation.
+
+<a class="button" href="https://access.maker.hpi.de/" target="_blank">Create a Fabman Account</a>
 
 ### Sewing Station Part 1 / Fabric Basics & Preparation
 
