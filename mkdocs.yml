@@ -106,19 +106,11 @@ markdown_extensions:
   - md_in_html
 
 nav:
-  - Home:
-    - ./index.md
-  - Hardware Studio:
-    - ./studios/hardware-studio.md
-  - Media Studio:
-    - ./studios/media-studio.md
-  - Project Studio:
-    - ./studios/project-studio.md
-  - UX Studio:
-    - ./studios/ux-studio.md
-  - Workshops:
-    - ./workshops/workshops.md
-  - Team:  
-    - ./team/team.md
-  - Archive:
-    - ./workshops/previous-workshops.md
+  - Home: ./index.md
+  - Hardware Studio: ./studios/hardware-studio.md
+  - Media Studio: ./studios/media-studio.md
+  - Project Studio: ./studios/project-studio.md
+  - UX Studio: ./studios/ux-studio.md
+  - Workshops: ./workshops/workshops.md
+  - Team: ./team/team.md
+  - Archive: ./workshops/previous-workshops.md
