@@ -1,4 +1,4 @@
-**Hasso Plattner Institute for Digital Engineering gGmbH**<br />
+**Hasso-Plattner-Institut für Digital Engineering gGmbH**<br />
 Prof.-Dr.-Helmert-Str. 2-3<br />
 14482 Potsdam<br />
 Phone: +49 (0)331 5509-0<br />
