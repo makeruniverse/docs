@@ -9,6 +9,7 @@ Website: www.hpi.de / maker.hpi.de
 
 **Authorized Representative Managing Directors:**<br />
 Prof. Dr. Tobias Friedrich<br />
+Dr. Daniela Gerd tom Markotten<br />
 Dr. Henrik Haenecke<br />
 
 **Registry Office: Potsdam District Court**<br />
