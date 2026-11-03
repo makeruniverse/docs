@@ -1,6 +1,8 @@
-A studio test ideas and prototypes with users.
+A studio to test your ideas and prototypes with users.
 
-- Designing your research study
-- Recruiting participants
-- discuss how to use the UX Studio for your research work
-- guidance on tools
+Stop by our weekly office hours for help with:
+
+- Research study design
+- Participant recruitment
+- Getting the most out of the UX Studio
+- Tool recommendations and guidance
